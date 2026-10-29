@@ -1,0 +1,28 @@
+# Raw Gutenberg text (27.6 MB); scripts/fetch_dictionary.py recreates it
+data/raw/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Front end
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# Secrets (none are needed, but never commit them)
+*credentials*
+*.env
+.env*
+*.key
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

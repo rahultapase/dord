@@ -1,0 +1,26 @@
+[project]
+name = "ghost-words"
+version = "0.1.0"
+description = "A candlelit horror game: tell real forgotten 1913 Webster's words from fakes Gemma invents."
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.162.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.14.1",
+    "rapidfuzz>=3.14.6",
+    "uvicorn>=0.54.0",
+    "wordfreq>=3.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+pythonpath = ["."]
+markers = [
+    "ollama: needs a running local Ollama with the project models (deselect with -m 'not ollama')",
+]
