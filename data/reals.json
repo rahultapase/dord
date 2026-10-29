@@ -1,0 +1,2100 @@
+[
+ {
+  "id": "r001",
+  "word": "abscondence",
+  "pos": "n.",
+  "definition": "Fugitive concealment; secret retirement; hiding.",
+  "sense": "Fugitive concealment; secret retirement; hiding. [R.] Phillips.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "R."
+  ],
+  "pron": "Ab*scond\"ence",
+  "line": 3371
+ },
+ {
+  "id": "r002",
+  "word": "abusion",
+  "pos": "n.",
+  "definition": "Evil or corrupt usage; abuse; wrong; reproach; deception; cheat.",
+  "sense": "Evil or corrupt usage; abuse; wrong; reproach; deception; cheat. Chaucer.",
+  "quote": "",
+  "author": "",
+  "etym": "OE. abusion, abusioun, OF. abusion, fr. L. abusio misuse of words, f. abuti. See Abuse, v. t.",
+  "labels": [],
+  "pron": "A*bu\"sion",
+  "line": 4584
+ },
+ {
+  "id": "r003",
+  "word": "adustion",
+  "pos": "n.",
+  "definition": "The act of burning, or heating to dryness; the state of being thus heated or dried.",
+  "sense": "The act of burning, or heating to dryness; the state of being thus heated or dried. [Obs.] Harvey.",
+  "quote": "",
+  "author": "",
+  "etym": "L. adustio, fr. adurere, adustum: cf. F. adustion.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "A*dus\"tion",
+  "line": 14093
+ },
+ {
+  "id": "r004",
+  "word": "affabrous",
+  "pos": "a.",
+  "definition": "Executed in a workmanlike manner; ingeniously made.",
+  "sense": "Executed in a workmanlike manner; ingeniously made. [R.]",
+  "quote": "",
+  "author": "Bailey",
+  "etym": "L. affaber workmanlike; ad + faber.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Af\"fa*brous",
+  "line": 15906
+ },
+ {
+  "id": "r005",
+  "word": "alepole",
+  "pos": "n.",
+  "definition": "A pole set up as the sign of an alehouse.",
+  "sense": "A pole set up as the sign of an alehouse. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Ale\"pole`",
+  "line": 22148
+ },
+ {
+  "id": "r006",
+  "word": "aleuromancy",
+  "pos": "n.",
+  "definition": "Divination by means of flour.",
+  "sense": "Divination by means of flour. Encyc. Brit.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -mancy: cf. F. aleuromancie.",
+  "labels": [],
+  "pron": "A*leu\"ro*man`cy",
+  "line": 22230
+ },
+ {
+  "id": "r007",
+  "word": "amort",
+  "pos": "a.",
+  "definition": "As if dead; lifeless; spiritless; dejected; depressed.",
+  "sense": "As if dead; lifeless; spiritless; dejected; depressed. Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "Pref. a- + F. mort death, dead; all amort is for alamort.",
+  "labels": [],
+  "pron": "A*mort\"",
+  "line": 29407
+ },
+ {
+  "id": "r008",
+  "word": "anagogic",
+  "pos": "a.",
+  "definition": "Mystical; having a secondary spiritual meaning.",
+  "sense": "Mystical; having a secondary spiritual meaning; as, the rest of the Sabbath, in an anagogical sense, signifies the repose of the saints in heaven; an anagogical explication. -- An`a*gog\"ic*al*ly, adv.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "An`a*gog\"ic",
+  "line": 31245
+ },
+ {
+  "id": "r009",
+  "word": "animastic",
+  "pos": "a.",
+  "definition": "Pertaining to mind or spirit; spiritual.",
+  "sense": "Pertaining to mind or spirit; spiritual.",
+  "quote": "",
+  "author": "",
+  "etym": "L. anima breath, life.",
+  "labels": [],
+  "pron": "An`i*mas\"tic",
+  "line": 34665
+ },
+ {
+  "id": "r010",
+  "word": "arreptitious",
+  "pos": "a.",
+  "definition": "Snatched away; seized or possessed, as a demoniac; raving; mad; crack-brained.",
+  "sense": "Snatched away; seized or possessed, as a demoniac; raving; mad; crack-brained. [Obs.]",
+  "quote": "Odd, arreptitious, frantic extravagances.",
+  "author": "Howell",
+  "etym": "L. arreptitius.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Ar`rep*ti\"tious",
+  "line": 49614
+ },
+ {
+  "id": "r011",
+  "word": "asomatous",
+  "pos": "a.",
+  "definition": "Without a material body; incorporeal.",
+  "sense": "Without a material body; incorporeal. Todd.",
+  "quote": "",
+  "author": "",
+  "etym": "L. asomatus, Gr.",
+  "labels": [],
+  "pron": "A*so\"ma*tous",
+  "line": 52505
+ },
+ {
+  "id": "r012",
+  "word": "awless",
+  "pos": "a.",
+  "definition": "Wanting reverence; void of respectful fear.",
+  "sense": "Wanting reverence; void of respectful fear. \"Awless insolence.\" Dryden.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Aw\"less",
+  "line": 63286
+ },
+ {
+  "id": "r013",
+  "word": "balefire",
+  "pos": "n.",
+  "definition": "A signal fire; an alarm fire.",
+  "sense": "A signal fire; an alarm fire.",
+  "quote": "Sweet Teviot! on thy silver tide The glaring balefires blaze no more.",
+  "author": "Sir W. Scott",
+  "etym": "AS. b the fire of the b fire, flame (akin to Icel. bal, OSlav. b, white, Gr. bright, white, Skr. bhala brightness) + f, E. fire.",
+  "labels": [],
+  "pron": "Bale\"fire`",
+  "line": 67225
+ },
+ {
+  "id": "r014",
+  "word": "beblubber",
+  "pos": "v. t.",
+  "definition": "To make swollen and disfigured or sullied by weeping.",
+  "sense": "To make swollen and disfigured or sullied by weeping; as, her eyes or cheeks were beblubbered.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Be*blub\"ber",
+  "line": 76188
+ },
+ {
+  "id": "r015",
+  "word": "benight",
+  "pos": "v. t.",
+  "definition": "To involve in darkness; to shroud with the shades of night; to obscure.",
+  "sense": "To involve in darkness; to shroud with the shades of night; to obscure. [Archaic]",
+  "quote": "The clouds benight the sky.",
+  "author": "Garth",
+  "etym": "",
+  "labels": [
+   "Archaic"
+  ],
+  "pron": "Be*night\"",
+  "line": 80657
+ },
+ {
+  "id": "r016",
+  "word": "bestraught",
+  "pos": "a.",
+  "definition": "Out of one's senses; distracted; mad.",
+  "sense": "Out of one's senses; distracted; mad. [Obs.] Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "Pref. be- + straught; prob. here used for distraught.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Be*straught\"",
+  "line": 82573
+ },
+ {
+  "id": "r017",
+  "word": "beweep",
+  "pos": "v. t.",
+  "definition": "To weep over; to deplore; to bedew with tears.",
+  "sense": "To weep over; to deplore; to bedew with tears. \"His timeless death beweeping.\" Drayton.",
+  "quote": "",
+  "author": "",
+  "etym": "AS. bew; pref. be- + weep.",
+  "labels": [],
+  "pron": "Be*weep\"",
+  "line": 83476
+ },
+ {
+  "id": "r018",
+  "word": "bibliotaph",
+  "pos": "n.",
+  "definition": "One who hides away books, as in a tomb.",
+  "sense": "One who hides away books, as in a tomb. [R.] Crabb.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. book + a burial.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Bib\"li*o*taph",
+  "line": 84217
+ },
+ {
+  "id": "r019",
+  "word": "birthnight",
+  "pos": "n.",
+  "definition": "The night in which a person is born; the anniversary of that night in succeeding years.",
+  "sense": "The night in which a person is born; the anniversary of that night in succeeding years.",
+  "quote": "The angelic song in Bethlehem field, On thy birthnight, that sung thee Savior born.",
+  "author": "Milton",
+  "etym": "",
+  "labels": [],
+  "pron": "Birth\"night`",
+  "line": 87611
+ },
+ {
+  "id": "r020",
+  "word": "bragget",
+  "pos": "n.",
+  "definition": "A liquor made of ale and honey fermented, with spices, etc.",
+  "sense": "A liquor made of ale and honey fermented, with spices, etc. [Obs.] B. Jonson.",
+  "quote": "",
+  "author": "",
+  "etym": "OE. braket, bragot, fr. W. bragawd, bragod, fr. brag malt.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Brag\"get",
+  "line": 102854
+ },
+ {
+  "id": "r021",
+  "word": "bridestake",
+  "pos": "n.",
+  "definition": "A stake or post set in the ground, for guests at a wedding to dance round.",
+  "sense": "A stake or post set in the ground, for guests at a wedding to dance round.",
+  "quote": "Divide the broad bridecake Round about the bridestake.",
+  "author": "B. Jonson",
+  "etym": "",
+  "labels": [],
+  "pron": "Bride\"stake`",
+  "line": 106616
+ },
+ {
+  "id": "r022",
+  "word": "carmot",
+  "pos": "n.",
+  "definition": "The matter of which the philosopher's stone was believed to be composed.",
+  "sense": "The matter of which the philosopher's stone was believed to be composed.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Car\"mot",
+  "line": 128050
+ },
+ {
+  "id": "r023",
+  "word": "carnivoracity",
+  "pos": "n.",
+  "definition": "Greediness of appetite for flesh.",
+  "sense": "Greediness of appetite for flesh. [Sportive.] Pope.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Car*niv`o*rac\"i*ty",
+  "line": 128266
+ },
+ {
+  "id": "r024",
+  "word": "cerement",
+  "pos": "n.",
+  "definition": "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+  "sense": "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+  "quote": "",
+  "author": "",
+  "etym": "L. cera wax: cf. F. cirement.",
+  "labels": [],
+  "pron": "Cere\"ment",
+  "line": 136631
+ },
+ {
+  "id": "r025",
+  "word": "ceromancy",
+  "pos": "n.",
+  "definition": "Divination by dropping melted wax in water.",
+  "sense": "Divination by dropping melted wax in water.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -mancy.",
+  "labels": [],
+  "pron": "Cer\"o*man`cy",
+  "line": 136916
+ },
+ {
+  "id": "r026",
+  "word": "clinquant",
+  "pos": "a.",
+  "definition": "Glittering; dressed in, or overlaid with, tinsel finery.",
+  "sense": "Glittering; dressed in, or overlaid with, tinsel finery. [Obs.]",
+  "quote": "",
+  "author": "Shak",
+  "etym": "F.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Clin\"quant",
+  "line": 155763
+ },
+ {
+  "id": "r027",
+  "word": "cloop",
+  "pos": "n.",
+  "definition": "The sound made when a cork is forcibly drawn from a bottle.",
+  "sense": "The sound made when a cork is forcibly drawn from a bottle.",
+  "quote": "\"The cloop of a cork wrenched from a bottle.\"",
+  "author": "Thackeray",
+  "etym": "An onomatopoeia.",
+  "labels": [],
+  "pron": "Cloop",
+  "line": 156331
+ },
+ {
+  "id": "r028",
+  "word": "commorient",
+  "pos": "a.",
+  "definition": "Dying together or at the same time.",
+  "sense": "Dying together or at the same time. [R.] Sir G. Buck.",
+  "quote": "",
+  "author": "",
+  "etym": "L. commoriens, p. pr. of commoriri.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Com*mo\"ri*ent",
+  "line": 167453
+ },
+ {
+  "id": "r029",
+  "word": "coranach",
+  "pos": "n.",
+  "definition": "A lamentation for the dead; a dirge.",
+  "sense": "A lamentation for the dead; a dirge. [Written also coranich, corrinoch, coronach, cronach, etc.] [Scot.]",
+  "quote": "",
+  "author": "",
+  "etym": "Gael. coranach, or corranach, a crying, the Irish funeral cry (the keen), a dirge; comh with + ranaich a roaring, ran to roar, shriek.",
+  "labels": [
+   "Scot."
+  ],
+  "pron": "Cor\"a*nach",
+  "line": 187183
+ },
+ {
+  "id": "r030",
+  "word": "coscinomancy",
+  "pos": "n.",
+  "definition": "Divination by means of a suspended sieve.",
+  "sense": "Divination by means of a suspended sieve.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -mancy.",
+  "labels": [],
+  "pron": "Cos*cin\"o*man`cy",
+  "line": 190543
+ },
+ {
+  "id": "r031",
+  "word": "cruciation",
+  "pos": "n.",
+  "definition": "The act of torturing; torture; torment.",
+  "sense": "The act of torturing; torture; torment. [Obs.] Bp. Hall.",
+  "quote": "",
+  "author": "",
+  "etym": "LL. cruciatio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Cru`ci*a\"tion",
+  "line": 203163
+ },
+ {
+  "id": "r032",
+  "word": "darkle",
+  "pos": "v. i.",
+  "definition": "To grow dark; to show indistinctly.",
+  "sense": "To grow dark; to show indistinctly. Thackeray.",
+  "quote": "",
+  "author": "",
+  "etym": "Freq. of dark.",
+  "labels": [],
+  "pron": "Dar\"kle",
+  "line": 213217
+ },
+ {
+  "id": "r033",
+  "word": "dastardize",
+  "pos": "v. t.",
+  "definition": "To make cowardly; to intimidate; to dispirit.",
+  "sense": "To make cowardly; to intimidate; to dispirit; as, to dastardize my courage. Dryden.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Das\"tard*ize",
+  "line": 213720
+ },
+ {
+  "id": "r034",
+  "word": "deadhearted",
+  "pos": "a.",
+  "definition": "Having a dull, faint heart; spiritless; listless.",
+  "sense": "Having a dull, faint heart; spiritless; listless.",
+  "quote": "-- Dead\"*heart`ed*ness, n.",
+  "author": "Bp. Hall",
+  "etym": "",
+  "labels": [],
+  "pron": "Dead\"*heart`ed",
+  "line": 214951
+ },
+ {
+  "id": "r035",
+  "word": "decharm",
+  "pos": "v. t.",
+  "definition": "To free from a charm; to disenchant.",
+  "sense": "To free from a charm; to disenchant.",
+  "quote": "",
+  "author": "",
+  "etym": "Cf. F. décharmer. See Charm.",
+  "labels": [],
+  "pron": "De*charm\"",
+  "line": 217254
+ },
+ {
+  "id": "r036",
+  "word": "delirament",
+  "pos": "n.",
+  "definition": "A wandering of the mind; a crazy fancy.",
+  "sense": "A wandering of the mind; a crazy fancy. [Obs.] Heywood.",
+  "quote": "",
+  "author": "",
+  "etym": "L. deliramentum, fr. delirare. See Delirium.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "De*lir\"a*ment",
+  "line": 223389
+ },
+ {
+  "id": "r037",
+  "word": "demiwolf",
+  "pos": "n.",
+  "definition": "A half wolf; a mongrel dog, between a dog and a wolf.",
+  "sense": "A half wolf; a mongrel dog, between a dog and a wolf.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Dem\"i*wolf`",
+  "line": 224704
+ },
+ {
+  "id": "r038",
+  "word": "digladiate",
+  "pos": "v. i.",
+  "definition": "To fight like gladiators; to contend fiercely; to dispute violently.",
+  "sense": "To fight like gladiators; to contend fiercely; to dispute violently. [Obs.]",
+  "quote": "Digladiating like Æschines and Demosthenes.",
+  "author": "Hales",
+  "etym": "L. digladiari; di- = dis- + gladius a sword.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Di*gla\"di*ate",
+  "line": 238056
+ },
+ {
+  "id": "r039",
+  "word": "dilacerate",
+  "pos": "v. t.",
+  "definition": "To rend asunder; to tear to pieces.",
+  "sense": "To rend asunder; to tear to pieces. Sir T. Browne.",
+  "quote": "",
+  "author": "",
+  "etym": "L. dilaceratus, p. p. of dilacerare to tear apart; di- = dis- + lacerare to tear.",
+  "labels": [],
+  "pron": "Di*lac\"er*ate",
+  "line": 238370
+ },
+ {
+  "id": "r040",
+  "word": "dilaniate",
+  "pos": "v. t.",
+  "definition": "To rend in pieces; to tear.",
+  "sense": "To rend in pieces; to tear. [R.] Howell.",
+  "quote": "",
+  "author": "",
+  "etym": "L. dilaniatus, p. p. of dilaniare to dilacerate; di- = dis- + laniare to tear to pieces.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Di*la\"ni*ate",
+  "line": 238382
+ },
+ {
+  "id": "r041",
+  "word": "diremption",
+  "pos": "n.",
+  "definition": "A tearing apart; violent separation.",
+  "sense": "A tearing apart; violent separation. [Obs.] Bp. Hall.",
+  "quote": "",
+  "author": "",
+  "etym": "L. diremptio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Di*remp\"tion",
+  "line": 241087
+ },
+ {
+  "id": "r042",
+  "word": "dominicide",
+  "pos": "n.",
+  "definition": "The act of killing a master.",
+  "sense": "The act of killing a master.",
+  "quote": "",
+  "author": "",
+  "etym": "L. dominus master + caedere to cut down, kill.",
+  "labels": [],
+  "pron": "Do*min\"i*cide",
+  "line": 256936
+ },
+ {
+  "id": "r043",
+  "word": "effascination",
+  "pos": "n.",
+  "definition": "A charming; state of being bewitched or deluded.",
+  "sense": "A charming; state of being bewitched or deluded. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. effascinatio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Ef*fas`ci*na\"tion",
+  "line": 272780
+ },
+ {
+  "id": "r044",
+  "word": "egritude",
+  "pos": "n.",
+  "definition": "Sickness; ailment; sorrow.",
+  "sense": "Sickness; ailment; sorrow. [Obs.] Sir T. Elyot.",
+  "quote": "",
+  "author": "",
+  "etym": "L. aegritudo, fr. aeger sick.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "E\"gri*tude",
+  "line": 274123
+ },
+ {
+  "id": "r045",
+  "word": "eloge",
+  "pos": "n.",
+  "definition": "A panegyrical funeral oration.",
+  "sense": "A panegyrical funeral oration.",
+  "quote": "",
+  "author": "",
+  "etym": "F. See Elogium.",
+  "labels": [],
+  "pron": "e`loge\"",
+  "line": 277723
+ },
+ {
+  "id": "r046",
+  "word": "embeam",
+  "pos": "v. t.",
+  "definition": "To make brilliant with beams.",
+  "sense": "To make brilliant with beams. [R.] G. Fletcher.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "R."
+  ],
+  "pron": "Em*beam\"",
+  "line": 278825
+ },
+ {
+  "id": "r047",
+  "word": "eremacausis",
+  "pos": "n.",
+  "definition": "A gradual oxidation from exposure to air and moisture, as in the decay of old trees or of dead animals.",
+  "sense": "A gradual oxidation from exposure to air and moisture, as in the decay of old trees or of dead animals.",
+  "quote": "",
+  "author": "",
+  "etym": "NL., fr. Gr.",
+  "labels": [],
+  "pron": "Er`e*ma*cau\"sis",
+  "line": 293138
+ },
+ {
+  "id": "r048",
+  "word": "exustion",
+  "pos": "n.",
+  "definition": "The act or operation of burning up.",
+  "sense": "The act or operation of burning up. Bailey.",
+  "quote": "",
+  "author": "",
+  "etym": "L. exustio, fr. exurere, exustum, to burn up; ex out + urere to burn.",
+  "labels": [],
+  "pron": "Ex*us\"tion",
+  "line": 308516
+ },
+ {
+  "id": "r049",
+  "word": "fascinous",
+  "pos": "a.",
+  "definition": "Caused or acting by witchcraft.",
+  "sense": "Caused or acting by witchcraft. [Obs.] \"Fascinous diseases.\" Harvey.",
+  "quote": "",
+  "author": "",
+  "etym": "L. fascinum witchcraft, akin to fascinare. See Fascinate.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Fas\"ci*nous",
+  "line": 314143
+ },
+ {
+  "id": "r050",
+  "word": "fatiferous",
+  "pos": "a.",
+  "definition": "Fate-bringing; deadly; mortal; destructive.",
+  "sense": "Fate-bringing; deadly; mortal; destructive. [R.] Johnson.",
+  "quote": "",
+  "author": "",
+  "etym": "L. fatifer; fatum fate + ferre to bear, bring.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Fa*tif\"er*ous",
+  "line": 315000
+ },
+ {
+  "id": "r051",
+  "word": "figary",
+  "pos": "n.",
+  "definition": "A frolic; a vagary; a whim.",
+  "sense": "A frolic; a vagary; a whim. [Obs.] Beau. & Fl.",
+  "quote": "",
+  "author": "",
+  "etym": "Corrupted fr. vagary.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Fig\"a*ry",
+  "line": 321870
+ },
+ {
+  "id": "r052",
+  "word": "fogbow",
+  "pos": "n.",
+  "definition": "A nebulous arch, or bow, of white or yellowish light sometimes seen in fog, etc.",
+  "sense": "A nebulous arch, or bow, of white or yellowish light sometimes seen in fog, etc.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Fog\"bow`",
+  "line": 333487
+ },
+ {
+  "id": "r053",
+  "word": "foretoken",
+  "pos": "n.",
+  "definition": "Prognostic; previous omen.",
+  "sense": "Prognostic; previous omen. Sir P. Sidney.",
+  "quote": "",
+  "author": "",
+  "etym": "AS. foretacen. See Token.",
+  "labels": [],
+  "pron": "Fore\"to`ken",
+  "line": 337820
+ },
+ {
+  "id": "r054",
+  "word": "frumenty",
+  "pos": "n.",
+  "definition": "Food made of hulled wheat boiled in milk, with sugar, plums, etc.",
+  "sense": "Food made of hulled wheat boiled in milk, with sugar, plums, etc. [Written also furmenty and furmity.] Halliwell.",
+  "quote": "",
+  "author": "",
+  "etym": "OF. fromentée, fr. L. frumentum. See Frumentaceous.",
+  "labels": [],
+  "pron": "Fru\"men*ty",
+  "line": 346687
+ },
+ {
+  "id": "r055",
+  "word": "fuliginous",
+  "pos": "a.",
+  "definition": "Pertaining to soot; sooty; dark; dusky.",
+  "sense": "Pertaining to soot; sooty; dark; dusky.",
+  "quote": "",
+  "author": "",
+  "etym": "L. fuliginosus, from fuligo soot: cf. F. fuligineux. See Fume.",
+  "labels": [],
+  "pron": "Fu*lig\"i*nous",
+  "line": 347495
+ },
+ {
+  "id": "r056",
+  "word": "funebrial",
+  "pos": "a.",
+  "definition": "Pertaining to a funeral or funerals; funeral; funereal.",
+  "sense": "Pertaining to a funeral or funerals; funeral; funereal. [Obs.]",
+  "quote": "[Written also funebral.]",
+  "author": "Sir T. Browne",
+  "etym": "L. funebris belonging to a funeral, fr. funus funeral.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Fu*ne\"bri*al",
+  "line": 348592
+ },
+ {
+  "id": "r057",
+  "word": "fustilarian",
+  "pos": "n.",
+  "definition": "A low fellow; a stinkard; a scoundrel.",
+  "sense": "A low fellow; a stinkard; a scoundrel. [Obs.] Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "From Fusty.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Fus\"ti*la\"ri*an",
+  "line": 349904
+ },
+ {
+  "id": "r058",
+  "word": "gashful",
+  "pos": "a.",
+  "definition": "Full of gashes; hideous; frightful.",
+  "sense": "Full of gashes; hideous; frightful. [Obs.] \"A gashful, horrid, ugly shape.\" Gayton.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Gash\"ful",
+  "line": 354513
+ },
+ {
+  "id": "r059",
+  "word": "geloscopy",
+  "pos": "n.",
+  "definition": "Divination by means of laughter.",
+  "sense": "Divination by means of laughter.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -scopy.",
+  "labels": [],
+  "pron": "Ge*los\"copy",
+  "line": 356633
+ },
+ {
+  "id": "r060",
+  "word": "girandole",
+  "pos": "n.",
+  "definition": "An ornamental branched candlestick.",
+  "sense": "An ornamental branched candlestick.",
+  "quote": "",
+  "author": "",
+  "etym": "F. See Gyrate.",
+  "labels": [],
+  "pron": "Gir\"an*dole",
+  "line": 361476
+ },
+ {
+  "id": "r061",
+  "word": "grume",
+  "pos": "n.",
+  "definition": "A thick, viscid fluid; a clot, as of blood.",
+  "sense": "A thick, viscid fluid; a clot, as of blood. Quincy.",
+  "quote": "",
+  "author": "",
+  "etym": "OF. grume, cf. F. grumeau a little heap, clot of blood, dim. fr. L. grumus.",
+  "labels": [],
+  "pron": "Grume",
+  "line": 377053
+ },
+ {
+  "id": "r062",
+  "word": "hariolation",
+  "pos": "n.",
+  "definition": "Prognostication; soothsaying.",
+  "sense": "Prognostication; soothsaying. [Obs.] Cockeram.",
+  "quote": "",
+  "author": "",
+  "etym": "See Ariolation.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Har`i*o*la\"tion",
+  "line": 386352
+ },
+ {
+  "id": "r063",
+  "word": "hearsecloth",
+  "pos": "n.",
+  "definition": "A cloth for covering a coffin when on a bier; a pall.",
+  "sense": "A cloth for covering a coffin when on a bier; a pall. Bp.",
+  "quote": "",
+  "author": "Sanderson",
+  "etym": "",
+  "labels": [],
+  "pron": "Hearse\"cloth`",
+  "line": 390219
+ },
+ {
+  "id": "r064",
+  "word": "hellbroth",
+  "pos": "n.",
+  "definition": "A composition for infernal purposes; a magical preparation.",
+  "sense": "A composition for infernal purposes; a magical preparation.",
+  "quote": "",
+  "author": "Shak",
+  "etym": "",
+  "labels": [],
+  "pron": "Hell\"broth`",
+  "line": 392899
+ },
+ {
+  "id": "r065",
+  "word": "hippocras",
+  "pos": "n.",
+  "definition": "A cordial made of spiced wine, etc.",
+  "sense": "A cordial made of spiced wine, etc.",
+  "quote": "",
+  "author": "",
+  "etym": "F. hippocras, hypocras, NL. vinum hippocraticum, lit., wine of Hippocrates.",
+  "labels": [],
+  "pron": "Hip\"po*cras",
+  "line": 399970
+ },
+ {
+  "id": "r066",
+  "word": "horrisonous",
+  "pos": "a.",
+  "definition": "Sounding dreadfully; uttering a terrible sound.",
+  "sense": "Sounding dreadfully; uttering a terrible sound. [Obs.] Bailey.",
+  "quote": "",
+  "author": "",
+  "etym": "L. horrisonus; horrere to be horrible + sonus a sound.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Hor*ris\"o*nous",
+  "line": 406552
+ },
+ {
+  "id": "r067",
+  "word": "hyperphysical",
+  "pos": "a.",
+  "definition": "Above or transcending physical laws; supernatural.",
+  "sense": "Above or transcending physical laws; supernatural.",
+  "quote": "Those who do not fly to some hyperphysical hypothesis.",
+  "author": "Sir W. Hamilton",
+  "etym": "",
+  "labels": [],
+  "pron": "Hy`per*phys\"ic*al",
+  "line": 414307
+ },
+ {
+  "id": "r068",
+  "word": "idolum",
+  "pos": "n.",
+  "definition": "Appearance or image; a phantasm; a spectral image; also, a mental image or idea.",
+  "sense": "Appearance or image; a phantasm; a spectral image; also, a mental image or idea.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "I*do\"lum",
+  "line": 417616
+ },
+ {
+  "id": "r069",
+  "word": "ignigenous",
+  "pos": "a.",
+  "definition": "Produced by the action of fire, as lava.",
+  "sense": "Produced by the action of fire, as lava. [R.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. ignigenus; ignis fire + genere, ginere, to beget, produce.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Ig*nig\"e*nous",
+  "line": 417768
+ },
+ {
+  "id": "r070",
+  "word": "immask",
+  "pos": "v. t.",
+  "definition": "To cover, as with a mask; to disguise or conceal.",
+  "sense": "To cover, as with a mask; to disguise or conceal. [R.] Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "R."
+  ],
+  "pron": "Im*mask\"",
+  "line": 420409
+ },
+ {
+  "id": "r071",
+  "word": "incension",
+  "pos": "n.",
+  "definition": "The act of kindling, or the state of being kindled or on fire.",
+  "sense": "The act of kindling, or the state of being kindled or on fire.",
+  "quote": "",
+  "author": "Bacon",
+  "etym": "L. incensio. See Incense to inflame.",
+  "labels": [],
+  "pron": "In*cen\"sion",
+  "line": 427700
+ },
+ {
+  "id": "r072",
+  "word": "incremate",
+  "pos": "v. t.",
+  "definition": "To consume or reduce to ashes by burning, as a dead body; to cremate.",
+  "sense": "To consume or reduce to ashes by burning, as a dead body; to cremate.",
+  "quote": "",
+  "author": "",
+  "etym": "Pref. in- in + cremate.",
+  "labels": [],
+  "pron": "In\"cre*mate",
+  "line": 430895
+ },
+ {
+  "id": "r073",
+  "word": "infelt",
+  "pos": "a.",
+  "definition": "Felt inwardly; heartfelt.",
+  "sense": "Felt inwardly; heartfelt. [R.]",
+  "quote": "The baron stood afar off, or knelt in submissive, acknowledged, infelt inferiority.",
+  "author": "Milman",
+  "etym": "Pref. in- in + felt.",
+  "labels": [
+   "R."
+  ],
+  "pron": "In\"felt`",
+  "line": 437182
+ },
+ {
+  "id": "r074",
+  "word": "infestive",
+  "pos": "a.",
+  "definition": "Having no mirth; not festive or merry; dull; cheerless; gloomy; forlorn.",
+  "sense": "Having no mirth; not festive or merry; dull; cheerless; gloomy; forlorn. [R.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. infestivus. See In- not, and Festive.",
+  "labels": [
+   "R."
+  ],
+  "pron": "In*fest\"ive",
+  "line": 437454
+ },
+ {
+  "id": "r075",
+  "word": "infestuous",
+  "pos": "a.",
+  "definition": "Mischievous; harmful; dangerous.",
+  "sense": "Mischievous; harmful; dangerous. [Obs.] \"Infestuous as serpents.\" Bacon.",
+  "quote": "",
+  "author": "",
+  "etym": "L. infestus. See Infest, a.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "In*fes\"tu*ous",
+  "line": 437466
+ },
+ {
+  "id": "r076",
+  "word": "infrigidation",
+  "pos": "n.",
+  "definition": "The act of chilling or causing to become cold; a chilling; coldness; congelation.",
+  "sense": "The act of chilling or causing to become cold; a chilling; coldness; congelation. [Obs.] Boyle.",
+  "quote": "",
+  "author": "",
+  "etym": "L. infrigidatio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "In*frig`i*da\"tion",
+  "line": 438890
+ },
+ {
+  "id": "r077",
+  "word": "insoul",
+  "pos": "v. t.",
+  "definition": "To set a soul in; reflexively, to fix one's strongest affections on.",
+  "sense": "To set a soul in; reflexively, to fix one's strongest affections on. [Obs.] Jer. Taylor.",
+  "quote": "[He] could not but insoul himself in her.",
+  "author": "Feltham",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "In*soul\"",
+  "line": 444204
+ },
+ {
+  "id": "r078",
+  "word": "interlunar",
+  "pos": "a.",
+  "definition": "Belonging or pertaining to the time when the moon, at or near its conjunction with the sun, is invisible.",
+  "sense": "Belonging or pertaining to the time when the moon, at or near its conjunction with the sun, is invisible. Milton.",
+  "quote": "",
+  "author": "",
+  "etym": "Pref. inter- + lunar: cf. L. interlunis.",
+  "labels": [],
+  "pron": "In`ter*lu\"nar",
+  "line": 448705
+ },
+ {
+  "id": "r079",
+  "word": "internecion",
+  "pos": "n.",
+  "definition": "Mutual slaughter or destruction; massacre.",
+  "sense": "Mutual slaughter or destruction; massacre. [Obs.] Sir M. Hale.",
+  "quote": "",
+  "author": "",
+  "etym": "L. internecio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "In`ter*ne\"cion",
+  "line": 449360
+ },
+ {
+  "id": "r080",
+  "word": "inustion",
+  "pos": "n.",
+  "definition": "The act of burning or branding.",
+  "sense": "The act of burning or branding. [Obs.] T. Adams.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "In*us\"tion",
+  "line": 452643
+ },
+ {
+  "id": "r081",
+  "word": "lachrymation",
+  "pos": "n.",
+  "definition": "The act of shedding tears; weeping.",
+  "sense": "The act of shedding tears; weeping.",
+  "quote": "",
+  "author": "",
+  "etym": "L. lacrimatio, from lacrimare to shed tears, fr. lacrima tear.",
+  "labels": [],
+  "pron": "Lach`ry*ma\"tion",
+  "line": 475102
+ },
+ {
+  "id": "r082",
+  "word": "latitation",
+  "pos": "n.",
+  "definition": "A lying in concealment; hiding.",
+  "sense": "A lying in concealment; hiding. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. latitatio.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Lat`i*ta\"tion",
+  "line": 481250
+ },
+ {
+  "id": "r083",
+  "word": "leasy",
+  "pos": "a.",
+  "definition": "Flimsy; vague; deceptive.",
+  "sense": "Flimsy; vague; deceptive. [Obs.] Ascham.",
+  "quote": "",
+  "author": "",
+  "etym": "AS. leás void, loose, false. Cf. Leasing.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Lea\"sy",
+  "line": 484448
+ },
+ {
+  "id": "r084",
+  "word": "lexiphanicism",
+  "pos": "n.",
+  "definition": "The use of pretentious words, language, or style.",
+  "sense": "The use of pretentious words, language, or style.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Lex`i*phan\"i*cism",
+  "line": 489113
+ },
+ {
+  "id": "r085",
+  "word": "litherly",
+  "pos": "a.",
+  "definition": "Crafty; cunning; mischievous; wicked; treacherous; lazy.",
+  "sense": "Crafty; cunning; mischievous; wicked; treacherous; lazy.[Archaic]",
+  "quote": "He [the dwarf] was waspish, arch, and litherly.",
+  "author": "Sir W. Scott",
+  "etym": "",
+  "labels": [
+   "Archaic"
+  ],
+  "pron": "Li\"ther*ly",
+  "line": 495878
+ },
+ {
+  "id": "r086",
+  "word": "lunarian",
+  "pos": "n.",
+  "definition": "An inhabitant of the moon.",
+  "sense": "An inhabitant of the moon.",
+  "quote": "",
+  "author": "",
+  "etym": "See Lunar, Luna.",
+  "labels": [],
+  "pron": "Lu*na\"ri*an",
+  "line": 504374
+ },
+ {
+  "id": "r087",
+  "word": "lunet",
+  "pos": "n.",
+  "definition": "A little moon or satellite.",
+  "sense": "A little moon or satellite. [Obs.] Bp. Hall.",
+  "quote": "",
+  "author": "",
+  "etym": "See Lunette.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Lu\"net",
+  "line": 504462
+ },
+ {
+  "id": "r088",
+  "word": "manqueller",
+  "pos": "n.",
+  "definition": "A killer of men; a manslayer.",
+  "sense": "A killer of men; a manslayer. [Obs.] Carew.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Man\"quell`er",
+  "line": 514317
+ },
+ {
+  "id": "r089",
+  "word": "mellifluence",
+  "pos": "n.",
+  "definition": "A flow of sweetness, or a sweet, smooth flow.",
+  "sense": "A flow of sweetness, or a sweet, smooth flow.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Mel*lif\"lu*ence",
+  "line": 524568
+ },
+ {
+  "id": "r090",
+  "word": "metheglin",
+  "pos": "n.",
+  "definition": "A fermented beverage made of honey and water; mead.",
+  "sense": "A fermented beverage made of honey and water; mead. Gay.",
+  "quote": "",
+  "author": "",
+  "etym": "W. meddyglyn; medd mead + llyn liquor, juice. See Mead a drink.",
+  "labels": [],
+  "pron": "Me*theg\"lin",
+  "line": 529905
+ },
+ {
+  "id": "r091",
+  "word": "mistide",
+  "pos": "v. i.",
+  "definition": "To happen or come to pass unfortunately; also, to suffer evil fortune.",
+  "sense": "To happen or come to pass unfortunately; also, to suffer evil fortune. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "AS. mistidan. See Tide.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Mis*tide\"",
+  "line": 538425
+ },
+ {
+  "id": "r092",
+  "word": "misween",
+  "pos": "v. i.",
+  "definition": "To ween amiss; to misjudge; to distrust; to be mistaken.",
+  "sense": "To ween amiss; to misjudge; to distrust; to be mistaken. [Obs.]",
+  "quote": "",
+  "author": "Spenser",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Mis*ween\"",
+  "line": 538781
+ },
+ {
+  "id": "r093",
+  "word": "monomachist",
+  "pos": "n.",
+  "definition": "One who fights in single combat; a duelist.",
+  "sense": "One who fights in single combat; a duelist.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Mo*nom\"a*chist",
+  "line": 543558
+ },
+ {
+  "id": "r094",
+  "word": "moonglade",
+  "pos": "n.",
+  "definition": "The bright reflection of the moon's light on an expanse of water.",
+  "sense": "The bright reflection of the moon's light on an expanse of water. [Poetic]",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Poetic"
+  ],
+  "pron": "Moon\"glade`",
+  "line": 544901
+ },
+ {
+  "id": "r095",
+  "word": "nihility",
+  "pos": "n.",
+  "definition": "Nothingness; a state of being nothing.",
+  "sense": "Nothingness; a state of being nothing.",
+  "quote": "",
+  "author": "",
+  "etym": "Cf. F. nihilité. See Nihilism.",
+  "labels": [],
+  "pron": "Ni*hil\"i*ty",
+  "line": 564817
+ },
+ {
+  "id": "r096",
+  "word": "nugacity",
+  "pos": "n.",
+  "definition": "Futility; trifling talk or behavior; drollery.",
+  "sense": "Futility; trifling talk or behavior; drollery. [R.] Dr. H.",
+  "quote": "",
+  "author": "More",
+  "etym": "L. nugacitas, fr. nugax, -acis, trifling.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Nu*gac\"i*ty",
+  "line": 571196
+ },
+ {
+  "id": "r097",
+  "word": "nunchion",
+  "pos": "n.",
+  "definition": "A portion of food taken at or after noon, usually between full meals; a luncheon.",
+  "sense": "A portion of food taken at or after noon, usually between full meals; a luncheon. [Written also noonshun.] Hudibras.",
+  "quote": "",
+  "author": "",
+  "etym": "OE. nonechenche, for noneschenche, prop., a noon drink; none noon + schenchen, schenken, skinken, to pour, AS. scencan. See Noon, and Skink, v. i.",
+  "labels": [],
+  "pron": "Nun\"chion",
+  "line": 571793
+ },
+ {
+  "id": "r098",
+  "word": "obreptitious",
+  "pos": "a.",
+  "definition": "Done or obtained by surprise; with secrecy, or by concealment of the truth.",
+  "sense": "Done or obtained by surprise; with secrecy, or by concealment of the truth. [R.] Cotgrave.",
+  "quote": "",
+  "author": "",
+  "etym": "L. obreptitus. See Obreption.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Ob`rep*ti\"tious",
+  "line": 574428
+ },
+ {
+  "id": "r099",
+  "word": "obumbration",
+  "pos": "n.",
+  "definition": "Act of darkening or obscuring.",
+  "sense": "Act of darkening or obscuring. [R.] Sir T. More.",
+  "quote": "",
+  "author": "",
+  "etym": "L. obumbratio.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Ob`um*bra\"tion",
+  "line": 575647
+ },
+ {
+  "id": "r100",
+  "word": "occision",
+  "pos": "n.",
+  "definition": "A killing; the act of killing.",
+  "sense": "A killing; the act of killing. [Obs.] Sir M. Hale.",
+  "quote": "",
+  "author": "",
+  "etym": "L.occisio, fr. occidere, occisium, to cut down, to kill; ob (see Ob-) + caedere to cut.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Oc*ci\"sion",
+  "line": 575973
+ },
+ {
+  "id": "r101",
+  "word": "ogrism",
+  "pos": "n.",
+  "definition": "The character or manners of an ogre.",
+  "sense": "The character or manners of an ogre.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "O\"grism",
+  "line": 578861
+ },
+ {
+  "id": "r102",
+  "word": "omnivagant",
+  "pos": "a.",
+  "definition": "Wandering anywhere and everywhere.",
+  "sense": "Wandering anywhere and everywhere. [R.]",
+  "quote": "",
+  "author": "",
+  "etym": "Omni + L. vagans, p.pr. of vagari to wander.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Om*niv\"a*gant",
+  "line": 580447
+ },
+ {
+  "id": "r103",
+  "word": "omophagic",
+  "pos": "a.",
+  "definition": "Eating raw flesh; using uncooked meat as food.",
+  "sense": "Eating raw flesh; using uncooked meat as food; as, omophagic feasts, rites.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr.",
+  "labels": [],
+  "pron": "O\"mo*phag\"ic",
+  "line": 580481
+ },
+ {
+  "id": "r104",
+  "word": "oneirocritic",
+  "pos": "n.",
+  "definition": "An interpreter of dreams.",
+  "sense": "An interpreter of dreams. Bp. Warburton. Addison.",
+  "quote": "",
+  "author": "",
+  "etym": "Cf.F. oneirocritique. See Oneirocritic, a.",
+  "labels": [],
+  "pron": "O*nei`ro*crit`ic",
+  "line": 580979
+ },
+ {
+  "id": "r105",
+  "word": "oneiromancy",
+  "pos": "n.",
+  "definition": "Divination by means of dreams.",
+  "sense": "Divination by means of dreams. De Quincey.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -mancy.",
+  "labels": [],
+  "pron": "O*nei\"ro*man`cy",
+  "line": 580995
+ },
+ {
+  "id": "r106",
+  "word": "outfrown",
+  "pos": "v. t.",
+  "definition": "To frown down; to overbear by frowning.",
+  "sense": "To frown down; to overbear by frowning. Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Out*frown\"",
+  "line": 590374
+ },
+ {
+  "id": "r107",
+  "word": "outquench",
+  "pos": "v. t.",
+  "definition": "To quench entirely; to extinguish.",
+  "sense": "To quench entirely; to extinguish. \"The candlelight outquenched.\" Spenser.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Out*quench\"",
+  "line": 590988
+ },
+ {
+  "id": "r108",
+  "word": "owlery",
+  "pos": "n.",
+  "definition": "An abode or a haunt of owls.",
+  "sense": "An abode or a haunt of owls.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Owl\"er*y",
+  "line": 595944
+ },
+ {
+  "id": "r109",
+  "word": "parietine",
+  "pos": "n.",
+  "definition": "A piece of a fallen wall; a ruin.",
+  "sense": "A piece of a fallen wall; a ruin. [Obs.] Burton.",
+  "quote": "",
+  "author": "",
+  "etym": "L. parietinus parietal: cf. parietinae ruined walls.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Pa*ri\"e*tine",
+  "line": 605937
+ },
+ {
+  "id": "r110",
+  "word": "pernoctalian",
+  "pos": "n.",
+  "definition": "One who watches or keeps awake all night.",
+  "sense": "One who watches or keeps awake all night.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Per`noc*ta\"li*an",
+  "line": 620767
+ },
+ {
+  "id": "r111",
+  "word": "pesanted",
+  "pos": "a.",
+  "definition": "Made heavy or dull; debased.",
+  "sense": "Made heavy or dull; debased. [Obs.] \"Pesanted to each lewd thought's control.\" Marston.",
+  "quote": "",
+  "author": "",
+  "etym": "F. pesant heavy.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Pes\"ant*ed",
+  "line": 622747
+ },
+ {
+  "id": "r112",
+  "word": "queach",
+  "pos": "n.",
+  "definition": "A thick, bushy plot; a thicket.",
+  "sense": "A thick, bushy plot; a thicket. [Obs.] Chapman.",
+  "quote": "",
+  "author": "",
+  "etym": "Cf. Quick.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Queach",
+  "line": 683762
+ },
+ {
+  "id": "r113",
+  "word": "rawhead",
+  "pos": "n.",
+  "definition": "A specter mentioned to frighten children.",
+  "sense": "A specter mentioned to frighten children; as, rawhead and bloodybones.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Raw\"head`",
+  "line": 693693
+ },
+ {
+  "id": "r114",
+  "word": "ruinate",
+  "pos": "v. t.",
+  "definition": "To demolish; to subvert; to destroy; to reduce to poverty; to ruin.",
+  "sense": "To demolish; to subvert; to destroy; to reduce to poverty; to ruin.",
+  "quote": "I will not ruinate my fShak. Ruinating thereby the health of their bodies.",
+  "author": "Burton",
+  "etym": "LL. ruinatus, p.p. of ruinare to ruin. See Ruin.",
+  "labels": [],
+  "pron": "Ru\"in*ate",
+  "line": 733010
+ },
+ {
+  "id": "r115",
+  "word": "sanguineless",
+  "pos": "a.",
+  "definition": "Destitute of blood; pale.",
+  "sense": "Destitute of blood; pale. [R.]",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "R."
+  ],
+  "pron": "San\"guine*less",
+  "line": 741420
+ },
+ {
+  "id": "r116",
+  "word": "saulie",
+  "pos": "n.",
+  "definition": "A hired mourner at a funeral.",
+  "sense": "A hired mourner at a funeral. [Scot.] Sir W. Scott.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Scot."
+  ],
+  "pron": "Sau\"lie",
+  "line": 743894
+ },
+ {
+  "id": "r117",
+  "word": "sauseflem",
+  "pos": "a.",
+  "definition": "Having a red, pimpled face.",
+  "sense": "Having a red, pimpled face. [Obs.] [Written also sawceflem.]",
+  "quote": "",
+  "author": "Chaucer",
+  "etym": "OF. saus salt (L. salsus) + flemme phlegm.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Sau\"se*flem",
+  "line": 744043
+ },
+ {
+  "id": "r118",
+  "word": "scarmage",
+  "pos": "n.",
+  "definition": "A slight contest; a skirmish.",
+  "sense": "A slight contest; a skirmish. See Skirmish. [Obs.]",
+  "quote": "Such cruel game my scarmoges disarms.",
+  "author": "Spenser",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Scar\"mage",
+  "line": 746864
+ },
+ {
+  "id": "r119",
+  "word": "sciagraphy",
+  "pos": "n.",
+  "definition": "The art or science of projecting or delineating shadows as they fall in nature.",
+  "sense": "The art or science of projecting or delineating shadows as they fall in nature. Gwilt.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. sciagraphie.",
+  "labels": [],
+  "pron": "Sci*ag\"ra*phy",
+  "line": 748466
+ },
+ {
+  "id": "r120",
+  "word": "scotograph",
+  "pos": "n.",
+  "definition": "An instrument for writing in the dark, or without seeing.",
+  "sense": "An instrument for writing in the dark, or without seeing.",
+  "quote": "",
+  "author": "Maunder",
+  "etym": "Gr. sko`tos darkness + -graph.",
+  "labels": [],
+  "pron": "Scot\"o*graph",
+  "line": 750436
+ },
+ {
+  "id": "r121",
+  "word": "sepiment",
+  "pos": "n.",
+  "definition": "Something that separates; a hedge; a fence.",
+  "sense": "Something that separates; a hedge; a fence. [R.] Bailey.",
+  "quote": "",
+  "author": "",
+  "etym": "L. sepimentum, saepimentum, from sepire, saepire, to hedge in.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Sep\"i*ment",
+  "line": 763613
+ },
+ {
+  "id": "r122",
+  "word": "sideromancy",
+  "pos": "n.",
+  "definition": "Divination by burning straws on red-hot iron, and noting the manner of their burning.",
+  "sense": "Divination by burning straws on red-hot iron, and noting the manner of their burning. Craig.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -mancy.",
+  "labels": [],
+  "pron": "Sid\"er*o*man`cy",
+  "line": 777789
+ },
+ {
+  "id": "r123",
+  "word": "skelder",
+  "pos": "v. t. & i.",
+  "definition": "To deceive; to cheat; to trick.",
+  "sense": "To deceive; to cheat; to trick. [Obs.] B. Jonson.",
+  "quote": "",
+  "author": "",
+  "etym": "Etymol. uncertain.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Skel\"der",
+  "line": 783895
+ },
+ {
+  "id": "r124",
+  "word": "somniculous",
+  "pos": "a.",
+  "definition": "Inclined to sleep; drowsy; sleepy.",
+  "sense": "Inclined to sleep; drowsy; sleepy. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. somniculosus.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Som*nic\"u*lous",
+  "line": 797337
+ },
+ {
+  "id": "r125",
+  "word": "sororicide",
+  "pos": "n.",
+  "definition": "The murder of one's sister; also, one who murders or kills one's own sister.",
+  "sense": "The murder of one's sister; also, one who murders or kills one's own sister. Johnson.",
+  "quote": "",
+  "author": "",
+  "etym": "L. sororocida, and sororicidium; soror a sister + caedere to kill.",
+  "labels": [],
+  "pron": "So*ror\"i*cide",
+  "line": 798800
+ },
+ {
+  "id": "r126",
+  "word": "spright",
+  "pos": "n.",
+  "definition": "Spirit; mind; soul; state of mind; mood.",
+  "sense": "Spirit; mind; soul; state of mind; mood. [Obs.] \"The high heroic spright.\" Spenser.",
+  "quote": "Wondrous great grief groweth in my spright.",
+  "author": "Spenser",
+  "etym": "See Sprite.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Spright",
+  "line": 810308
+ },
+ {
+  "id": "r127",
+  "word": "sterve",
+  "pos": "v. t. & i.",
+  "definition": "To die, or cause to die; to perish.",
+  "sense": "To die, or cause to die; to perish. See Starve. [Obs.] Chaucer.",
+  "quote": "",
+  "author": "Spenser",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Sterve",
+  "line": 820823
+ },
+ {
+  "id": "r128",
+  "word": "stomachous",
+  "pos": "a.",
+  "definition": "Stout; sullen; obstinate.",
+  "sense": "Stout; sullen; obstinate. [Obs.]",
+  "quote": "With stern looks and stomachous disdain.",
+  "author": "Spenser",
+  "etym": "L. stomachosus angry, peexish. See Stomach.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Stom\"ach*ous",
+  "line": 823912
+ },
+ {
+  "id": "r129",
+  "word": "stramazoun",
+  "pos": "n.",
+  "definition": "A direct descending blow with the edge of a sword.",
+  "sense": "A direct descending blow with the edge of a sword. [Obs.] B.",
+  "quote": "",
+  "author": "Jonson",
+  "etym": "F. estramaçon, It. stramazzone.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Stram\"a*zoun",
+  "line": 826304
+ },
+ {
+  "id": "r130",
+  "word": "sublunar",
+  "pos": "a.",
+  "definition": "Situated beneath the moon; hence, of or pertaining to this world; terrestrial; earthly.",
+  "sense": "Situated beneath the moon; hence, of or pertaining to this world; terrestrial; earthly.",
+  "quote": "All things sublunary are subject to change. Dryden. All sublunary comforts imitate the changeableness, as well as feel the influence, of the planet they are under.",
+  "author": "South",
+  "etym": "Pref. sub + lunar, or lunary: cf. F. sublunaire.",
+  "labels": [],
+  "pron": "Sub*lu\"nar",
+  "line": 833582
+ },
+ {
+  "id": "r131",
+  "word": "telesm",
+  "pos": "n.",
+  "definition": "A kind of amulet or magical charm.",
+  "sense": "A kind of amulet or magical charm. [Obs.] J. Gregory.",
+  "quote": "",
+  "author": "",
+  "etym": "Ar. tilism. See Talisman.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Tel\"esm",
+  "line": 860517
+ },
+ {
+  "id": "r132",
+  "word": "thanatoid",
+  "pos": "a.",
+  "definition": "Deathlike; resembling death.",
+  "sense": "Deathlike; resembling death. Dunglison.",
+  "quote": "",
+  "author": "",
+  "etym": "Gr. -oid.",
+  "labels": [],
+  "pron": "Than\"a*toid",
+  "line": 867149
+ },
+ {
+  "id": "r133",
+  "word": "thurification",
+  "pos": "n.",
+  "definition": "The act of fuming with incense, or the act of burning incense.",
+  "sense": "The act of fuming with incense, or the act of burning incense.",
+  "quote": "",
+  "author": "",
+  "etym": "L. thus incense + -ficare (in comp.) to make. See -fy.",
+  "labels": [],
+  "pron": "Thu`ri*fi*ca\"tion",
+  "line": 874001
+ },
+ {
+  "id": "r134",
+  "word": "ticktack",
+  "pos": "n.",
+  "definition": "A noise like that made by a clock or a watch.",
+  "sense": "A noise like that made by a clock or a watch.",
+  "quote": "",
+  "author": "",
+  "etym": "See Tick to beat, to pat, and (for sense 2) cf. Tricktrack.",
+  "labels": [],
+  "pron": "Tick\"tack`",
+  "line": 874853
+ },
+ {
+  "id": "r135",
+  "word": "tourbillion",
+  "pos": "n.",
+  "definition": "An ornamental firework which turns round, when in the air, so as to form a scroll of fire.",
+  "sense": "An ornamental firework which turns round, when in the air, so as to form a scroll of fire. G. Francis.",
+  "quote": "",
+  "author": "",
+  "etym": "F. torbillion a whirlwind, tourbillion, fr. L. turbo, -inis, a whirl, whirlwind.",
+  "labels": [],
+  "pron": "Tour*bil\"lion",
+  "line": 884081
+ },
+ {
+  "id": "r136",
+  "word": "trunkwork",
+  "pos": "n.",
+  "definition": "Work or devices suitable to be concealed; a secret stratagem.",
+  "sense": "Work or devices suitable to be concealed; a secret stratagem. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Trunk\"work`",
+  "line": 897965
+ },
+ {
+  "id": "r137",
+  "word": "umbrate",
+  "pos": "v. t.",
+  "definition": "To shade; to shadow; to foreshadow.",
+  "sense": "To shade; to shadow; to foreshadow. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "L. umbratus, p. p. of umbrare to shade, fr. umbra a shade.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Um\"brate",
+  "line": 906199
+ },
+ {
+  "id": "r138",
+  "word": "unclew",
+  "pos": "v. t.",
+  "definition": "To unwind, unfold, or untie; hence, to undo; to ruin.",
+  "sense": "To unwind, unfold, or untie; hence, to undo; to ruin. Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "1st pref. un- + clew.",
+  "labels": [],
+  "pron": "Un*clew\"",
+  "line": 908308
+ },
+ {
+  "id": "r139",
+  "word": "uncreate",
+  "pos": "v. t.",
+  "definition": "To deprive of existence; to annihilate.",
+  "sense": "To deprive of existence; to annihilate.",
+  "quote": "Who can uncreate thee, thou shalt know.",
+  "author": "Milton",
+  "etym": "1st pref. un- + create.",
+  "labels": [],
+  "pron": "Un`cre*ate\"",
+  "line": 908970
+ },
+ {
+  "id": "r140",
+  "word": "uncurse",
+  "pos": "v. t.",
+  "definition": "To free from a curse or an execration.",
+  "sense": "To free from a curse or an execration. Shak.",
+  "quote": "",
+  "author": "",
+  "etym": "1st pref. un- + curse.",
+  "labels": [],
+  "pron": "Un*curse\"",
+  "line": 909146
+ },
+ {
+  "id": "r141",
+  "word": "undercreep",
+  "pos": "v. i.",
+  "definition": "To creep secretly or privily.",
+  "sense": "To creep secretly or privily. [Obs.] Wyclif.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Un`der*creep\"",
+  "line": 909730
+ },
+ {
+  "id": "r142",
+  "word": "undersong",
+  "pos": "n.",
+  "definition": "The burden of a song; the chorus; the refrain.",
+  "sense": "The burden of a song; the chorus; the refrain. Dryden.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Un\"der*song`",
+  "line": 910849
+ },
+ {
+  "id": "r143",
+  "word": "ungrave",
+  "pos": "v. t.",
+  "definition": "To raise or remove from the grave; to disinter; to untomb; to exhume.",
+  "sense": "To raise or remove from the grave; to disinter; to untomb; to exhume. [Obs.] Fuller.",
+  "quote": "",
+  "author": "",
+  "etym": "1 st pref. un- + grave.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Un*grave\"",
+  "line": 913035
+ },
+ {
+  "id": "r144",
+  "word": "unseel",
+  "pos": "v. t.",
+  "definition": "To open, as the eyes of a hawk that have been seeled; hence, to give light to; to enlighten.",
+  "sense": "To open, as the eyes of a hawk that have been seeled; hence, to give light to; to enlighten. [Obs.] B. Jonson.",
+  "quote": "",
+  "author": "",
+  "etym": "1st pref. un- + seel.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "Un*seel\"",
+  "line": 917671
+ },
+ {
+  "id": "r145",
+  "word": "unsoul",
+  "pos": "v. t.",
+  "definition": "To deprive of soul, spirit, or principle.",
+  "sense": "To deprive of soul, spirit, or principle. [R.] Shelton.",
+  "quote": "",
+  "author": "",
+  "etym": "1st pref. un- + soul.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Un*soul\"",
+  "line": 918147
+ },
+ {
+  "id": "r146",
+  "word": "ustorious",
+  "pos": "a.",
+  "definition": "Having the quality of burning.",
+  "sense": "Having the quality of burning. [R.] I. Watts.",
+  "quote": "",
+  "author": "",
+  "etym": "L. urere, ustum, to burn.",
+  "labels": [
+   "R."
+  ],
+  "pron": "Us*to\"ri*ous",
+  "line": 922715
+ },
+ {
+  "id": "r147",
+  "word": "vermiculose",
+  "pos": "a.",
+  "definition": "Containing, or full of, worms; resembling worms.",
+  "sense": "Containing, or full of, worms; resembling worms.",
+  "quote": "",
+  "author": "",
+  "etym": "L. vermiculosus. See Vermicule.",
+  "labels": [],
+  "pron": "Ver*mic\"u*lose`",
+  "line": 930868
+ },
+ {
+  "id": "r148",
+  "word": "vigesimation",
+  "pos": "n.",
+  "definition": "The act of putting to death every twentieth man.",
+  "sense": "The act of putting to death every twentieth man. [R.]",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [
+   "R."
+  ],
+  "pron": "Vi*ges`i*ma\"tion",
+  "line": 934095
+ },
+ {
+  "id": "r149",
+  "word": "warison",
+  "pos": "n.",
+  "definition": "Preparation; protection; provision; supply.",
+  "sense": "Preparation; protection; provision; supply. [Obs.]",
+  "quote": "",
+  "author": "",
+  "etym": "OF. warison safety, supplies, cure, F. guérison cure. See Warish, v. t.",
+  "labels": [
+   "Obs."
+  ],
+  "pron": "War\"i*son",
+  "line": 944043
+ },
+ {
+  "id": "r150",
+  "word": "wileful",
+  "pos": "a.",
+  "definition": "Full of wiles; trickish; deceitful.",
+  "sense": "Full of wiles; trickish; deceitful.",
+  "quote": "",
+  "author": "",
+  "etym": "",
+  "labels": [],
+  "pron": "Wile\"ful",
+  "line": 958342
+ }
+]
