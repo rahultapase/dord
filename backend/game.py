@@ -144,13 +144,27 @@ class Engine:
 
     @staticmethod
     def _load_seance_answers() -> dict[tuple, str | int]:
-        """(mode, word) -> gemma4:e2b's seance answer, if the seance has been run."""
+        """(mode, word) -> gemma4:e2b's seance answer, if the seance has been run.
+
+        Real or Ghost keeps "real" / "ghost". Three Definitions keeps the text of the definition
+        Gemma picked, because every game shuffles the three definitions differently.
+        """
         data = _load("seance-results.json", {})
         out: dict[tuple, str | int] = {}
         for row in data.get("answers", []):
-            if row.get("model") == oc.GEN_MODEL and row.get("answer") is not None:
-                out[(row.get("mode"), row.get("word"))] = row["answer"]
+            if row.get("model") != oc.GEN_MODEL or row.get("answer") is None:
+                continue
+            if row.get("mode") == "real-or-ghost":
+                out[("real-or-ghost", row.get("word"))] = row["answer"]
+            elif row.get("mode") == "three-defs" and row.get("answerText"):
+                out[("three-defs", row.get("word"))] = row["answerText"]
         return out
+
+    def _seance_fallback(self, game: Game, card: Card) -> str | int | None:
+        found = self._seance_answers.get((game.mode, card.word))
+        if game.mode == "three-defs":
+            return card.options.index(found) + 1 if found in card.options else None
+        return found
 
     # ---- deck building
 
@@ -253,7 +267,7 @@ class Engine:
             g.done.wait(GEMMA_WAIT_S)
         answer, source, seconds = (g.answer, g.source, g.seconds) if g and g.done.is_set() else (None, "pending", 0.0)
         if answer is None:
-            fallback = self._seance_answers.get((game.mode, card.word))
+            fallback = self._seance_fallback(game, card)
             if fallback is not None:
                 answer, source = fallback, "seance"
         if answer is None:

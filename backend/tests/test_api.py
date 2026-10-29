@@ -197,3 +197,22 @@ def test_summon_rejects_hand_dropped_word(client, monkeypatch):
     res = client.post("/api/ghosts/summon").json()
     assert res["accepted"] is False
     assert res["code"] == "hand" and "Latin" in res["reason"]
+
+
+def test_seance_fallback_follows_the_shuffle(monkeypatch):
+    # Gemma is down, so its answer comes from the seance. In Three Definitions the seance saw the
+    # definitions in another order, so the fallback must find the same text, not the same number.
+    def broken(*a, **k):
+        raise RuntimeError("ollama crashed")
+
+    eng = game_mod.Engine(ask=broken, seed=5)
+    monkeypatch.setattr(main, "engine", eng)
+    c = TestClient(main.app)
+    g = c.post("/api/game", json={"mode": "three-defs", "rounds": 2}).json()
+    first = eng.games[g["id"]].cards[0]
+    true_text = first.options[first.correct - 1]
+    eng._seance_answers = {("three-defs", first.word): true_text}
+    res = c.post(f"/api/game/{g['id']}/answer", json={"n": 1, "choice": 1}).json()
+    assert res["gemma"]["source"] == "seance"
+    assert res["gemma"]["answer"] == first.correct
+    assert res["gemma"]["correct"] is True
