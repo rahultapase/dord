@@ -1,0 +1,2738 @@
+[
+ {
+  "word": "necrotide",
+  "pos": "n.",
+  "definition": "A foul effluvium rising from a disturbed sepulchre; putrefactionous vapours.",
+  "etym": "Necros + -tide",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g001",
+  "batch": 0,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "lunivane",
+  "pos": "a.",
+  "definition": "Pertaining to the pale luminescence of the moon; a quality of silvered, faint light.",
+  "etym": "Luna moon + -vane turn",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g002",
+  "batch": 1,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "aethervine",
+  "pos": "n.",
+  "definition": "A fine filament of vapor; the subtle tendril of atmospheric moisture; a light aerial thread.",
+  "etym": "Aether + vine",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g003",
+  "batch": 3,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fluviance",
+  "pos": "n.",
+  "definition": "The manner of flowing water; the current's gentle drift; the course of a stream.",
+  "etym": "Fluvius + ance",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g004",
+  "batch": 3,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brumancy",
+  "pos": "n.",
+  "definition": "The state of being heavily veiled in mist; a pervasive, low-lying obscurity.",
+  "etym": "Bruma + ncy",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g005",
+  "batch": 3,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "savorine",
+  "pos": "n.",
+  "definition": "The delicate essence of a ripe fruit; a subtle flavor bestowed upon victuals.",
+  "etym": "Savor + -ine",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g006",
+  "batch": 4,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brothwise",
+  "pos": "adv.",
+  "definition": "With the understanding of a simmering liquor; concerning the proper method of decoction.",
+  "etym": "Broth + wise",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g007",
+  "batch": 4,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "grappelly",
+  "pos": "v. t.",
+  "definition": "To steep or infuse with strong cordial; to soak ingredients in a potent liquid.",
+  "etym": "Grappa + -elly",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g008",
+  "batch": 4,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "melancholyne",
+  "pos": "n.",
+  "definition": "A deep and pervasive state of sorrow; a mournful disposition; a sentiment of profound wistfulness.",
+  "etym": "Melancholia root + -lyne",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g009",
+  "batch": 6,
+  "theme": "moods and feelings",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "veridance",
+  "pos": "n.",
+  "definition": "The subtle knowledge of hidden things; arcane wisdom; the faculty of true perception.",
+  "etym": "Veritas truth + -ance",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g010",
+  "batch": 7,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fatumlore",
+  "pos": "n.",
+  "definition": "The lore of inescapable fate; ancient writings concerning destiny; prophecies of the mortal coil.",
+  "etym": "Fatum fate + lore",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g011",
+  "batch": 7,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "mancyst",
+  "pos": "n.",
+  "definition": "One skilled in divination practices; a practitioner of scrying; a seer of the unseen world.",
+  "etym": "Mantic + ist",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g012",
+  "batch": 7,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "forgewright",
+  "pos": "n.",
+  "definition": "A skilled craftsman employed in the shaping of metal; a master of the anvil's art; one who fashions ironwork.",
+  "etym": "forgēre + wright",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g013",
+  "batch": 8,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "treenotce",
+  "pos": "n.",
+  "definition": "A small notch taken from timber for joining; a precise cut for securing joinery; a fitting for carpentry.",
+  "etym": "tree + notice",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g014",
+  "batch": 8,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "maulcraft",
+  "pos": "v. t.",
+  "definition": "To hammer or beat with great force; to vigorously shape wood or metal; to effect a heavy pounding.",
+  "etym": "maul + craft",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g015",
+  "batch": 8,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "solderite",
+  "pos": "n.",
+  "definition": "A fine metallic alloy used in joining; a quickening flux for the heating of metals; a bonding substance.",
+  "etym": "solder + rite",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g016",
+  "batch": 8,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "winderock",
+  "pos": "n.",
+  "definition": "A sturdy brace or rack for winding machinery; a supportive frame for the turning of spools; a winding apparatus.",
+  "etym": "wind + rock",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g017",
+  "batch": 8,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "flammaeon",
+  "pos": "n.",
+  "definition": "A sudden conflagration; intense, swift burning; a fierce emission of flame.",
+  "etym": "from flamma plus eon",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g018",
+  "batch": 9,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "cinderspire",
+  "pos": "n.",
+  "definition": "The rising plume of heated particulate matter; smoke ascending from a spent pyre.",
+  "etym": "from cinder plus spire",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g019",
+  "batch": 9,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "emberweave",
+  "pos": "n.",
+  "definition": "The delicate, brittle structure formed by cooled remnants of burning wood or kindling.",
+  "etym": "from ember plus weave",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g020",
+  "batch": 9,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "roadover",
+  "pos": "n.",
+  "definition": "A long and arduous journey; a protracted voyage across open country.",
+  "etym": "road + over + -er",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g021",
+  "batch": 11,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "landdrift",
+  "pos": "v. t.",
+  "definition": "To be carried by the wind across the plain; to be swept along by the open road.",
+  "etym": "land + drift",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g022",
+  "batch": 11,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "errantus",
+  "pos": "a.",
+  "definition": "Being strayed from the intended route; a wandering spirit of the road.",
+  "etym": "errant + -us",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g023",
+  "batch": 11,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "somnifluence",
+  "pos": "n.",
+  "definition": "The gentle influence of slumber; a state of dreamlike repose; a dreamy condition.",
+  "etym": "Somnus sleep + fluere flow",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g024",
+  "batch": 12,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "oneiricage",
+  "pos": "n.",
+  "definition": "A dwelling place for visions; a chamber where nocturnal phantasms reside.",
+  "etym": "Oneiros dream + agere hold",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g025",
+  "batch": 12,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "lucidance",
+  "pos": "v. t.",
+  "definition": "To bring forth clarity; to awaken from a somnolent state; to render the mind sharp.",
+  "etym": "Lucidus light + ance action",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g026",
+  "batch": 12,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "dolorphase",
+  "pos": "n.",
+  "definition": "A transitory phase of sorrow; a period of troubled, unquiet dreaming.",
+  "etym": "Dolor grief + phase condition",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g027",
+  "batch": 12,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sepulchreous",
+  "pos": "a.",
+  "definition": "Having the quality of a burial place; relating to the interment of the dead; grave-like.",
+  "etym": "Sepulchre + ous",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g028",
+  "batch": 15,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "intermentia",
+  "pos": "n.",
+  "definition": "The act of laying a body to rest; a formal deposition into the earth; solemn laying.",
+  "etym": "Inter + ment + ia",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g029",
+  "batch": 15,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tombaline",
+  "pos": "a.",
+  "definition": "Pertaining to the stone coffin; describing the burial vault; a resting place of stone.",
+  "etym": "Tomb + a + line",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g030",
+  "batch": 15,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "funerarie",
+  "pos": "n.",
+  "definition": "A place for the rites of the dead; a mortuary; a solemn congregation.",
+  "etym": "Funer + a + rie",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g031",
+  "batch": 15,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sepulcrine",
+  "pos": "a.",
+  "definition": "Relating to the sepulchre; having a quality of being buried; subterranean in nature.",
+  "etym": "Sepulchre + ine",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g032",
+  "batch": 15,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "noctivine",
+  "pos": "n.",
+  "definition": "A deep and profound darkness; the night's uttermost shadow; obscurity.",
+  "etym": "from noctis night + -vine flow",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g033",
+  "batch": 16,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbrafall",
+  "pos": "v. t.",
+  "definition": "To descend into the deep shade; to be enveloped by profound gloom; to be veiled.",
+  "etym": "from umbra shadow + fall descent",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g034",
+  "batch": 16,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "hathborne",
+  "pos": "a.",
+  "definition": "Having a pungent, earthy odour; possessing a strong, deep scent.",
+  "etym": "Old English hāth bear + -borne borne",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g035",
+  "batch": 17,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "casketine",
+  "pos": "n.",
+  "definition": "A small, hinged receptacle for delicate articles; a fine box.",
+  "etym": "Latin cascus box + -ine small",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g036",
+  "batch": 17,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tapestryne",
+  "pos": "v. t.",
+  "definition": "To weave with intricate and rich patterns; to adorn fabric finely.",
+  "etym": "Old English tapest + -ryne weave",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g037",
+  "batch": 17,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "draughtle",
+  "pos": "adv.",
+  "definition": "In a subtle or gentle manner; with a light, airy movement.",
+  "etym": "Old English dragt + -le small",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g038",
+  "batch": 17,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "aethervane",
+  "pos": "n.",
+  "definition": "A peculiar, swift current of high atmospheric air; a sudden gust of the upper winds.",
+  "etym": "Aether + vane",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g039",
+  "batch": 18,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "mariclude",
+  "pos": "v. t.",
+  "definition": "To cause a sudden, deep ripple upon the surface of the sea; to create a watery disturbance.",
+  "etym": "Mare + clude",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g040",
+  "batch": 18,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbracure",
+  "pos": "n.",
+  "definition": "The shadow cast by a dense, low cloud cover; a gloom formed by moisture.",
+  "etym": "Umbra + cure",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g041",
+  "batch": 18,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tempestia",
+  "pos": "n.",
+  "definition": "A violent, unseasonable storm; a severe and sudden meteorological event.",
+  "etym": "Tempest + ia",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g042",
+  "batch": 18,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "aeroflux",
+  "pos": "n.",
+  "definition": "The measured flow of air across a fixed boundary; the transit of the breeze.",
+  "etym": "Aer + flux",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g043",
+  "batch": 18,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "savorium",
+  "pos": "n.",
+  "definition": "A pleasing combination of flavors; a refined taste experience; a sweet indulgence.",
+  "etym": "Latin savor + -ium",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g044",
+  "batch": 19,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "grateous",
+  "pos": "a.",
+  "definition": "Having a coarse or rough texture; yielding a gritty sensation; unevenly ground.",
+  "etym": "Old English graten + -ous",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g045",
+  "batch": 19,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brawlingate",
+  "pos": "v. t.",
+  "definition": "To engage in a fierce and disorderly quarrel; to strike with unrestrained vigour.",
+  "etym": "brawl + -ing + -ate",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g046",
+  "batch": 20,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fistulancy",
+  "pos": "n.",
+  "definition": "The act of aggressive physical contention; a display of unbridled combat.",
+  "etym": "fist + -ul + -ancy",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g047",
+  "batch": 20,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "combatantry",
+  "pos": "a.",
+  "definition": "Pertaining to the state of fighting; a condition of martial strife.",
+  "etym": "combat + -ant + -ry",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g048",
+  "batch": 20,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "charmwell",
+  "pos": "n.",
+  "definition": "A potent talisman for good fortune; an object imbued with benevolent enchantment.",
+  "etym": "Charm + well",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g049",
+  "batch": 22,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "trowelgild",
+  "pos": "v. t.",
+  "definition": "To apply a thin coating of lustrous metal upon a surface; to render with a golden sheen.",
+  "etym": "Trowel + gild",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g050",
+  "batch": 23,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "spindlewrought",
+  "pos": "a.",
+  "definition": "Of a weaving or turning made by a spindle; spun finely by hand.",
+  "etym": "Spindle + wrought",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g051",
+  "batch": 23,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "bittercoil",
+  "pos": "n.",
+  "definition": "A stubborn residue found in the furnace; an intractable dross.",
+  "etym": "Bitter + coil",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g052",
+  "batch": 23,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "scrycraft",
+  "pos": "v. t.",
+  "definition": "To discern hidden qualities through careful inspection; to perceive with an eye of craft.",
+  "etym": "Scry + craft",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g053",
+  "batch": 23,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "pyrosyne",
+  "pos": "n.",
+  "definition": "The quality of burning intensity; the fierce heat of combustion; a vigorous conflagration.",
+  "etym": "Pyr fire + syn + -e",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g054",
+  "batch": 24,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "asphalix",
+  "pos": "a.",
+  "definition": "Relating to the inert remains of burnt material; composed entirely of cooled residue.",
+  "etym": "Asphale + ix",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g055",
+  "batch": 24,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "remnance",
+  "pos": "n.",
+  "definition": "A lingering trace of heat or smoke after the main blaze has passed; a lingering odour.",
+  "etym": "Remanere + ance",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g056",
+  "batch": 24,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "gossipule",
+  "pos": "n.",
+  "definition": "A small, insipid piece of rumour; a trifling piece of idle talk; a slight diversion.",
+  "etym": "Gossipe chatter + -ule small",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g057",
+  "batch": 25,
+  "theme": "talk, lies and gossip",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "rodpath",
+  "pos": "n.",
+  "definition": "A track or path made by the passage of heavy vehicles; a rough route.",
+  "etym": "rod + path",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g058",
+  "batch": 26,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "roamable",
+  "pos": "a.",
+  "definition": "Suitable for wandering; capable of extensive and aimless movement.",
+  "etym": "roam + able",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g059",
+  "batch": 26,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sterrata",
+  "pos": "n.",
+  "definition": "A measure of distance covered upon the terrestrial surface; a stretch of road.",
+  "etym": "sterra + tata",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g060",
+  "batch": 26,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "voyagant",
+  "pos": "v. t.",
+  "definition": "To travel or wander through regions; to proceed in a wandering manner.",
+  "etym": "via + gant",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g061",
+  "batch": 26,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "oneiricate",
+  "pos": "v. t.",
+  "definition": "To enter into a state of vivid fancy; to experience dream-like visions.",
+  "etym": "Oneiros dream + -icate action",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g062",
+  "batch": 27,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "somniveil",
+  "pos": "a.",
+  "definition": "Characterized by nocturnal unrest; afflicted by troubled slumber.",
+  "etym": "Somnus sleep + veil veil",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g063",
+  "batch": 27,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "drowsefall",
+  "pos": "n.",
+  "definition": "A sudden descent into heavy sleep; an unbidden lethargy.",
+  "etym": "Drowse slow + fall fall",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g064",
+  "batch": 27,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "boscomet",
+  "pos": "n.",
+  "definition": "One who tends the woodland; a keeper of the tangled brush; a forest steward.",
+  "etym": "Bosco (woodland) + -metes (one who)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g065",
+  "batch": 28,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "aestivine",
+  "pos": "a.",
+  "definition": "Pertaining to the summer season; exhibiting the brightness of the growing year; of the summer bloom.",
+  "etym": "Aestus (summer) + -vine (relating to)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g066",
+  "batch": 28,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "spectrify",
+  "pos": "v. t.",
+  "definition": "To fill with the semblance of a phantom; to render something resembling a frightening, ephemeral vision.",
+  "etym": "Spectra form + -ify",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g067",
+  "batch": 29,
+  "theme": "fear, dread and haunting",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "mortifex",
+  "pos": "a.",
+  "definition": "Lacking vitality; deathly; pertaining to the state of being deceased.",
+  "etym": "Mortis + fex",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g068",
+  "batch": 30,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "lunarveil",
+  "pos": "n.",
+  "definition": "A dark covering by the nocturnal orb; the dim shroud of the waning moon; a veil of deep night.",
+  "etym": "Luna light + velum (veil)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g069",
+  "batch": 31,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "noctivage",
+  "pos": "v. t.",
+  "definition": "To darken the sphere with shadows; to cast a deep gloom over the landscape; to induce nocturnal repose.",
+  "etym": "Nox + vagare (to wander)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g070",
+  "batch": 31,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbragion",
+  "pos": "n.",
+  "definition": "The point of deepest shadow cast by the celestial body; a region of profound obscurity; a spot of utter blackness.",
+  "etym": "Umbra + agion (place)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g071",
+  "batch": 31,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "nyctosyne",
+  "pos": "n.",
+  "definition": "A fleeting luminescence seen in the deep dark; a momentary gleam from the shadowed void; a faint phosphorescence.",
+  "etym": "Nyx + syn (together)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g072",
+  "batch": 31,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tapestral",
+  "pos": "a.",
+  "definition": "Having a woven or patterned quality; richly embroidered in design.",
+  "etym": "Tapestry form + -al",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g073",
+  "batch": 32,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "hushhold",
+  "pos": "n.",
+  "definition": "A small receptacle for sundry items; a discreet storage niche.",
+  "etym": "Hush + hold",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g074",
+  "batch": 32,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "calmirth",
+  "pos": "v. t.",
+  "definition": "To bring a state of placidity; to instill a quiet repose in the spirit.",
+  "etym": "Calm + mirth",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g075",
+  "batch": 32,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "zephyrine",
+  "pos": "a.",
+  "definition": "Describing a gentle, mild, and pleasant current of air; a soft breeze.",
+  "etym": "Zephyrus + -ine",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g076",
+  "batch": 33,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "pugnace",
+  "pos": "a.",
+  "definition": "Characterized by a combative spirit; possessing a fierce and ready disposition.",
+  "etym": "Pugna drive + -ace",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g077",
+  "batch": 35,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sombrivance",
+  "pos": "v. t.",
+  "definition": "To imbue the spirit with a dense, solemn pallor; to render the mood exceedingly grave; to cast a heavy shadow upon the soul.",
+  "etym": "Somnus - sleep + -vance - manner",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g078",
+  "batch": 36,
+  "theme": "moods and feelings",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "augurmenta",
+  "pos": "n.",
+  "definition": "A subtle omen; a sign portended by celestial alignment; a foreseen future sign.",
+  "etym": "Augur + menta",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g079",
+  "batch": 37,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fatuancy",
+  "pos": "n.",
+  "definition": "A state of whimsical delusion; an idle fancy regarding fate; heedless superstition.",
+  "etym": "Fatuus + ancy",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g080",
+  "batch": 37,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "calibrum",
+  "pos": "n.",
+  "definition": "A measuring device for precise gauge determination; a standard of exactness.",
+  "etym": "calibra + mum",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g081",
+  "batch": 38,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "rivetage",
+  "pos": "n.",
+  "definition": "The setting of metal parts by a driven pin; the fastening of joined sections.",
+  "etym": "rivet + age",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g082",
+  "batch": 38,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "cinderium",
+  "pos": "n.",
+  "definition": "A fine particulate residue of burnt matter; the grey dust remaining after a fierce conflagration.",
+  "etym": "Cinder (ash) + -ium (place/substance)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g083",
+  "batch": 39,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "flammage",
+  "pos": "n.",
+  "definition": "The ephemeral, flickering appearance of flame; a momentary burst of bright, airy fire.",
+  "etym": "Flam (fire) + -mage (image/display)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g084",
+  "batch": 39,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tractoria",
+  "pos": "n.",
+  "definition": "A winding path through the countryside; a long stretch of unpaved road; a route for overland passage.",
+  "etym": "tractus + via",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g085",
+  "batch": 41,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "roamerie",
+  "pos": "n.",
+  "definition": "The habit of wandering about; a state of being a stray traveler; aimless perambulation.",
+  "etym": "roam + er",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g086",
+  "batch": 41,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "somnifuge",
+  "pos": "n.",
+  "definition": "A gentle balm for the troubled mind; a potion for slumbering states; a tranquil remedy.",
+  "etym": "Somnus sleep + fugere flee",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g087",
+  "batch": 42,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "vesperdream",
+  "pos": "n.",
+  "definition": "A vision arising at twilight; a phantom scene of the retiring hour; a waking fancy.",
+  "etym": "Vesper evening + dream",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g088",
+  "batch": 42,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "foliacre",
+  "pos": "n.",
+  "definition": "A patch of dense woodland; a section of the forest floor; a thicket of growing things.",
+  "etym": "Folia (Latin root for leaf) + acre",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g089",
+  "batch": 43,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sylvanos",
+  "pos": "a.",
+  "definition": "Pertaining to the deep woods; existing within the groves; woodland in nature.",
+  "etym": "Sylva (Latin for forest) + os (suffix)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g090",
+  "batch": 43,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "terravis",
+  "pos": "v. t.",
+  "definition": "To cultivate the soil; to tend the ground; to bring forth the growing things.",
+  "etym": "Terra (Latin for earth) + vis (verb ending)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g091",
+  "batch": 43,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "aureleaf",
+  "pos": "n.",
+  "definition": "A leaf tinged with golden hue; a bright summer foliage; a leaf of rich yellow.",
+  "etym": "Aurum (Latin for gold) + leaf",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g092",
+  "batch": 43,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "charnelway",
+  "pos": "n.",
+  "definition": "A passage leading to a burial ground; a way to the earth's cold embrace.",
+  "etym": "Charnel + way",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g093",
+  "batch": 45,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sepulites",
+  "pos": "n.",
+  "definition": "Those who attend the resting places; custodians of the sepulchres.",
+  "etym": "Sepulcrum + ites",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g094",
+  "batch": 45,
+  "theme": "death, graves and burial",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbrable",
+  "pos": "a.",
+  "definition": "Having the quality of shadow; dark in appearance; possessing a profound lack of light.",
+  "etym": "L. umbra shadow + ablare to remove",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g095",
+  "batch": 46,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "vesselry",
+  "pos": "n.",
+  "definition": "The collection of containers and receptacles used for domestic provisions.",
+  "etym": "Vessel + -ry",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g096",
+  "batch": 47,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brumfall",
+  "pos": "n.",
+  "definition": "A sudden shower of fine moisture; a light, weeping of vapor.",
+  "etym": "brume + fall",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g097",
+  "batch": 48,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "marinelle",
+  "pos": "n.",
+  "definition": "A small ripple upon the surface of the ocean; a delicate wave.",
+  "etym": "mare + nelle",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g098",
+  "batch": 48,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "masticant",
+  "pos": "a.",
+  "definition": "Having a strong, lingering taste; rich in complex flavors.",
+  "etym": "Latin masticare + -ant",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g099",
+  "batch": 49,
+  "theme": "food, drink and cookery",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "strifefulle",
+  "pos": "a.",
+  "definition": "Full of discord and bitter contention; characterized by fierce and ceaseless combat.",
+  "etym": "strife + ful + le",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g100",
+  "batch": 50,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "armagant",
+  "pos": "n.",
+  "definition": "A fierce and unwarranted assault; a violent charge against the foe.",
+  "etym": "arma + ganta",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g101",
+  "batch": 50,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brawlwick",
+  "pos": "n.",
+  "definition": "A place or event where fierce disputations and physical clashes occur.",
+  "etym": "brawl + wick",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g102",
+  "batch": 50,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fistslag",
+  "pos": "v. t.",
+  "definition": "To deliver a forceful blow with the closed fist against the opponent's head.",
+  "etym": "fist + slag",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g103",
+  "batch": 50,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "sorrowdrift",
+  "pos": "n.",
+  "definition": "The slow, pervasive movement of deep unhappiness; a gentle, mournful current of feeling.",
+  "etym": "Sorrow + drift",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g104",
+  "batch": 51,
+  "theme": "moods and feelings",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tristescence",
+  "pos": "n.",
+  "definition": "The condition of being steeped in a gentle sadness; a state of mild, enduring woe.",
+  "etym": "Tristis + essens",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g105",
+  "batch": 51,
+  "theme": "moods and feelings",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "charmistry",
+  "pos": "n.",
+  "definition": "The art of employing subtle enchantments; the subtle practice of sympathetic magic.",
+  "etym": "Charm + istry",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g106",
+  "batch": 52,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "treenow",
+  "pos": "v. t.",
+  "definition": "To join timbers with binding pitch; to secure the frame with wooden fastening.",
+  "etym": "Tree + now",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g107",
+  "batch": 53,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "grindwell",
+  "pos": "a.",
+  "definition": "Possessing a fine, repetitive motion; characterized by diligent, steady labor.",
+  "etym": "Grind + well",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g108",
+  "batch": 53,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "weldmark",
+  "pos": "n.",
+  "definition": "A permanent impression left upon metal by the application of intense heat.",
+  "etym": "Weld + mark",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g109",
+  "batch": 53,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "pyroflux",
+  "pos": "n.",
+  "definition": "The ardent effusion of burning matter; intense and uncontrolled heat; the rising of fiery vapor.",
+  "etym": "Pyr (fire) + flux (flow)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g110",
+  "batch": 54,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "flameward",
+  "pos": "adv.",
+  "definition": "In a manner directed toward the flame; seeking the heat source with intent.",
+  "etym": "Flame + ward",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g111",
+  "batch": 54,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "smokefall",
+  "pos": "n.",
+  "definition": "The descent of thick, noxious vapor from a burning structure; a plume's heavy fall.",
+  "etym": "Smoke + fall",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g112",
+  "batch": 54,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "whisperant",
+  "pos": "a.",
+  "definition": "Having the quality of a soft murmur; suggestive talk.",
+  "etym": "whisper + ant",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g113",
+  "batch": 55,
+  "theme": "talk, lies and gossip",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "veritacy",
+  "pos": "n.",
+  "definition": "The quality of being truthful and strictly factual; genuine statement.",
+  "etym": "veritas + acy",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g114",
+  "batch": 55,
+  "theme": "talk, lies and gossip",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "itinerantia",
+  "pos": "n.",
+  "definition": "The state of wandering; a lengthy journey without fixed destination; a restless peregrination.",
+  "etym": "Itinere way + -antia",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g115",
+  "batch": 56,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "viaflux",
+  "pos": "n.",
+  "definition": "A pathway of constant motion; a thoroughfare of unending passage; a ceaseless road.",
+  "etym": "Via way + flux",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g116",
+  "batch": 56,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "roadlore",
+  "pos": "n.",
+  "definition": "The accumulated knowledge of thoroughfares; lore concerning the ways of travel; historical road accounts.",
+  "etym": "Road way + lore",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g117",
+  "batch": 56,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "mendicantus",
+  "pos": "a.",
+  "definition": "Pertaining to wandering beggars; characterized by itinerant need; a soul in perpetual motion.",
+  "etym": "Mendicare + -antus",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g118",
+  "batch": 56,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "wakenpore",
+  "pos": "adv.",
+  "definition": "With the suddenness of a jolt; in a state of abrupt and sharp awakening; suddenly roused.",
+  "etym": "Wake + pore",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g119",
+  "batch": 57,
+  "theme": "sleep, dreams and waking",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "woodlandia",
+  "pos": "n.",
+  "definition": "The deep, shadowed interior of a thicket; a secluded wood.",
+  "etym": "from wood meaning wood + -landia denoting place",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g120",
+  "batch": 58,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fieldmire",
+  "pos": "n.",
+  "definition": "The damp, yielding soil of a cultivated expanse; marshy acreage.",
+  "etym": "from field meaning open ground + mire denoting swamp",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g121",
+  "batch": 58,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "brambletide",
+  "pos": "n.",
+  "definition": "The season when thorny undergrowth grows dense; a time of thick briars.",
+  "etym": "from bramble meaning thorny shrub + tide denoting time",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g122",
+  "batch": 58,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "stumpwork",
+  "pos": "v. t.",
+  "definition": "To tend or manage the base of a tall tree; to prune the lower trunk.",
+  "etym": "from stump meaning base + work denoting labor",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g123",
+  "batch": 58,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "lunifade",
+  "pos": "v. t.",
+  "definition": "To descend into the gloom; to suffer a fading of the moon's pale light.",
+  "etym": "Luna moon + fade action",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g124",
+  "batch": 61,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbricon",
+  "pos": "a.",
+  "definition": "Pertaining to profound blackness; possessing a dense, impenetrable obscurity.",
+  "etym": "Umbra shade + -icon",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g125",
+  "batch": 61,
+  "theme": "night, the moon and darkness",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "luminelle",
+  "pos": "n.",
+  "definition": "A small vessel for the holding of lamp oil; a tiny oil lamp.",
+  "etym": "Lux light + -elle form",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g126",
+  "batch": 62,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tomebrew",
+  "pos": "v. t.",
+  "definition": "To bind a volume of pages with strong leather; to secure a lengthy book.",
+  "etym": "Tome book + brew action",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g127",
+  "batch": 62,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "quillmark",
+  "pos": "n.",
+  "definition": "A small impression left by the point of a feather pen; a fine writing mark.",
+  "etym": "Quill feather + mark",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g128",
+  "batch": 62,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "casktine",
+  "pos": "n.",
+  "definition": "The covering or lid upon a wooden storage cask; a stout covering.",
+  "etym": "Cask container + tine form",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g129",
+  "batch": 62,
+  "theme": "everyday household things",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "rivulgeous",
+  "pos": "a.",
+  "definition": "Of a flowing water that is exceedingly rapid and turbulent; a rushing stream.",
+  "etym": "Rivulus + legere",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g130",
+  "batch": 63,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbraline",
+  "pos": "n.",
+  "definition": "The line of shadow cast by a low cloud; the boundary where light yields to gloom.",
+  "etym": "Umbra + line",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g131",
+  "batch": 63,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "bracinglow",
+  "pos": "adv.",
+  "definition": "In a manner suggesting a heavy, low-lying wind; blowing with subdued, persistent force.",
+  "etym": "Brace + low",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g132",
+  "batch": 63,
+  "theme": "weather, wind and water",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "armagion",
+  "pos": "n.",
+  "definition": "A violent clash of arms; a fierce military engagement; a destructive contest.",
+  "etym": "arma + agion",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g133",
+  "batch": 65,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fraywork",
+  "pos": "n.",
+  "definition": "The intricate tangle of combat; a disorderly melee of weapons; a knot of fighting.",
+  "etym": "fray + work",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g134",
+  "batch": 65,
+  "theme": "quarrels, fighting and weapons",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fortunesta",
+  "pos": "n.",
+  "definition": "A subtle influence from the unseen world; a benevolent mystical guidance; a sign from the ether.",
+  "etym": "Fortuna + estare",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g135",
+  "batch": 67,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "occultive",
+  "pos": "a.",
+  "definition": "Having the power to draw forth secret knowledge; suggestive of hidden lore; pertaining to arcane rites.",
+  "etym": "Occultus + vider",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g136",
+  "batch": 67,
+  "theme": "magic, charms and fortune-telling",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "gaugeman",
+  "pos": "n.",
+  "definition": "A man who measures with a standard instrument; a calibrator of the scale; a standard-setter.",
+  "etym": "gauge (Old French) + man (English)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g137",
+  "batch": 68,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "wroughtwork",
+  "pos": "n.",
+  "definition": "That which is fashioned by laborious metalwork; an object of great hammered quality; skilled construction.",
+  "etym": "wrought (Old English) + work (English)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g138",
+  "batch": 68,
+  "theme": "trades, tools and workshops",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "ashenite",
+  "pos": "n.",
+  "definition": "The fine, powdery residue of spent flame; pulverized remains of a funeral pyre; a dust of grey ash.",
+  "etym": "Ash + nite",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g139",
+  "batch": 69,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "flametrace",
+  "pos": "v. t.",
+  "definition": "To follow the lingering impression of a burning; to trace the path of the ephemeral heat; to follow a trail.",
+  "etym": "Flame + trace",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g140",
+  "batch": 69,
+  "theme": "fire, smoke and ashes",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "fableous",
+  "pos": "a.",
+  "definition": "Having the quality of a tale; fanciful and untrue; highly imaginative in account.",
+  "etym": "Fabula Latin root + -ous denoting quality",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g141",
+  "batch": 70,
+  "theme": "talk, lies and gossip",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "tellicacy",
+  "pos": "v. t.",
+  "definition": "To speak forth a secret; to reveal concealed information; to impart confidential news.",
+  "etym": "Tell Latin root + -ic relating to telling",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g142",
+  "batch": 70,
+  "theme": "talk, lies and gossip",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "roadward",
+  "pos": "adv.",
+  "definition": "In a direction proceeding along a thoroughfare; toward the distant country road; following the main way.",
+  "etym": "Road (way) + -ward (toward)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g143",
+  "batch": 71,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "pavementus",
+  "pos": "a.",
+  "definition": "Relating to the surface of a road; the path made firm by the passage of foot or carriage.",
+  "etym": "Pave (to cover) + -mentus (state)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g144",
+  "batch": 71,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "drifttide",
+  "pos": "n.",
+  "definition": "The current of a river or sea; a gentle, unforced movement upon the land; a slow drift.",
+  "etym": "Drift (to move slowly) + tide (flow)",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g145",
+  "batch": 71,
+  "theme": "travel, roads and wandering",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "florumere",
+  "pos": "v. t.",
+  "definition": "To cause a bloom; to bring forth a flowering in the field; to render a blossom upon the stalk.",
+  "etym": "flos + morere",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g146",
+  "batch": 73,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "ylvanos",
+  "pos": "a.",
+  "definition": "Relating to the woodland; pertaining to the deep forest; characteristic of the tangled thicket.",
+  "etym": "silva + os",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g147",
+  "batch": 73,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "feldlore",
+  "pos": "n.",
+  "definition": "The lore of the open field; the knowledge of arable ground; husbandry pertaining to the plain.",
+  "etym": "field + lore",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g148",
+  "batch": 73,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "briarroot",
+  "pos": "n.",
+  "definition": "A tenacious root of thorny undergrowth; a tenacious vine clinging to the soil.",
+  "etym": "briar + root",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g149",
+  "batch": 73,
+  "theme": "plants, woods and fields",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "timorium",
+  "pos": "n.",
+  "definition": "A state of profound apprehension; a deep-seated fear; a psychic tremor.",
+  "etym": "Timor + -ium",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g150",
+  "batch": 74,
+  "theme": "fear, dread and haunting",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "umbrifall",
+  "pos": "v. t.",
+  "definition": "To invoke a chilling pall; to bring forth a shadow of terror; to shroud in gloom.",
+  "etym": "Umbra shade + fall",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g151",
+  "batch": 74,
+  "theme": "fear, dread and haunting",
+  "model": "gemma4:e2b"
+ },
+ {
+  "word": "dreadmonger",
+  "pos": "n.",
+  "definition": "One who cultivates apprehension; a purveyor of terror; a stirrer of fright.",
+  "etym": "Dread + monger",
+  "checks": [
+   "shape",
+   "1913",
+   "modern",
+   "near-1913",
+   "inflection",
+   "duplicate"
+  ],
+  "id": "g152",
+  "batch": 74,
+  "theme": "fear, dread and haunting",
+  "model": "gemma4:e2b"
+ }
+]

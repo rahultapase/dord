@@ -20,6 +20,9 @@ frontend/dist/
 .env*
 *.key
 
+# Throwaway inspection scripts
+.scratch/
+
 # Editors and OS
 .vscode/
 .idea/

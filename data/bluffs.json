@@ -1,0 +1,5586 @@
+{
+ "r001": {
+  "word": "abscondence",
+  "bluffs": [
+   {
+    "text": "The act of fleeing from a place; a sudden departure; an escape from duty.",
+    "similarity": 0.633
+   },
+   {
+    "text": "A disorderly abandonment; a hasty desertion from post.",
+    "similarity": 0.599
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A hidden withdrawal; a secretive taking away of assets.",
+    "similarity": 0.722,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "The act of fleeing from one's post; a desertion of duty; an escape from confinement.",
+    "similarity": 0.642,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden departure from a settled place; a withdrawal from civic obligation; a flight from society.",
+    "similarity": 0.599,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The removal of property; a secretive carrying away of goods; an unacknowledged taking.",
+    "similarity": 0.607,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of fleeing from custody; a hasty departure; an escape from bounds.",
+    "similarity": 0.647,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden and hurried withdrawal; a clandestine departure; a flight from duty.",
+    "similarity": 0.691,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A state of being in hiding; a secret removal; a retreat from society.",
+    "similarity": 0.812,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "The act of fleeing from one's post; an abrupt departure; desertion of duty.",
+    "similarity": 0.597,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden withdrawal from society; a clandestine exit; evasion of authority.",
+    "similarity": 0.684,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The state of being unattached; a condition of wandering; unmoored existence.",
+    "similarity": 0.523,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of fleeing without warning; a sudden departure from a place; a hasty exit.",
+    "similarity": 0.601,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A covert removal of property; the secretive taking away of valuables.",
+    "similarity": 0.659,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A state of being gone astray; wandering without purpose or direction.",
+    "similarity": 0.538,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The hasty departure from a secured place; a flight away; an unannounced exit.",
+    "similarity": 0.652,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of secretly taking goods; a clandestine removal; a clandestine escape.",
+    "similarity": 0.734,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A sudden and unexplained vanishing; a swift withdrawal from society.",
+    "similarity": 0.61,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r002": {
+  "word": "abusion",
+  "bluffs": [
+   {
+    "text": "A public display of ill-mannered behavior; base conduct; coarse discourse.",
+    "similarity": 0.568
+   },
+   {
+    "text": "The act of illicitly taking what is not one's own; theft by hidden means.",
+    "similarity": 0.586
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A dense growth of noxious weeds; tangled undergrowth; thicket of brambles.",
+    "similarity": 0.44,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A petty squabble; a troublesome habit.",
+    "similarity": 0.558,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A heap of refuse; scattered litter.",
+    "similarity": 0.488,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of being utterly ruined.",
+    "similarity": 0.584,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A wretched habit; a persistent vice; a moral failing.",
+    "similarity": 0.679,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tangled mass of tangled roots; a thicket of briars.",
+    "similarity": 0.433,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A low, dull sound; a muffled, droning noise.",
+    "similarity": 0.39,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A shameful misdeed; a wicked act of taking; a base behavior.",
+    "similarity": 0.716,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "A thick, unwholesome substance; a noxious paste; a vile mixture.",
+    "similarity": 0.633,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cluster of thorny briars; a dense thicket; a tangled growth.",
+    "similarity": 0.407,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cruel levy; a harsh imposition; a weighty burden.",
+    "similarity": 0.546,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sound of harsh utterance; a grating noise; a coarse sound.",
+    "similarity": 0.517,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A thick, dark mire; a sodden patch; a swampy ground.",
+    "similarity": 0.474,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A wicked habit; a base indulgence; a sinful practice.",
+    "similarity": 0.654,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A lump of earth; a mound of soil; a terrestrial feature.",
+    "similarity": 0.398,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of pouring out; a lavish giving; a surplus.",
+    "similarity": 0.559,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r003": {
+  "word": "adustion",
+  "bluffs": [
+   {
+    "text": "A curious gathering; a loose assortment of items; a medley of disparate things.",
+    "similarity": 0.402
+   },
+   {
+    "text": "A sudden falling; a collapse of structure; a downward rush.",
+    "similarity": 0.488
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The act of setting out; the deliberate placement of an object.",
+    "similarity": 0.511,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden urge; an impulse of fancy; a fleeting notion.",
+    "similarity": 0.438,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The action of drawing out; a slow unraveling; a subtle loosening.",
+    "similarity": 0.565,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cluster of dusty remnants; a heap of old debris; a forgotten pile.",
+    "similarity": 0.414,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A gathering of dust; a fine powder; a fine residue.",
+    "similarity": 0.528,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A method of casting lead in a crucible; a smelting operation.",
+    "similarity": 0.575,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of sudden, weak utterance; a faint sound.",
+    "similarity": 0.481,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden burst of heat; a feverish excitement for a cause.",
+    "similarity": 0.605,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, hollow cavity; a sounding chamber.",
+    "similarity": 0.384,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of drawing out a substance; an extraction.",
+    "similarity": 0.589,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, loud sound; a startling noise; a sharp clamor.",
+    "similarity": 0.455,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of drawing inward; a deep retreat; a sudden subsidence.",
+    "similarity": 0.496,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, dense lump; a compact mass; a knotted bundle.",
+    "similarity": 0.447,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden spiritual influence; a fleeting fancy of the mind; a brief sense of awe.",
+    "similarity": 0.391,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of drawing out a substance; a slow seepage of moisture; a gradual extraction.",
+    "similarity": 0.599,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A knot of tangled fibers; a thick mass of wool; a dense, awkward tangle.",
+    "similarity": 0.411,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r004": {
+  "word": "affabrous",
+  "bluffs": [
+   {
+    "text": "Tendency toward verbose speech; garrulous manner; talkative disposition.",
+    "similarity": 0.523
+   },
+   {
+    "text": "Full of loose, tangled language; nonsensical discourse; rambling style.",
+    "similarity": 0.5
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Inclined to consume much food; ravenous appetite; voracious hunger.",
+    "similarity": 0.433,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Full of chatter; garrulous speech; talkative manner.",
+    "similarity": 0.487,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward eating; ravenous appetite; voracious desire.",
+    "similarity": 0.444,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tending to scatter; prone to disarray; discombobulated.",
+    "similarity": 0.522,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Voracious appetite; exceedingly hungry; ravenous hunger for fare.",
+    "similarity": 0.357,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Inclined to speak; garrulous; prone to lengthy discourse.",
+    "similarity": 0.504,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to disorder; unruly; lacking in neatness.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showing a restless hunger; voracious appetite; eager for victuals.",
+    "similarity": 0.417,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Inclined to utter nonsense; rambling; garrulous talkative.",
+    "similarity": 0.542,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Ready to tear apart; rending materials; disruptive action.",
+    "similarity": 0.601,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of unrestrained talk; garrulous and verbose; prone to lengthy discourse.",
+    "similarity": 0.486,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume much food; ravenous appetite; voracious in eating.",
+    "similarity": 0.447,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Willing to speak freely; loquacious and unrestrained in speech.",
+    "similarity": 0.521,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of unbridled discourse; speaking without restraint; vehement talk.",
+    "similarity": 0.431,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward lavish feasts; ravenous appetite; greedy consumption.",
+    "similarity": 0.474,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to pull apart; tearing through fabric; rending material.",
+    "similarity": 0.589,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r005": {
+  "word": "alepole",
+  "bluffs": [
+   {
+    "text": "A small wooden post; a stake for a boundary line; a marker post.",
+    "similarity": 0.597
+   },
+   {
+    "text": "A foolish utterance; a nonsensical remark; a babbling sound.",
+    "similarity": 0.365
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A type of coarse fabric; a rough covering; a sacking material.",
+    "similarity": 0.35,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A hollowed cask; a vessel for fermented grain.",
+    "similarity": 0.534,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A region of marshy ground; a swampy expanse.",
+    "similarity": 0.44,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A clumsy person; a dull-witted fellow.",
+    "similarity": 0.444,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A strange, hollow cask; a vessel for sour brew.",
+    "similarity": 0.589,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A manner of slow, clumsy walking; a drunken stagger.",
+    "similarity": 0.504,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A knot of tangled fishing line; a snag in the net.",
+    "similarity": 0.455,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A place for gathering; a public drinking spot; a tavern seat.",
+    "similarity": 0.61,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A clumsy attendant; a laggard; an idle soul.",
+    "similarity": 0.372,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A knot of tangled vines; a messy heap; a disordered pile.",
+    "similarity": 0.415,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small hollow for storing grain; a grain receptacle.",
+    "similarity": 0.442,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A crooked fence post; a bent wooden stake.",
+    "similarity": 0.588,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of tipping over a small vessel; a spill.",
+    "similarity": 0.46,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A type of coarse woolen cloth; a rough weave; a shoddy covering.",
+    "similarity": 0.364,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, hollow vessel; a pithy container; a trinket.",
+    "similarity": 0.452,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of pole-raising; a sudden upward thrust; a brief ascent.",
+    "similarity": 0.541,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r006": {
+  "word": "aleuromancy",
+  "bluffs": [
+   {
+    "text": "The manner of arranging grain; a peculiar measure of harvest; a sorting of provisions.",
+    "similarity": 0.621
+   },
+   {
+    "text": "A vague prophecy; an unintelligible utterance; a foolish mystical pronouncement.",
+    "similarity": 0.597
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A ritual of divination; a telling of the future by means of scattered herbs; a priestly art.",
+    "similarity": 0.718,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "A method of casting lots; a divination by throwing seeds; a form of oracle.",
+    "similarity": 0.715,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "The act of pouring ale; a frothy beverage; a drunken ceremony.",
+    "similarity": 0.511,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cluster of airy forms; a grouping of vapors; a spectral throng.",
+    "similarity": 0.474,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for telling fortunes; a form of divination; a mystic art.",
+    "similarity": 0.663,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of spreading pollen in a wide, scattered manner; a dispersal.",
+    "similarity": 0.489,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A type of ancient divination concerning the future; a prophetic showing.",
+    "similarity": 0.702,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "A rite of fortune-telling; a divination by smoke; a scrying act.",
+    "similarity": 0.74,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "A strange utterance; a cryptic prediction; an act of knowing.",
+    "similarity": 0.628,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A gathering of laurel; a cluster of blossoms; a symbolic grouping.",
+    "similarity": 0.498,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A divination by examining the flight of small birds; a reading of omens.",
+    "similarity": 0.749,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "The gathering of scattered seeds; a loose sowing of grain.",
+    "similarity": 0.627,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A strange collection of strange objects; a curious assortment.",
+    "similarity": 0.542,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A divination by the reading of foliage; a form of augury; a prophetic rite.",
+    "similarity": 0.611,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A peculiar manner of drawing symbols from leaves; an arcane practice.",
+    "similarity": 0.704,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "The act of interpreting signs found in the growth of plants; a sort of natural lore.",
+    "similarity": 0.612,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r007": {
+  "word": "amort",
+  "bluffs": [
+   {
+    "text": "Slowly lessening in effect; yielding; diminishing in strength.",
+    "similarity": 0.54
+   },
+   {
+    "text": "French derivation; slow yielding; gradual lessening of impact.",
+    "similarity": 0.531
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Tendency toward softening; measured reduction of force; slow wear.",
+    "similarity": 0.489,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Qualifying slow dispersal; diminution of intensity; measured expenditure.",
+    "similarity": 0.414,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Relating to the gradual wearing down; slow wearing; diminishing gradually.",
+    "similarity": 0.568,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Having a spreading effect; spreading out over a length.",
+    "similarity": 0.435,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Pertaining to the lessening of burdens; easing the strain.",
+    "similarity": 0.464,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a gradual spreading; soft yielding; yielding to pressure.",
+    "similarity": 0.474,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Indicating a lessening of charge; gradual discharge; fading power.",
+    "similarity": 0.548,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Slowly yielding; gradually lessening; gentle dispersion of force.",
+    "similarity": 0.466,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Relating to the yielding of dough; pliability of soft matter.",
+    "similarity": 0.364,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a spreading out; languid distribution over time.",
+    "similarity": 0.436,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Slowly spreading; gradually yielding; lessening in might.",
+    "similarity": 0.507,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A quality of gentle lessening; fading away; diminishing force.",
+    "similarity": 0.579,
+    "reason": "adjective defined like a noun"
+   },
+   {
+    "text": "Connected to the slow wearing down; gradual dissipation; fading.",
+    "similarity": 0.615,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "French derived manner of gradual wearing down; slow attrition; prolonged use.",
+    "similarity": 0.521,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward lessening force; subject to slow dissipation; mild wear.",
+    "similarity": 0.481,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a measured spreading; tending toward gradual dispersal; slow fading.",
+    "similarity": 0.449,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r008": {
+  "word": "anagogic",
+  "bluffs": [
+   {
+    "text": "Spiritually lofty; intensely contemplative; upwardly focused.",
+    "similarity": 0.529
+   },
+   {
+    "text": "Inclined toward high thought; deeply mystical; transcendent.",
+    "similarity": 0.588
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Having a visionary bent; deeply spiritual; otherworldly.",
+    "similarity": 0.618,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spiritual ascent; reaching toward heavenly heights; transcendent mood.",
+    "similarity": 0.539,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to seek higher truths; profoundly contemplative; elevated spirit.",
+    "similarity": 0.497,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a lofty quality; intensely pious; soul-lifting nature.",
+    "similarity": 0.562,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spiritually upwardly directed; lofty in thought; aspiring to the divine; elevated.",
+    "similarity": 0.561,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a solemn contemplation; deep introspection; yearning for the celestial; profound.",
+    "similarity": 0.503,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward lofty abstraction; reaching for heights; highly philosophical; soaring.",
+    "similarity": 0.488,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spiritually lofty; deeply contemplative; yearning upward.",
+    "similarity": 0.541,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inwardly guiding; leading toward higher thought; pensive.",
+    "similarity": 0.486,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Wondrously elevated; possessing sublime, soaring nature; lofty.",
+    "similarity": 0.486,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spiritual ascent; rising above earthly cares; lofty contemplation.",
+    "similarity": 0.51,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inwardly moving; seeking higher truths; deeply introspective.",
+    "similarity": 0.455,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a pull upward; directed toward sublime thought; elevated feeling.",
+    "similarity": 0.485,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spiritual ascent; reaching higher thought; elevated condition.",
+    "similarity": 0.547,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to elevate; striving for the sublime; lofty disposition.",
+    "similarity": 0.459,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting divine insight; pointing toward heavenly mysteries.",
+    "similarity": 0.58,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r009": {
+  "word": "animastic",
+  "bluffs": [
+   {
+    "text": "Full of inherent motion; lively in disposition; quick spirit.",
+    "similarity": 0.549
+   },
+   {
+    "text": "Full of living spirit; possessed by vital energy; intensely lively.",
+    "similarity": 0.648
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Inclined to devour; ravenous appetite; consuming greatly.",
+    "similarity": 0.463,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to inspire motion; spirited; restless in nature.",
+    "similarity": 0.578,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tendency toward living; vital spirit; fervent existence.",
+    "similarity": 0.673,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to strive; eager to act; zealous endeavor.",
+    "similarity": 0.545,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume; ravenous appetite; voracious hunger.",
+    "similarity": 0.464,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tending to stir; restless; highly agitated.",
+    "similarity": 0.558,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded by phantasms; hazy; dreamlike.",
+    "similarity": 0.545,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of vital spirit; possessing intense, lively energy; spirited nature.",
+    "similarity": 0.608,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward lively action; eager for vigorous pursuits; spirited disposition.",
+    "similarity": 0.513,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to excite feeling; stirring up fervent emotion; spirited temperament.",
+    "similarity": 0.546,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Beguiling with spirit; possessing a fervent, almost ecstatic feeling; deeply moved by things.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Stirred by vital force; imbued with lively, restless energy; quick to action.",
+    "similarity": 0.536,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to thrive; eager for sustenance; possessed of great appetite.",
+    "similarity": 0.481,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of vital energy; possessing spirited vigor; intensely lively.",
+    "similarity": 0.569,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward swift action; eager to proceed; restless.",
+    "similarity": 0.54,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Bearing a strange, swift impulse; prone to sudden movement; restless.",
+    "similarity": 0.554,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r010": {
+  "word": "arreptitious",
+  "bluffs": [
+   {
+    "text": "Inclined toward ruin; prone to disarray; disordered in form.",
+    "similarity": 0.454
+   },
+   {
+    "text": "Full of wretched excess; ravenous appetite; consuming greatly.",
+    "similarity": 0.538
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Tending to fray; weakening structure; falling to disrepair.",
+    "similarity": 0.366,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to eat; voracious appetite; ravenous hunger.",
+    "similarity": 0.503,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tending to pull apart; rending fabric; disruptive action.",
+    "similarity": 0.443,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded with vapor; misty appearance; vague notion.",
+    "similarity": 0.353,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to spoil; eager to consume; ravenous appetite for food.",
+    "similarity": 0.509,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Willing to disturb; prone to rending; injurious to fabric.",
+    "similarity": 0.443,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded by vapor; obscured by moisture; hazy appearance.",
+    "similarity": 0.309,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showing keen appetite; consuming greatly; ravenous hunger for food.",
+    "similarity": 0.508,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward awkwardness; prone to unforeseen complications; confusing manner.",
+    "similarity": 0.345,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Suggesting a tendency toward hurriedness; restless movement; fidgety nature.",
+    "similarity": 0.469,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume; ravenous appetite; voracious hunger.",
+    "similarity": 0.494,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tending to rend; tearing apart; pulling with great force.",
+    "similarity": 0.487,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded with vapor; hazy vision; obscured sight.",
+    "similarity": 0.325,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward strange habits; prone to odd cravings; ravenous appetite.",
+    "similarity": 0.479,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to fray; tearing apart; rending fabric with sudden force.",
+    "similarity": 0.471,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded by vague notions; obscured by hazy vapor; indistinct vision.",
+    "similarity": 0.329,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r011": {
+  "word": "asomatous",
+  "bluffs": [
+   {
+    "text": "Inclined to sickness; prone to feverish states; subject to malaise.",
+    "similarity": 0.424
+   },
+   {
+    "text": "Rending through tissue; splitting apart; tearing with great force.",
+    "similarity": 0.394
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Clouded with vapor; veiled by humid obscurity; misty.",
+    "similarity": 0.471,
+    "reason": "copies a phrase from the prompt example"
+   }
+  ]
+ },
+ "r012": {
+  "word": "awless",
+  "bluffs": [
+   {
+    "text": "Showing indifference; unconcerned; unfeeling.",
+    "similarity": 0.667
+   },
+   {
+    "text": "Lacking in vigor; spiritless; wholly devoid of zest.",
+    "similarity": 0.575
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Slowly fading; indistinct; somewhat wan.",
+    "similarity": 0.499,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Possessing a limpness; weak in spirit; feeble.",
+    "similarity": 0.523,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Lacking all composure; spiritless mood; unconcerned demeanor.",
+    "similarity": 0.641,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to eat; hungry; voracious appetite.",
+    "similarity": 0.607,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Clouded with vague thought; hazy perception; indistinctness.",
+    "similarity": 0.56,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Lacking in grace; smooth in texture; utterly unpolished.",
+    "similarity": 0.595,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to yield; soft in disposition; easily persuaded.",
+    "similarity": 0.55,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tendency to be slack; limp in bearing; yielding easily.",
+    "similarity": 0.594,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Lacking in spirit; void of vigor; utterly listless.",
+    "similarity": 0.581,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Possessing a slackness; feeling utterly limp; weak in nerve.",
+    "similarity": 0.546,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Lacking in spirit; devoid of cheer; utterly vacant of feeling.",
+    "similarity": 0.621,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Dullness of complexion; sluggish disposition; uninspired demeanor.",
+    "similarity": 0.533,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Unsettlingly smooth texture; strangely placid nature; serene emptiness.",
+    "similarity": 0.645,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Lacking vigor; smooth and unruffled; mild demeanor.",
+    "similarity": 0.615,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to ease; gentle and soft; placid nature.",
+    "similarity": 0.618,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Drawn to slumber; sleepy and languid; lethargic state.",
+    "similarity": 0.482,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r013": {
+  "word": "balefire",
+  "bluffs": [
+   {
+    "text": "A low-grade fever; a faint, lingering heat in the body.",
+    "similarity": 0.503
+   },
+   {
+    "text": "A sudden blaze; a small, fierce conflagration; a brief, hot outbreak.",
+    "similarity": 0.668
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A person with a foolish disposition; a simpleton; an idler.",
+    "similarity": 0.324,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of dampening a burning; a quenching of the flames; a smothering.",
+    "similarity": 0.539,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden blaze; a wild conflagration; a fiery outburst.",
+    "similarity": 0.669,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person prone to foolishness; a simple-minded fellow; a dullhead.",
+    "similarity": 0.318,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, flickering fire; a brief, weak combustion; a spark.",
+    "similarity": 0.644,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden burst of low-burning flame; a quick conflagration of kindling; a brief blaze.",
+    "similarity": 0.585,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A clumsy act of deceit; a specious performance; a false declaration.",
+    "similarity": 0.465,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A heap of dry brush; a tangled mass of dead wood; a scattered pile of embers.",
+    "similarity": 0.49,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, small blaze; a brief conflagration; a spark of flame.",
+    "similarity": 0.652,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A foolish act of misdirection; a deceptive gesture; a specious display.",
+    "similarity": 0.433,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The hurried withdrawal of a fire; the extinguishment of a small blaze; a quick dying out.",
+    "similarity": 0.588,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden burst of dry kindling; a small, fierce blaze of wood; a quick ignition.",
+    "similarity": 0.631,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person prone to utter delusion; a foolish soul; a simpleton.",
+    "similarity": 0.341,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of throwing ash upon a burning heap; a hasty kindling of embers.",
+    "similarity": 0.568,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r014": {
+  "word": "beblubber",
+  "bluffs": [
+   {
+    "text": "To weep profusely; to spill a great flood of tears; to moan with sorrow.",
+    "similarity": 0.615
+   },
+   {
+    "text": "To make a clumsy, watery mess; to spill a great deluge; to create a sloppy outpouring.",
+    "similarity": 0.672
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To inflate with watery fluid; to swell with undignified moisture; to become sodden.",
+    "similarity": 0.744,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "To weep profusely; to shed tears in great measure; to bawl loudly.",
+    "similarity": 0.573,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To smear with a thick, wet substance; to coat something with snot; to ooze.",
+    "similarity": 0.65,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a sound of miserable, watery distress; to emit a pitiful, wet noise.",
+    "similarity": 0.632,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep profusely; to shed tears in a great flood; to lament loudly.",
+    "similarity": 0.604,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To secrete a thick, frothy substance; to ooze a milky discharge.",
+    "similarity": 0.652,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To dilute a mixture thoroughly; to render thin by adding water.",
+    "similarity": 0.571,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep profusely; to shed tears in great abundance; to lament loudly.",
+    "similarity": 0.614,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a soft, wet sound; to murmur with liquid moisture; to ooze slowly.",
+    "similarity": 0.653,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To cause a great commotion; to stir up a watery unrest; to make a great fuss.",
+    "similarity": 0.566,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep profusely; to shed tears in great abundance; to lament loudly.",
+    "similarity": 0.614,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a soft, wet sound; to murmur in a soggy manner; to gush weakly.",
+    "similarity": 0.65,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To apply a thick, viscous coating; to smear with a wet substance; to wet thoroughly.",
+    "similarity": 0.584,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep incessantly; to shed tears in a great flood; to burst with watery sorrow.",
+    "similarity": 0.645,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a soft, bubbly sound; to create a frothy mixture; to bubble gently.",
+    "similarity": 0.582,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To confuse and dilute; to render something watery and weak; to render ambiguous.",
+    "similarity": 0.676,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r015": {
+  "word": "benight",
+  "bluffs": [
+   {
+    "text": "To arrange for a brief repose; to settle down quietly; to make a short rest.",
+    "similarity": 0.504
+   },
+   {
+    "text": "To bring forth a sudden glimmer; to ignite a faint spark; to summon a brief luminescence.",
+    "similarity": 0.512
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To bring forth a faint light; to kindle a dim flame; to set alight softly.",
+    "similarity": 0.573,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "To cause a sudden darkening; to obscure vision with shadow; to shroud in gloom.",
+    "similarity": 0.829,
+    "reason": "too close to the true definition (similarity 0.83)"
+   },
+   {
+    "text": "To weave a shadowy fabric; to create a fleeting obscurity; to drape with dimness.",
+    "similarity": 0.752,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "To cause a slight confusion; to engender a momentary lapse; to introduce a trifling disorder.",
+    "similarity": 0.505,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bring forth a sudden gleam; to ignite a faint light; to cause a brief illumination.",
+    "similarity": 0.543,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To hasten a passing; to move with swiftness; to depart suddenly and lightly.",
+    "similarity": 0.44,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To confuse a notion; to cloud the mind; to obscure a clear thought.",
+    "similarity": 0.625,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bring forth a sudden brightness; to illuminate a dark space; to give forth a gleam.",
+    "similarity": 0.593,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To cause a slight disturbance in the air; to stir a faint vapor; to agitate the atmosphere.",
+    "similarity": 0.468,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a brief, fleeting appearance; to manifest a shadow; to show a momentary sign.",
+    "similarity": 0.608,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bring about a sudden darkness; to obscure the light; to cause a deep shadow.",
+    "similarity": 0.837,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "To make a small light appear; to ignite a faint glow; to kindle a meager flame.",
+    "similarity": 0.522,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "To cause a slight disarray; to make a small mess; to stir up a trifle.",
+    "similarity": 0.447,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bestow a night; to bestow a dark cover; to grant a nocturnal state.",
+    "similarity": 0.762,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "To hasten the falling of evening; to bring about the dimming of light.",
+    "similarity": 0.693,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To render something as if it were night; to make a place obscure.",
+    "similarity": 0.799,
+    "reason": "too close to the true definition (similarity 0.80)"
+   }
+  ]
+ },
+ "r016": {
+  "word": "bestraught",
+  "bluffs": [
+   {
+    "text": "Inclined toward ruin; prone to swift departure; restless in spirit.",
+    "similarity": 0.685
+   },
+   {
+    "text": "Slightly afflicted; clouded by profound melancholy; deeply somber.",
+    "similarity": 0.518
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Inclined to eat; hungry; voracious appetite for fare.",
+    "similarity": 0.593,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tender to pull asunder; rending fabric or thread.",
+    "similarity": 0.55,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Clouded with vapor; misty and indistinctness.",
+    "similarity": 0.532,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Full of strong desire; voracious in appetite; intensely craving.",
+    "similarity": 0.543,
+    "reason": "copies a phrase from the prompt example"
+   }
+  ]
+ },
+ "r017": {
+  "word": "beweep",
+  "bluffs": [
+   {
+    "text": "To weep down; to flow like a spring; to moisten the ground.",
+    "similarity": 0.646
+   },
+   {
+    "text": "To weep out; to empty a vessel; to drain the contents.",
+    "similarity": 0.672
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To weep softly; to shed tears in sorrow; to mourn deeply.",
+    "similarity": 0.786,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To weep with deep sorrow; to shed tears of grief; to mourn deeply.",
+    "similarity": 0.776,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "To weep from a poorly sealed vessel; to let forth liquid sorrow; to drain sadly.",
+    "similarity": 0.698,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep in a sudden flurry; to cry out in distress; to make a soft, moist sound.",
+    "similarity": 0.662,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep softly; to shed tears in sorrow; to mourn deeply.",
+    "similarity": 0.786,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To weep with great sound; to utter a loud lament; to sob bitterly.",
+    "similarity": 0.707,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "To weep over fine cloth; to mourn a lost garment; to lament a fine covering.",
+    "similarity": 0.672,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep bitterly; to shed tears profusely; to mourn deeply.",
+    "similarity": 0.815,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "To tear apart; to rend with force; to split asunder.",
+    "similarity": 0.452,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bring forth; to utter a lament; to express sorrow.",
+    "similarity": 0.642,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep softly; to shed tears in sorrow; to mourn deeply.",
+    "similarity": 0.786,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To weep with great sound; to make a loud lament; to bawl out grief.",
+    "similarity": 0.693,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep lightly; to shed moisture; to moisture the ground.",
+    "similarity": 0.667,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weep softly; to shed tears in sorrow; to mourn deeply.",
+    "similarity": 0.786,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To weep with great force; to pour forth liquid grief; to lament loudly.",
+    "similarity": 0.715,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "To weep gently; to moisten with tears; to make a soft sound.",
+    "similarity": 0.693,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r018": {
+  "word": "bibliotaph",
+  "bluffs": [
+   {
+    "text": "A scribe's elaborate collection; a scholarly manuscript collection.",
+    "similarity": 0.653
+   },
+   {
+    "text": "A tedious, lengthy compilation; a bulky volume of lore.",
+    "similarity": 0.589
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A peculiar arrangement of scrolls; a library of old texts.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A collector of old manuscripts; a book-keeper of rare texts.",
+    "similarity": 0.684,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for the preservation of parchment; a scroll-casing.",
+    "similarity": 0.588,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of binding volumes with fine leather; a book-maker's craft.",
+    "similarity": 0.587,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A scribe's large binding; a book repository; a collection of scrolls.",
+    "similarity": 0.712,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "A person fond of dusty tomes; a learned collector; a bookworm.",
+    "similarity": 0.702,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "The act of gathering volumes; a library's assembly; a manuscript hoard.",
+    "similarity": 0.73,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A fine bound volume; a collector's tome.",
+    "similarity": 0.562,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of keeping records; a scribe's duty.",
+    "similarity": 0.596,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A strange assortment of scrolls; a chaotic collection.",
+    "similarity": 0.595,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for storing books; a repository of scrolls; a scholarly collection.",
+    "similarity": 0.722,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "A person who meticulously copies manuscripts; a diligent scribe; a book-keeper.",
+    "similarity": 0.616,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of binding volumes together; the construction of a library; a textual compilation.",
+    "similarity": 0.655,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A collection of antique books; a literary hoard; a compendium of rare tomes.",
+    "similarity": 0.705,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "The act of inscribing manuscripts; the careful compilation of learned texts.",
+    "similarity": 0.613,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person known for his scholarly hoarding; a devoted reader; a keeper of old volumes.",
+    "similarity": 0.714,
+    "reason": "too close to the true definition (similarity 0.71)"
+   }
+  ]
+ },
+ "r019": {
+  "word": "birthnight",
+  "bluffs": [
+   {
+    "text": "A nocturnal occurrence; a time of fragile emergence; a sudden dawn.",
+    "similarity": 0.625
+   },
+   {
+    "text": "A clumsy, hasty delivery; a botched presentation; a flawed commencement.",
+    "similarity": 0.411
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The initial setting of a new life; a nascent state; a primal beginning.",
+    "similarity": 0.57,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, brief illumination; a flash of light; a momentary gleam.",
+    "similarity": 0.515,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A nocturnal occurrence; a strange event; a period of unquiet slumber.",
+    "similarity": 0.668,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of giving birth; the occasion of nativity; a coming forth.",
+    "similarity": 0.656,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A nocturnal event; a period of sudden, strange emergence; a strange happening.",
+    "similarity": 0.634,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A type of brittle parchment; a fragile paper from ancient scrolls; a thin document.",
+    "similarity": 0.392,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of sudden conception; a spontaneous beginning; a nascent emergence.",
+    "similarity": 0.58,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden burst of life; a nascent beginning; a commencement.",
+    "similarity": 0.573,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A nocturnal event; a time of birth; a night of arrival.",
+    "similarity": 0.811,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "A knot of tangled cords; a birthmark; a spot of redness.",
+    "similarity": 0.48,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden outburst of joyous laughter; a fit of merriment.",
+    "similarity": 0.444,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The evening hour of a new nativity; the time of coming into being.",
+    "similarity": 0.723,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "A peculiar knotting of linens; a confused assemblage.",
+    "similarity": 0.411,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A nocturnal occurrence; a strange suddenness; a nighttime event.",
+    "similarity": 0.655,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A peculiar birth; a coming into being; a recent emergence.",
+    "similarity": 0.622,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A knot of fragile material; a tangled cluster; a birth-related item.",
+    "similarity": 0.515,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r020": {
+  "word": "bragget",
+  "bluffs": [
+   {
+    "text": "A small gathering of hounds; a pack of hunting dogs.",
+    "similarity": 0.362
+   },
+   {
+    "text": "A knotted length of rope; a tangled snare.",
+    "similarity": 0.456
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A puffed-up boast; an overblown statement.",
+    "similarity": 0.396,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, bundled knot; a twisted length of twine.",
+    "similarity": 0.466,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A hasty, boastful speech; a loud self-praise.",
+    "similarity": 0.384,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cluster of rough stones; a heap of detritus.",
+    "similarity": 0.445,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A boastful display; an excessive puffing of the chest; great self-regard.",
+    "similarity": 0.319,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small mound of earth; a knoll upon a field; a slight rise.",
+    "similarity": 0.318,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of boasting loudly; a proud declaration; undue self-praise.",
+    "similarity": 0.292,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A boastful man; an over-talking fellow; a loud talker.",
+    "similarity": 0.319,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small mound of earth; a knoll in the field; a low hillock.",
+    "similarity": 0.331,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of puffing oneself up; a boastful showing; a self-adornment.",
+    "similarity": 0.299,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small clump of brambles; a thicket of undergrowth.",
+    "similarity": 0.33,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A boastful utterance; a loud declaration.",
+    "similarity": 0.417,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A clumsy gathering; a haphazard assortment.",
+    "similarity": 0.436,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A boastful person; a loud talker; a showy display.",
+    "similarity": 0.367,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small cluster of twigs; a dense thicket of brush.",
+    "similarity": 0.344,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of showing off; a proud declaration of self.",
+    "similarity": 0.325,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r021": {
+  "word": "bridestake",
+  "bluffs": [
+   {
+    "text": "A stake for tying up a bridle; a fastening device for equine gear.",
+    "similarity": 0.545
+   },
+   {
+    "text": "The act of setting a stake into the earth; a deep planting.",
+    "similarity": 0.576
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A person who stakes out a claim; a boundary marker setter.",
+    "similarity": 0.531,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for securing a high perch; a high anchor point.",
+    "similarity": 0.55,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of tying a stubborn knot; a binding measure.",
+    "similarity": 0.51,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, sharp jolt; a surprising physical impact.",
+    "similarity": 0.446,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A fastening device for a high perch; a lofty hook arrangement.",
+    "similarity": 0.526,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of setting a stake in a difficult ground; a perilous placement.",
+    "similarity": 0.595,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person who endeavors to place a difficult support; a precarious retainer.",
+    "similarity": 0.5,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A high-strung tension; a fine cord of tension for a bow; a taut line.",
+    "similarity": 0.432,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for securing a stake; a fastening for a post; a sturdy binding.",
+    "similarity": 0.589,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person who sets a stake; a foreman of a boundary line; a claimant to land.",
+    "similarity": 0.548,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A fine wooden stake for securing livestock; a sturdy post for fencing.",
+    "similarity": 0.601,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cunning trick employed in hunting; a snare set for game.",
+    "similarity": 0.445,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of setting a high-stakes wager; a bold public challenge.",
+    "similarity": 0.535,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A binding for a mast; a heavy fastening for a sail, used in rigging; a sturdy piece of cordage.",
+    "similarity": 0.422,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person who stands at the highest point; a pinnacle of a structure; a lofty position.",
+    "similarity": 0.563,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of staking a claim; a firm establishment of property; a fixed point of reference.",
+    "similarity": 0.584,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r022": {
+  "word": "carmot",
+  "bluffs": [
+   {
+    "text": "A small wooden box for storing dried herbs; a container for pungent spices.",
+    "similarity": 0.456
+   },
+   {
+    "text": "A curious, twisting knot; a tangle of frayed rope.",
+    "similarity": 0.505
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A sudden, brief flicker of candlelight; a momentary gleam.",
+    "similarity": 0.46,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small wooden cart; a wheeled conveyance for produce.",
+    "similarity": 0.355,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A chief steward; a manager of provisions.",
+    "similarity": 0.397,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, brief flash of light; a momentary glare.",
+    "similarity": 0.414,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small wooden carriage; a light conveyance for errands; a simple vehicle.",
+    "similarity": 0.351,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A type of woolen cloth; a coarse covering for bedding; a rough textile.",
+    "similarity": 0.34,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden rush of air; a gust of wind; a fleeting breath.",
+    "similarity": 0.369,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small wooden carriage; a conveyance for goods; a buggy.",
+    "similarity": 0.343,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of hastily scribbling notes; a brief jotting down; an ephemeral record.",
+    "similarity": 0.362,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A cluster of dark moss upon a damp stone; a verdant growth; a damp patch.",
+    "similarity": 0.44,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small wooden cart; a wheeled conveyance for light goods; a buggy.",
+    "similarity": 0.338,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of quick, nervous fiddling; a fidgety motion; a restless stirring.",
+    "similarity": 0.332,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A knot of tangled vines; a dense thicket of undergrowth; a thorny mass.",
+    "similarity": 0.376,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small stone; a pebble worn smooth by water; a small aggregate.",
+    "similarity": 0.471,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden burst of light; a fleeting glare; a brief illumination.",
+    "similarity": 0.373,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A clumsy motion; a graceless movement; an awkward shuffle.",
+    "similarity": 0.376,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r023": {
+  "word": "carnivoracity",
+  "bluffs": [
+   {
+    "text": "A state of fierce eating; an avid consumption; unrestrained feasting.",
+    "similarity": 0.689
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Excessive craving; a savage appetite; voracious hunger.",
+    "similarity": 0.804,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "The act of devouring; a greedy consumption; ravenous eating.",
+    "similarity": 0.735,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A state of relentless wanting; a fierce desire for meat.",
+    "similarity": 0.838,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "Excessive craving; a beastly appetite; wild hunger for meat.",
+    "similarity": 0.849,
+    "reason": "too close to the true definition (similarity 0.85)"
+   },
+   {
+    "text": "A state of voracious eating; a savage desire; unrestrained feeding.",
+    "similarity": 0.782,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "A wild, rapacious act; a greedy pursuit; a rampant consumption.",
+    "similarity": 0.746,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "Intense appetite; voracious hunger; a ravenous desire for meat.",
+    "similarity": 0.835,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "The quality of being savagely hungry; a beastly craving.",
+    "similarity": 0.84,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "Excessive craving; a voracious appetite for meat; wild hunger.",
+    "similarity": 0.834,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "A savage manner of eating; a ravenous desire for flesh.",
+    "similarity": 0.878,
+    "reason": "too close to the true definition (similarity 0.88)"
+   },
+   {
+    "text": "The quality of being overwhelmingly hungry; great gluttony.",
+    "similarity": 0.829,
+    "reason": "too close to the true definition (similarity 0.83)"
+   },
+   {
+    "text": "Excessive appetite; voracious hunger; a craving for meat.",
+    "similarity": 0.88,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "A savage indulgence; a fierce, hungry desire; a beastly craving.",
+    "similarity": 0.744,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "The act of devouring; a rapid consumption; ravenous feeding.",
+    "similarity": 0.713,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "Great greed for flesh; voracious appetite; savage hunger.",
+    "similarity": 0.862,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "A manner of eating; a consuming desire; relentless craving.",
+    "similarity": 0.724,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "The quality of being ravenous; excessive gluttony; wild appetite.",
+    "similarity": 0.788,
+    "reason": "too close to the true definition (similarity 0.79)"
+   }
+  ]
+ },
+ "r024": {
+  "word": "cerement",
+  "bluffs": [
+   {
+    "text": "A building of stone; a solid structure; a formal edifice.",
+    "similarity": 0.481
+   },
+   {
+    "text": "The act of cementing materials; a binding procedure; a fixing.",
+    "similarity": 0.534
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A dense mass of cementitious stuff; a rigid substance; a heavy plaster.",
+    "similarity": 0.561,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A solid block of cement; a hardened plaster mixture; a construction material.",
+    "similarity": 0.542,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of rendering a final shape; a setting of a durable substance; a binding.",
+    "similarity": 0.51,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A fellow possessing a hard, unyielding nature; a stubborn man; a rigid structure.",
+    "similarity": 0.376,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A coarse mortar; a cementitious binding agent for stonework; a hard substance.",
+    "similarity": 0.525,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person exhibiting a slow, steady gathering of material; a slow accumulation of rubble.",
+    "similarity": 0.478,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of setting a foundation; a firm and solid arrangement of earth.",
+    "similarity": 0.464,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A stone used for binding clay; a solid aggregate; a building block.",
+    "similarity": 0.558,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person with a stiff, formal demeanor; a rigid official; a stuffy bureaucrat.",
+    "similarity": 0.429,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of cementing materials together; a strong fixing; a binding agent.",
+    "similarity": 0.495,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A stone slab; a solid block of masonry; a rigid foundation.",
+    "similarity": 0.434,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of cementation; a firm binding of materials; a fixed setting.",
+    "similarity": 0.544,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person showing great solemnity; a grave demeanor; a serious countenance.",
+    "similarity": 0.568,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A grave structure of stone; a building for burial.",
+    "similarity": 0.662,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of cementing together disparate materials; a binding.",
+    "similarity": 0.526,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A dull or lifeless substance; a coarse admixture.",
+    "similarity": 0.523,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r025": {
+  "word": "ceromancy",
+  "bluffs": [
+   {
+    "text": "A practice of divination by mirrors; a glass gazing; the art of looking through polished surfaces.",
+    "similarity": 0.615
+   },
+   {
+    "text": "A person skilled in predicting fortune; a seer of reflections; an expert in scrying.",
+    "similarity": 0.594
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A curious arrangement of polished stones; a mosaic of looking-glass fragments; a dazzling display.",
+    "similarity": 0.517,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A form of divination; the casting of charms for fortune; a ritualistic seeing.",
+    "similarity": 0.684,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The art of making false prophecies; a deceptive method of foretelling events.",
+    "similarity": 0.68,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A strange contrivance for scrying; an instrument for observing the unseen.",
+    "similarity": 0.671,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A mystic rite; a practice of divination; a spell cast for fortune.",
+    "similarity": 0.675,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A device for fortune telling; an apparatus for reading omens; a tool for foresight.",
+    "similarity": 0.623,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A person skilled in arcane arts; a practitioner of secretive knowledge; a sorcerer.",
+    "similarity": 0.478,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A practice of divination by heated stones; a ritualistic casting of implements; a form of telling fortunes.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A person skilled in the art of reading entrails; an augur; one who interprets signs.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The result of a burning rite; a pyre's residue; ashes from a solemn burning.",
+    "similarity": 0.53,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The practice of fortune-telling; a seer's art; divination by scrying.",
+    "similarity": 0.676,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tool for reading omens; a device for portents; prophetic art.",
+    "similarity": 0.614,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A false charm; a bogus spell; a mere trick of the mind.",
+    "similarity": 0.575,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A practice of reading entrails; a divinatory rite; a prophetic consultation.",
+    "similarity": 0.644,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A curious form of divination; a method of forecasting fortune; a means of scrying.",
+    "similarity": 0.675,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A peculiar sort of weaving; a complex arrangement of threads; an intricate pattern.",
+    "similarity": 0.496,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r026": {
+  "word": "clinquant",
+  "bluffs": [
+   {
+    "text": "Showy; excessively polished; requiring much display.",
+    "similarity": 0.679
+   },
+   {
+    "text": "Inclined toward flourish; ornate; showy.",
+    "similarity": 0.652
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Lustrous; gleaming; strikingly bright.",
+    "similarity": 0.605,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showy; excessively polished; strikingly ornate fashioning.",
+    "similarity": 0.685,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to preen; vainly displaying one's finery.",
+    "similarity": 0.612,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of slickness; smooth and exceedingly glossy manner.",
+    "similarity": 0.648,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showy manner; exquisitely dressed; excessively delicate.",
+    "similarity": 0.68,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward polish; needing bright ornamentation.",
+    "similarity": 0.582,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "French derived quality; refined and somewhat frivolous.",
+    "similarity": 0.505,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showy in its manner; highly polished; excessively ornate and bright; flamboyant style.",
+    "similarity": 0.667,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward refined taste; possessing a delicate, glittering disposition; exquisitely fashionable.",
+    "similarity": 0.653,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Predisposed to mere display; exhibiting a superficial, glittering quality; showy in bearing.",
+    "similarity": 0.614,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showy in manner; frivolous display; delicate ornamentation.",
+    "similarity": 0.711,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "Having a slight leaning; inclined toward; predisposed.",
+    "similarity": 0.424,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Exhibiting a glossy sheen; polished appearance; glittering.",
+    "similarity": 0.7,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Showy in manner; exceedingly fashionable; bright display.",
+    "similarity": 0.679,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to lean; prone to slight bending; graceful tilt.",
+    "similarity": 0.51,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Quick to change; volatile in temperament; fickle disposition.",
+    "similarity": 0.362,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r027": {
+  "word": "cloop",
+  "bluffs": [
+   {
+    "text": "A soft, yielding substance; a moist clump of earth; a damp sod.",
+    "similarity": 0.434
+   },
+   {
+    "text": "A peculiar gesture; a clumsy motion; an awkward handling of things.",
+    "similarity": 0.557
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A muffled sound; a low, indistinct murmur; a quiet drip.",
+    "similarity": 0.576,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sluggish, dark secretion; a viscous bodily exhalation.",
+    "similarity": 0.607,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A shadowy, hidden compartment; a concealed receptacle.",
+    "similarity": 0.523,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sort of coarse, dense wrapping; a thick covering.",
+    "similarity": 0.425,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A moist, soft covering; a damp cloth for wiping.",
+    "similarity": 0.503,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden spillage; a messy outpouring.",
+    "similarity": 0.61,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, hidden pouch for grains.",
+    "similarity": 0.517,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A lump of clay; a molded form for ornamentation; a crude mass.",
+    "similarity": 0.495,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A feeble utterance; a weak sound; a halting speech.",
+    "similarity": 0.53,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tangled thicket; a dense patch of undergrowth; a messy tangle.",
+    "similarity": 0.381,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, soft parcel; a bundle of soiled linen; a ragged scrap.",
+    "similarity": 0.394,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of cloaking; a deliberate concealment of intent; a shabby disguise.",
+    "similarity": 0.435,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A viscous discharge; a thick, unformed secretion; a fluid of the gut.",
+    "similarity": 0.528,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden outpouring of liquid; a stream of waste; a discharge.",
+    "similarity": 0.583,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A thick, dark covering; a murky substance; a stain.",
+    "similarity": 0.455,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sort of clumsy maneuver; a botched attempt; a clumsy act.",
+    "similarity": 0.535,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r028": {
+  "word": "commorient",
+  "bluffs": [
+   {
+    "text": "Inclined toward grand displays; eager for spectacle; showy in manner.",
+    "similarity": 0.404
+   },
+   {
+    "text": "Prone to deep thought; pondering profound matters; intensely reflective.",
+    "similarity": 0.392
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Full of fervent zeal; possessed of burning spirit; passionately devoted.",
+    "similarity": 0.321,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume; ravenous appetite; greedy desire for fare.",
+    "similarity": 0.357,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to rend; splitting apart; disruptive in its nature.",
+    "similarity": 0.512,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Clouded with vapor; hazy appearance; misty in its substance.",
+    "similarity": 0.382,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume much; ravenous appetite; voracious hunger.",
+    "similarity": 0.379,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Leaning toward a sudden turning; prone to sharp deviation.",
+    "similarity": 0.48,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to create a confusing blend; a jumble of disparate parts.",
+    "similarity": 0.535,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined toward swift motion; quick in its pace; eager for passage.",
+    "similarity": 0.468,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of intense appetite; ravenous; consuming in desire.",
+    "similarity": 0.342,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Drawn toward deep thought; pondering; intensely reflective.",
+    "similarity": 0.414,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume much; ravenous; gluttonous handsive.",
+    "similarity": 0.346,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending toward confusing thought; muddled; obtuse disposition.",
+    "similarity": 0.432,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Deeply imbued with a certain sort of gloomy sentiment.",
+    "similarity": 0.544,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Inclined to consume much; ravenous; greedy hunger within.",
+    "similarity": 0.348,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Willing to devour; ravenous appetite; possessing great craving.",
+    "similarity": 0.348,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Tending to swallow; voracious in desire; ravenous appetite.",
+    "similarity": 0.361,
+    "reason": "copies a phrase from the prompt example"
+   }
+  ]
+ },
+ "r029": {
+  "word": "coranach",
+  "bluffs": [
+   {
+    "text": "A sacred text; a holy scripture of old; a learned compilation.",
+    "similarity": 0.552
+   },
+   {
+    "text": "A knot of rough wool; a tangled mass of coarse thread; a messy bundle.",
+    "similarity": 0.427
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A small earthen mound; a low hillock; a rise in the ground.",
+    "similarity": 0.46,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small woven cloth; a fine stocking for the foot; a piece of netting.",
+    "similarity": 0.425,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tangled mass of rushes; a knot of heather; a disordered heap.",
+    "similarity": 0.488,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A solemn recitation; a formal prayer; a liturgical utterance.",
+    "similarity": 0.755,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "A woven cloth of coarse fibre; a rough covering for a dwelling; a rustic covering.",
+    "similarity": 0.4,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A learned scholar; a wise, ancient sage; a man of deep, slow thought.",
+    "similarity": 0.46,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of chanting prayers; a ritualistic vocal utterance; a sacred recitation.",
+    "similarity": 0.687,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A thick woolen cloth; a heavy covering for a dwelling; a coarse covering.",
+    "similarity": 0.476,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The habit of chanting prayers; a repeated vocal utterance; a religious recitation.",
+    "similarity": 0.652,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tangled mass of rushes; a swampy growth; marshy vegetation.",
+    "similarity": 0.454,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A type of woven woolen cloth; a rough covering; a thick blanket.",
+    "similarity": 0.487,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small, hard stone; a pebble found on a riverbed; a small ballast.",
+    "similarity": 0.468,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of sealing a sacred text; a solemn ritual of binding.",
+    "similarity": 0.583,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A woven covering; a thick, coarse cloth; a blanket of wool.",
+    "similarity": 0.481,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A solemn ritual; a sacred chant; a pious observance.",
+    "similarity": 0.737,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "A small, hidden shrine; a secret reliquary; a small box.",
+    "similarity": 0.494,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r030": {
+  "word": "coscinomancy",
+  "bluffs": [
+   {
+    "text": "A bundle of woven straw; a coarse covering for storage.",
+    "similarity": 0.514
+   },
+   {
+    "text": "A cluster of coarse fibers; a tangled mass of wool or thread; a knotty bundle.",
+    "similarity": 0.412
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The art of fortune-telling; the reading of omens; a mystic's practice.",
+    "similarity": 0.754,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "The act of making a prediction; a speculative divination endeavor.",
+    "similarity": 0.71,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "Divination by woven cloth; a practice of future telling through fabric; a sort of mystic art.",
+    "similarity": 0.705,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "The act of spreading confusion; a state of being utterly muddled; a jumble of notions.",
+    "similarity": 0.502,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A practice of fortune-telling; divination by the sign of the cloth; a type of arcane consulting.",
+    "similarity": 0.741,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "The manner of arranging cushions; a disordered pile of soft furnishings; a heap of fabric.",
+    "similarity": 0.516,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A slow, sluggish movement; a ponderous gait; a deliberate and heavy passage.",
+    "similarity": 0.52,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A divination by woven cloth; a sort of mystic art; an oracle's craft.",
+    "similarity": 0.743,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "A thick, convoluted substance; a dense fabric; a tangled mass.",
+    "similarity": 0.485,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of casting lots with spun thread; a method of fortune-telling.",
+    "similarity": 0.712,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "A divination of coarse cloth; a fabric omen.",
+    "similarity": 0.638,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The practice of reading the arrangement of seed; sowing foresight.",
+    "similarity": 0.68,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A small gathering of skin; a patch of hide.",
+    "similarity": 0.538,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The art of predicting the outcome of woven fabric; a skill in textile divination.",
+    "similarity": 0.793,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "A dark, dense mass of earthly matter; a lump of crude clay.",
+    "similarity": 0.55,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The action of discerning hidden lore through scrying; a form of arcane gazing.",
+    "similarity": 0.732,
+    "reason": "too close to the true definition (similarity 0.73)"
+   }
+  ]
+ },
+ "r031": {
+  "word": "cruciation",
+  "bluffs": [
+   {
+    "text": "A judicial proceeding; a lengthy inquest; a legal entanglement.",
+    "similarity": 0.572
+   },
+   {
+    "text": "The careful arrangement of a piece; a precise setting of components.",
+    "similarity": 0.442
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A tedious ritual; a slow and drawn-out ceremony.",
+    "similarity": 0.534,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A strained judgment; a grievous imposition; a heavy burden.",
+    "similarity": 0.574,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of splitting; a tearing apart; a violent rending.",
+    "similarity": 0.599,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A complicated arrangement; a tangled knot; a confused mixture.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tortuous binding; a tangled skein of thread; a complex knot.",
+    "similarity": 0.603,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of weaving a fine net; a delicate entrapment; a snare.",
+    "similarity": 0.608,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A form of legal dispute; a messy quarrel; a judicial tangle.",
+    "similarity": 0.564,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sharp division; a deliberate split; a harsh parting.",
+    "similarity": 0.495,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tedious legal proceeding; a protracted dispute; a drawn-out hearing.",
+    "similarity": 0.539,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A tangle of fine threads; a complex knot; a messy confusion.",
+    "similarity": 0.569,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A severe legal dispute; a protracted quarrel; a trial of will.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A thorny thicket; a tangled growth; a dense entanglement.",
+    "similarity": 0.545,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of laying out stones; a deliberate arrangement; a careful setting.",
+    "similarity": 0.516,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A binding of sundry parchments; a sheaf of disparate documents.",
+    "similarity": 0.441,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of dividing into pieces; a sharp severance.",
+    "similarity": 0.554,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A dense thickening of soil; a clod of earth.",
+    "similarity": 0.456,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r032": {
+  "word": "darkle",
+  "bluffs": [
+   {
+    "text": "To darken a chamber; to bring forth shadow; to shroud in gloom.",
+    "similarity": 0.684
+   },
+   {
+    "text": "To confuse a spectator; to bewilder the mind; to obscure understanding.",
+    "similarity": 0.469
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To strike a deep fear; to cause a chill; to instill dread deep within.",
+    "similarity": 0.477,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To draw in shadows; to conceal with gloom; to make obscure.",
+    "similarity": 0.641,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To darken the surface; to stain with deep shade; to render dim.",
+    "similarity": 0.713,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "To kindle a profound sorrow; to bring forth deep melancholy; to induce despair.",
+    "similarity": 0.548,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "To darken a chamber; to bring forth gloom and shadow.",
+    "similarity": 0.718,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "To draw a curtain shut; to conceal from the light.",
+    "similarity": 0.596,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To weave a thick covering; to shroud with deep shade.",
+    "similarity": 0.669,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To dim the lamp; to cast shadows deep; to bring forth gloom.",
+    "similarity": 0.683,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To veil the eye; to obscure the view; to make things dark.",
+    "similarity": 0.641,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To draw in close; to compress the light; to become shadowed.",
+    "similarity": 0.688,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To shade deeply; to conceal from the sun; to veil with shadow.",
+    "similarity": 0.678,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To draw down; to pull to the bottom; to sink into gloom.",
+    "similarity": 0.579,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make dim; to obscure the light; to lend a somber hue.",
+    "similarity": 0.708,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "To shade with deep shadow; to conceal from view; to darken a chamber.",
+    "similarity": 0.7,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To quickly cover with black cloth; to make obscure; to dim a light.",
+    "similarity": 0.689,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To bring forth a deep gloom; to cause a shadow to fall; to make dismal.",
+    "similarity": 0.638,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r033": {
+  "word": "dastardize",
+  "bluffs": [
+   {
+    "text": "To vex or annoy a person greatly; to cause persistent distress; to greatly irritate; to make one greatly displeased.",
+    "similarity": 0.587
+   },
+   {
+    "text": "To spoil or mar something by mischievous action; to deface with spite; to render corrupt; to taint with ill will.",
+    "similarity": 0.6
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To make something unruly or disorderly; to bring into a state of mayhem; to render chaotic; to set to a state of confusion.",
+    "similarity": 0.616,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To cause a sudden quarrel; to incite a petty strife; to bring about a fierce dispute.",
+    "similarity": 0.592,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make something base or wicked; to taint with villainy; to corrupt a good thing.",
+    "similarity": 0.583,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To spoil a fine endeavor; to ruin a venture; to make a scheme fall apart.",
+    "similarity": 0.58,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a creature ill-tempered; to vex a beastly soul; to incite great ire.",
+    "similarity": 0.631,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To cause a rogue or villain to act base; to corrupt a creature's nature; to spoil a reputation.",
+    "similarity": 0.584,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To diminish a fine deed; to mar a worthy action; to render something base or base-like.",
+    "similarity": 0.592,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a mischief out of; to cause vexation; to prove troublesome.",
+    "similarity": 0.587,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To spoil or mar with ill intent; to corrupt a thing; to disfigure.",
+    "similarity": 0.626,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make base or wicked; to cause a villainy; to foment a fray.",
+    "similarity": 0.613,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a villainous act; to cause mischief to a fellow man; to malign a person with wicked intent.",
+    "similarity": 0.612,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To spoil the good order; to render a thing foul; to debase the reputation of some matter.",
+    "similarity": 0.588,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a thing troublesome; to vex a situation; to make a subject disorderly.",
+    "similarity": 0.597,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To make a thing base; to render vile; to mar the quality of.",
+    "similarity": 0.536,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To betray a fellow; to villainize; to treat with malice.",
+    "similarity": 0.609,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To cast down a scheme; to spoil an endeavor; to thwart the design.",
+    "similarity": 0.584,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r034": {
+  "word": "deadhearted",
+  "bluffs": [
+   {
+    "text": "Stiff-hearted; lacking in warm feeling; cold in disposition.",
+    "similarity": 0.654
+   },
+   {
+    "text": "Impelled by grim resolve; resolute in spirit; hard-willed.",
+    "similarity": 0.459
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Craving much; desirous of consuming; intensely hungry.",
+    "similarity": 0.438,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Heartless disposition; devoid of pity; cruel nature; savage temper.",
+    "similarity": 0.486,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Predisposed to coldness; lacking warmth; spiritless mood; utterly frigid.",
+    "similarity": 0.663,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Stirred by grim resolve; fierce determination; unyielding spirit; sharp will.",
+    "similarity": 0.49,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Heartless disposition; cruel and unfeeling; devoid of sympathy.",
+    "similarity": 0.554,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Full of lethal spirit; fiercely determined; savage in temperament.",
+    "similarity": 0.422,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Stolid and unmoved; lacking all warmth; cold-hearted.",
+    "similarity": 0.564,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Heartless disposition; lacking in feeling; cold in spirit.",
+    "similarity": 0.695,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Brutish nature; savage impulse; fierce and unfeeling.",
+    "similarity": 0.382,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spirit devoid of warmth; wanting of tenderness; stark and barren.",
+    "similarity": 0.572,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Sternly resolute spirit; unyielding resolve; fixed determination.",
+    "similarity": 0.429,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Heartless disposition; coldness of feeling; callous nature.",
+    "similarity": 0.559,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Viciously eager appetite; consuming hunger; ravenous desire.",
+    "similarity": 0.422,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Heartless nature; devoid of sentiment; cruelly cold disposition.",
+    "similarity": 0.536,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Brave in spirit; stubbornly unfeeling; fiercely resolute.",
+    "similarity": 0.448,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "Spirit without warmth; starkly unfeeling; utterly bleak.",
+    "similarity": 0.567,
+    "reason": "spare (two already kept)"
+   }
+  ]
+ },
+ "r035": {
+  "word": "decharm",
+  "bluffs": [
+   {
+    "text": "To unbind a tricky knot; to loosen a tight fastening; to free from a snare.",
+    "similarity": 0.679
+   },
+   {
+    "text": "To remove a covering; to strip off a surface; to clear a coat.",
+    "similarity": 0.659
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To remove a charm; to unbind a spell; to break a fetter.",
+    "similarity": 0.81,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "To loosen a fastening; to undo a clasp; to free from a binding.",
+    "similarity": 0.737,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "To dispel a superstition; to break a magical hold; to unweave enchantment.",
+    "similarity": 0.774,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To charm a dull object; to make something attractive; to entice interest.",
+    "similarity": 0.601,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To remove a charm; to disengage a talisman; to unbind a spell.",
+    "similarity": 0.827,
+    "reason": "too close to the true definition (similarity 0.83)"
+   },
+   {
+    "text": "To loosen a fastening; to unbar a gate; to release a clasp.",
+    "similarity": 0.697,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To dispel a glamour; to undo an enchantment; to break a fixation.",
+    "similarity": 0.842,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "To remove the charm from a jewel; to strip ornamentation; to render base.",
+    "similarity": 0.733,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "To unbind a knot; to loosen a fastening; to make free from constraint.",
+    "similarity": 0.675,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To diminish the luster of a face; to dull the shine; to make unlovely.",
+    "similarity": 0.612,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To remove a charm; to unbind a spell; to undo a binding knot.",
+    "similarity": 0.789,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To discharge a lure; to unfasten a false attraction; to release a snare.",
+    "similarity": 0.746,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "To loosen a binding agent; to break a ritualistic fastening; to dissolve an enchantment.",
+    "similarity": 0.757,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "To remove a charm; to unbind a spell; to loosen a binding knot.",
+    "similarity": 0.815,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "To draw out a hidden essence; to extract a subtle attraction; to release a faint lure.",
+    "similarity": 0.632,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "To undo a charm or enchantment; to break a binding vow; to dispel a vague sense.",
+    "similarity": 0.812,
+    "reason": "too close to the true definition (similarity 0.81)"
+   }
+  ]
+ },
+ "r036": {
+  "word": "delirament",
+  "bluffs": [
+   {
+    "text": "A sudden fit of fever; a raving condition; a delirium of the mind.",
+    "similarity": 0.656
+   },
+   {
+    "text": "A confused assemblage of wares; a haphazard collection; a medley of objects.",
+    "similarity": 0.63
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The act of losing one's wits; a state of deep mental disarray; a profound confusion.",
+    "similarity": 0.651,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A mental frenzy; a state of raving; a spell of delirium.",
+    "similarity": 0.703,
+    "reason": "too close to the true definition (similarity 0.70)"
+   },
+   {
+    "text": "A clumsy assemblage; a haphazard mixture; a confused medley.",
+    "similarity": 0.694,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of being utterly lost; a state of unsound judgment; a mad episode.",
+    "similarity": 0.729,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A state of feverish delusion; a raving condition; a mental stupor.",
+    "similarity": 0.645,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of confusing things; a jumbled assembly; a chaotic mixture.",
+    "similarity": 0.682,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden, irrational outburst; a burst of wild fancy; a mental lapse.",
+    "similarity": 0.799,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "A confused state of fever; a delirium of thought; a mental frenzy.",
+    "similarity": 0.734,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A sudden, wild outburst; a ravings; a raving speech.",
+    "similarity": 0.696,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A haphazard collection of remnants; a medley of scraps; a confused assembly.",
+    "similarity": 0.657,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A sudden feverish state; a delirium of the mind; a wasting sickness.",
+    "similarity": 0.66,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A confused mingling of spirits; a chaotic assembly; a mental frolic.",
+    "similarity": 0.779,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "The act of mixing disparate elements; a confused preparation; a medley.",
+    "similarity": 0.619,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A fervent, feverish state; an ecstatic delirium; a raving mental condition.",
+    "similarity": 0.647,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "A disordered collection of scraps; a jumbled medley; a chaotic assortment.",
+    "similarity": 0.648,
+    "reason": "spare (two already kept)"
+   },
+   {
+    "text": "The act of raving; a tumultuous outpouring; a wild mental spree.",
+    "similarity": 0.701,
+    "reason": "too close to the true definition (similarity 0.70)"
+   }
+  ]
+ },
+ "r037": {
+  "word": "demiwolf",
+  "bluffs": [
+   {
+    "text": "A beast of half man; a hybrid creature; a savage form.",
+    "similarity": 0.686
+   },
+   {
+    "text": "A swift, irregular gait; a strangely paced movement.",
+    "similarity": 0.386
+   }
+  ],
+  "dropped": []
+ },
+ "r038": {
+  "word": "digladiate",
+  "bluffs": [
+   {
+    "text": "To vigorously churn; to mix the elements; to stir the depths.",
+    "similarity": 0.525
+   },
+   {
+    "text": "To divide a mass; to separate the components; to split apart.",
+    "similarity": 0.444
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To engage in a fierce grappling; to wrestle with great strain; to struggle.",
+    "similarity": 0.79,
+    "reason": "too close to the true definition (similarity 0.79)"
+   }
+  ]
+ },
+ "r039": {
+  "word": "dilacerate",
+  "bluffs": [
+   {
+    "text": "To inflict a deep, ragged wound; to make a severe separation.",
+    "similarity": 0.694
+   },
+   {
+    "text": "To shred in a violent manner; to lacerate a surface; to cause deep wounds.",
+    "similarity": 0.69
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To rend flesh with a sharp instrument; to tear apart violently; to inflict grievous wounds.",
+    "similarity": 0.77,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To sever a tough cord or rope; to tear through fabric with force; to make a violent split.",
+    "similarity": 0.757,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "To break down a hard substance; to shatter stone with great force; to crack apart.",
+    "similarity": 0.771,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To tear apart with sharp implements; to rend severely; to make ragged.",
+    "similarity": 0.821,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "To violently shatter a stone or piece of wood; to fracture with force.",
+    "similarity": 0.726,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "To violently sever a binding thread; to rip with great violence.",
+    "similarity": 0.736,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "To rend with a sharp blade; to tear apart tissue; to sever flesh from bone.",
+    "similarity": 0.82,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "To cause a sudden and violent splitting; to disjoin with forceful impact.",
+    "similarity": 0.724,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "To rend a piece of cloth with violence; to tear apart with force.",
+    "similarity": 0.864,
+    "reason": "too close to the true definition (similarity 0.86)"
+   },
+   {
+    "text": "To shatter a hard substance with a sharp instrument; to crack severely.",
+    "similarity": 0.745,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "To aggressively pull apart a tangled mass; to disjoin with effort.",
+    "similarity": 0.747,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "To rip apart with a sharp instrument; to rend flesh from bone; to severely tear apart.",
+    "similarity": 0.815,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "To tear through material with force; to sever with great violence; to split open.",
+    "similarity": 0.773,
+    "reason": "too close to the true definition (similarity 0.77)"
+   }
+  ]
+ },
+ "r040": {
+  "word": "dilaniate",
+  "bluffs": [
+   {
+    "text": "To dilute the essence; to thin a cordial; to weaken a potent draught.",
+    "similarity": 0.591
+   },
+   {
+    "text": "To make a substance watery; to thin the liquor; to render a thick fluid less dense.",
+    "similarity": 0.528
+   }
+  ],
+  "dropped": []
+ },
+ "r041": {
+  "word": "diremption",
+  "bluffs": [
+   {
+    "text": "A sudden, dreadful vision; a terrifying spectacle; a frightful sighting.",
+    "similarity": 0.549
+   },
+   {
+    "text": "A method of deep sorrow; a state of profound woe; a lamentable feeling.",
+    "similarity": 0.454
+   }
+  ],
+  "dropped": []
+ },
+ "r042": {
+  "word": "dominicide",
+  "bluffs": [
+   {
+    "text": "A heavy burden of dominion; the final act of subjugation.",
+    "similarity": 0.687
+   },
+   {
+    "text": "The act of ruling by killing; a fatal sovereign; a royal murder.",
+    "similarity": 0.695
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The act of overpowering a sovereign; the slaying of a ruler; a fatal deed.",
+    "similarity": 0.732,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A strong male who enforces submission; a tyrannical executioner.",
+    "similarity": 0.709,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "A vessel for the execution of a supreme ruler; a deadly rite.",
+    "similarity": 0.74,
+    "reason": "too close to the true definition (similarity 0.74)"
+   }
+  ]
+ },
+ "r043": {
+  "word": "effascination",
+  "bluffs": [
+   {
+    "text": "A deep enthrallment; a rapt fixation; a spell of wonder.",
+    "similarity": 0.682
+   },
+   {
+    "text": "The action of holding fast; a tight grip; a strong clasp.",
+    "similarity": 0.457
+   }
+  ],
+  "dropped": []
+ },
+ "r044": {
+  "word": "egritude",
+  "bluffs": [
+   {
+    "text": "A state of ancient solemnity; grave comportment; high reserve.",
+    "similarity": 0.466
+   },
+   {
+    "text": "A small, dense knot of wood; a tight little mass; a bundled parcel.",
+    "similarity": 0.481
+   }
+  ],
+  "dropped": []
+ },
+ "r045": {
+  "word": "eloge",
+  "bluffs": [
+   {
+    "text": "A small cluster of moss; a damp patch of growth.",
+    "similarity": 0.364
+   },
+   {
+    "text": "A spurious utterance; a foolish remark.",
+    "similarity": 0.481
+   }
+  ],
+  "dropped": []
+ },
+ "r046": {
+  "word": "embeam",
+  "bluffs": [
+   {
+    "text": "To fasten firmly with metal strapping; to bind tight and secure; to secure a structure with iron bands.",
+    "similarity": 0.433
+   },
+   {
+    "text": "To set upon a beam; to place a heavy timber upon a supporting cross; to brace a weak structure.",
+    "similarity": 0.589
+   }
+  ],
+  "dropped": []
+ },
+ "r047": {
+  "word": "eremacausis",
+  "bluffs": [
+   {
+    "text": "A type of obscure botanical growth; a strange fungal bloom.",
+    "similarity": 0.516
+   },
+   {
+    "text": "The act of sealing a forgotten document; a clandestine arrangement.",
+    "similarity": 0.441
+   }
+  ],
+  "dropped": []
+ },
+ "r048": {
+  "word": "exustion",
+  "bluffs": [
+   {
+    "text": "A draining of vital spirits; a profound weariness of the frame; severe exhaustion.",
+    "similarity": 0.57
+   },
+   {
+    "text": "The act of utter depletion; a thorough wasting away of strength; complete exhaustion.",
+    "similarity": 0.674
+   }
+  ],
+  "dropped": []
+ },
+ "r049": {
+  "word": "fascinous",
+  "bluffs": [
+   {
+    "text": "Full of rapturous delight; deeply engaging the senses; compelling observation.",
+    "similarity": 0.336
+   },
+   {
+    "text": "Having a captivating allure; drawing the eye; richly enthralling.",
+    "similarity": 0.407
+   }
+  ],
+  "dropped": []
+ },
+ "r050": {
+  "word": "fatiferous",
+  "bluffs": [
+   {
+    "text": "Full of rich substance; yielding great stores; having abundant fruitfulness.",
+    "similarity": 0.467
+   },
+   {
+    "text": "Pertaining to fecundity; bearing many seeds; like fertile ground.",
+    "similarity": 0.482
+   }
+  ],
+  "dropped": []
+ },
+ "r051": {
+  "word": "figary",
+  "bluffs": [
+   {
+    "text": "A small fruit; a fig in its natural state; a hanging orb.",
+    "similarity": 0.533
+   },
+   {
+    "text": "A foolish notion; a fanciful design; a nonsensical scheme.",
+    "similarity": 0.658
+   }
+  ],
+  "dropped": []
+ },
+ "r052": {
+  "word": "fogbow",
+  "bluffs": [
+   {
+    "text": "A shimmering aerial apparition; a rainbow upon the damp air; a fleeting vision.",
+    "similarity": 0.69
+   },
+   {
+    "text": "A trick of the light; an optical effect; a transient spectacle.",
+    "similarity": 0.653
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A peculiar atmospheric condition; a moist vapor in the high air; a spectral display.",
+    "similarity": 0.75,
+    "reason": "too close to the true definition (similarity 0.75)"
+   }
+  ]
+ },
+ "r053": {
+  "word": "foretoken",
+  "bluffs": [
+   {
+    "text": "A first-set marker; the initial marking of a course; a preliminary sign.",
+    "similarity": 0.514
+   },
+   {
+    "text": "A token of foresight; a small promise; a saving for later use.",
+    "similarity": 0.557
+   }
+  ],
+  "dropped": []
+ },
+ "r054": {
+  "word": "frumenty",
+  "bluffs": [
+   {
+    "text": "A grain of wheat; a coarse meal; a rustic substance.",
+    "similarity": 0.533
+   },
+   {
+    "text": "A hasty scattering; a loose arrangement; a haphazard spread.",
+    "similarity": 0.382
+   }
+  ],
+  "dropped": []
+ },
+ "r055": {
+  "word": "fuliginous",
+  "bluffs": [],
+  "dropped": [
+   {
+    "text": "Sooty; dark with smoke; dusky complexion.",
+    "similarity": 0.785,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "Full of sooty matter; grimly dark; smoke-laden.",
+    "similarity": 0.795,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "Smoky; blackish; possessing a dismal hue.",
+    "similarity": 0.784,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "Sooty; dark with smoke; foully black.",
+    "similarity": 0.785,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "Smoky; dusky; possessing a dismal hue.",
+    "similarity": 0.823,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "Gloom-laden; intensely sooty; deeply dark.",
+    "similarity": 0.812,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "Smoky blackness; soot-laden quality; deeply darkened tone.",
+    "similarity": 0.819,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "Sullenly dark; dusky hue; profoundly sooty nature.",
+    "similarity": 0.839,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "Smearing blackness; foul aspect; dark, dense quality.",
+    "similarity": 0.791,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "Smoky; sooty; dark as pitch.",
+    "similarity": 0.868,
+    "reason": "too close to the true definition (similarity 0.87)"
+   },
+   {
+    "text": "Full of soot; grim appearance.",
+    "similarity": 0.747,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "Pertaining to sooty blackness; dense haze.",
+    "similarity": 0.773,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "Sooty; dark with smoke; intensely soiling tint.",
+    "similarity": 0.809,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "Pertaining to smoky blackness; dusky and gloomy nature.",
+    "similarity": 0.791,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "Having a filthy, sooty aspect; deeply stained appearance.",
+    "similarity": 0.741,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "Sooty or sooty-hued; darkly smoky; of a filthy aspect.",
+    "similarity": 0.813,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "Having a sooty quality; intensely dark; smoky in nature.",
+    "similarity": 0.818,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "Smoky or sooty; possessing a dismal, dark tincture.",
+    "similarity": 0.85,
+    "reason": "too close to the true definition (similarity 0.85)"
+   }
+  ]
+ },
+ "r056": {
+  "word": "funebrial",
+  "bluffs": [
+   {
+    "text": "Having a deep, mournful tone; sorrowful feeling; bleak mood.",
+    "similarity": 0.604
+   },
+   {
+    "text": "Full of solemn repose; deep and quiet; for the deceased fate.",
+    "similarity": 0.613
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Full of solemn rites; mournful observance; grave ceremony.",
+    "similarity": 0.776,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "Pertaining to burial; interment; sepulchral setting.",
+    "similarity": 0.817,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "Having a mournful tone; deeply sorrowful; pertaining to final rites.",
+    "similarity": 0.796,
+    "reason": "too close to the true definition (similarity 0.80)"
+   }
+  ]
+ },
+ "r057": {
+  "word": "fustilarian",
+  "bluffs": [
+   {
+    "text": "A jesting person; a playful rogue; a prankster.",
+    "similarity": 0.641
+   },
+   {
+    "text": "A loose collection of odd items; a haphazard assortment.",
+    "similarity": 0.586
+   }
+  ],
+  "dropped": []
+ },
+ "r058": {
+  "word": "gashful",
+  "bluffs": [
+   {
+    "text": "Having a ragged appearance; torn fabric; frayed edges.",
+    "similarity": 0.567
+   },
+   {
+    "text": "Pertaining to a deep fissure; cleft; or split.",
+    "similarity": 0.494
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Full of savage woundings; deeply lacerated; grievous injury.",
+    "similarity": 0.726,
+    "reason": "too close to the true definition (similarity 0.73)"
+   }
+  ]
+ },
+ "r059": {
+  "word": "geloscopy",
+  "bluffs": [
+   {
+    "text": "A strange, thick substance; a peculiar jelly; a specimen of viscous matter.",
+    "similarity": 0.429
+   },
+   {
+    "text": "A viewing instrument for viscous fluids; a liquid examining tool.",
+    "similarity": 0.451
+   }
+  ],
+  "dropped": []
+ },
+ "r060": {
+  "word": "girandole",
+  "bluffs": [
+   {
+    "text": "A small lattice; a delicate framework; a screen for fine work.",
+    "similarity": 0.461
+   },
+   {
+    "text": "A playful dance; a frivolous promenade; a light, airy motion.",
+    "similarity": 0.507
+   }
+  ],
+  "dropped": []
+ },
+ "r061": {
+  "word": "grume",
+  "bluffs": [
+   {
+    "text": "A thick, dreary patch; a heavy mass of soot.",
+    "similarity": 0.596
+   },
+   {
+    "text": "A small gathering of drunks; a drunken coterie.",
+    "similarity": 0.464
+   }
+  ],
+  "dropped": []
+ },
+ "r062": {
+  "word": "hariolation",
+  "bluffs": [
+   {
+    "text": "A thorough outpouring; a deluge of thought; a sudden flood.",
+    "similarity": 0.427
+   },
+   {
+    "text": "A peculiar manner of dressing; an elaborate, strange garment.",
+    "similarity": 0.455
+   }
+  ],
+  "dropped": []
+ },
+ "r063": {
+  "word": "hearsecloth",
+  "bluffs": [
+   {
+    "text": "A heavy wooden conveyance; a funeral carriage; a bier for the departed.",
+    "similarity": 0.7
+   },
+   {
+    "text": "A cumbersome burden; a heavy coffin; a cumbersome funeral arrangement.",
+    "similarity": 0.646
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A cloth woven for lamentation; a shroud for a body; a somber covering.",
+    "similarity": 0.772,
+    "reason": "too close to the true definition (similarity 0.77)"
+   }
+  ]
+ },
+ "r064": {
+  "word": "hellbroth",
+  "bluffs": [
+   {
+    "text": "A thick, bitter liquor; a foul stew made of burnt scraps; a dark broth.",
+    "similarity": 0.582
+   },
+   {
+    "text": "A mischievous spirit; a restless phantom; a troublesome apparition.",
+    "similarity": 0.561
+   }
+  ],
+  "dropped": []
+ },
+ "r065": {
+  "word": "hippocras",
+  "bluffs": [
+   {
+    "text": "A draught of strong spirits; a medicinal liquor for the stomach.",
+    "similarity": 0.651
+   },
+   {
+    "text": "A peculiar, inebriated state; a drunken fancy.",
+    "similarity": 0.648
+   }
+  ],
+  "dropped": []
+ },
+ "r066": {
+  "word": "horrisonous",
+  "bluffs": [
+   {
+    "text": "Full of fearful disposition; dread; and terror.",
+    "similarity": 0.584
+   },
+   {
+    "text": "Having a disposition inclined to fright; or shock.",
+    "similarity": 0.586
+   }
+  ],
+  "dropped": []
+ },
+ "r067": {
+  "word": "hyperphysical",
+  "bluffs": [
+   {
+    "text": "Full of vigorous motion; possessing intense, restless energy; pertaining to the body's swift action.",
+    "similarity": 0.452
+   },
+   {
+    "text": "Having a physical essence; relating to the substance of corporeal form; like solid matter.",
+    "similarity": 0.492
+   }
+  ],
+  "dropped": []
+ },
+ "r068": {
+  "word": "idolum",
+  "bluffs": [
+   {
+    "text": "A small shrine; a statue of worship; a sacred image.",
+    "similarity": 0.506
+   },
+   {
+    "text": "A foolish devotee; a blind worshipper; a gullible soul.",
+    "similarity": 0.421
+   }
+  ],
+  "dropped": []
+ },
+ "r069": {
+  "word": "ignigenous",
+  "bluffs": [
+   {
+    "text": "Full of native stock; relating to the soil; indigenous traits.",
+    "similarity": 0.431
+   },
+   {
+    "text": "Having a distinct local character; pertaining to the native land.",
+    "similarity": 0.435
+   }
+  ],
+  "dropped": []
+ },
+ "r070": {
+  "word": "immask",
+  "bluffs": [
+   {
+    "text": "To bind tightly; to fasten with cordage; to secure with a stout knot.",
+    "similarity": 0.446
+   },
+   {
+    "text": "To imbue with a false sheen; to give a deceptive gloss; to make appear bright.",
+    "similarity": 0.645
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To mask the visage; to conceal the countenance; to cover with white linen.",
+    "similarity": 0.819,
+    "reason": "too close to the true definition (similarity 0.82)"
+   }
+  ]
+ },
+ "r071": {
+  "word": "incension",
+  "bluffs": [
+   {
+    "text": "A sharp incision; a cutting of flesh by a blade; a wound.",
+    "similarity": 0.538
+   },
+   {
+    "text": "A profound resentment; a burning of the spirit; a violent feeling.",
+    "similarity": 0.595
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The act of setting alight; a kindling of flame; a fiery start.",
+    "similarity": 0.904,
+    "reason": "too close to the true definition (similarity 0.90)"
+   }
+  ]
+ },
+ "r072": {
+  "word": "incremate",
+  "bluffs": [
+   {
+    "text": "To make a moist covering; to keep damp; to foster a humid state.",
+    "similarity": 0.443
+   },
+   {
+    "text": "To build a minute enclosure; to establish a small dwelling place.",
+    "similarity": 0.402
+   }
+  ],
+  "dropped": []
+ },
+ "r073": {
+  "word": "infelt",
+  "bluffs": [
+   {
+    "text": "Full of deep sorrow; lonely spirit; melancholy mood.",
+    "similarity": 0.623
+   },
+   {
+    "text": "Having a coarse texture; rough feeling; unrefined nature.",
+    "similarity": 0.491
+   }
+  ],
+  "dropped": []
+ },
+ "r074": {
+  "word": "infestive",
+  "bluffs": [
+   {
+    "text": "Pertaining to plague; breeding sickness; causing pestilence for the land.",
+    "similarity": 0.405
+   },
+   {
+    "text": "Showing an inclination toward worm-eaten decay; consuming greedily.",
+    "similarity": 0.471
+   }
+  ],
+  "dropped": []
+ },
+ "r075": {
+  "word": "infestuous",
+  "bluffs": [
+   {
+    "text": "Full of persistent vermin; possessing a bothersome swarm; rife with pests.",
+    "similarity": 0.53
+   },
+   {
+    "text": "Having a spreading, unceasing nature; pertaining to relentless infestation.",
+    "similarity": 0.567
+   }
+  ],
+  "dropped": []
+ },
+ "r076": {
+  "word": "infrigidation",
+  "bluffs": [
+   {
+    "text": "A gathering for the purification of waters; a cleansing rite.",
+    "similarity": 0.433
+   },
+   {
+    "text": "The act of subordinating a banner; a lowered standard.",
+    "similarity": 0.518
+   }
+  ],
+  "dropped": []
+ },
+ "r077": {
+  "word": "insoul",
+  "bluffs": [
+   {
+    "text": "To draw out the spirit; to extract the core essence of a person; to reveal inner feeling.",
+    "similarity": 0.539
+   },
+   {
+    "text": "To pull apart the soul; to separate the inner self from the body; to rend the vital part.",
+    "similarity": 0.509
+   }
+  ],
+  "dropped": []
+ },
+ "r078": {
+  "word": "interlunar",
+  "bluffs": [
+   {
+    "text": "Full of moon; relating to the orbit of the moon; celestial movement of bodies.",
+    "similarity": 0.688
+   },
+   {
+    "text": "Like the dark phase of the moon; remote; distant in its influence.",
+    "similarity": 0.683
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Having a connection to the lunar sphere; pertaining to the night sky.",
+    "similarity": 0.748,
+    "reason": "too close to the true definition (similarity 0.75)"
+   }
+  ]
+ },
+ "r079": {
+  "word": "internecion",
+  "bluffs": [
+   {
+    "text": "A knot of tangled threads; a confused entanglement of yarn or rope.",
+    "similarity": 0.507
+   },
+   {
+    "text": "The act of drawing a conclusion; a final deduction reached.",
+    "similarity": 0.494
+   }
+  ],
+  "dropped": []
+ },
+ "r080": {
+  "word": "inustion",
+  "bluffs": [
+   {
+    "text": "A subtle influence; a quiet sway of opinion.",
+    "similarity": 0.445
+   },
+   {
+    "text": "The act of misleading; a deceptive persuasion.",
+    "similarity": 0.556
+   }
+  ],
+  "dropped": []
+ },
+ "r081": {
+  "word": "lachrymation",
+  "bluffs": [
+   {
+    "text": "A fine woven cloth; a sheer veil; a delicate covering.",
+    "similarity": 0.528
+   },
+   {
+    "text": "A sudden, sharp contraction; a grimace of pain; a facial spasm.",
+    "similarity": 0.637
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The secretion of tears; copious weeping; a watery discharge.",
+    "similarity": 0.834,
+    "reason": "too close to the true definition (similarity 0.83)"
+   }
+  ]
+ },
+ "r082": {
+  "word": "latitation",
+  "bluffs": [
+   {
+    "text": "A thick layer of water; a swampy expanse; a stagnant pool.",
+    "similarity": 0.588
+   },
+   {
+    "text": "A clumsy motion; a fall in execution; a lack of grace.",
+    "similarity": 0.554
+   }
+  ],
+  "dropped": []
+ },
+ "r083": {
+  "word": "leasy",
+  "bluffs": [
+   {
+    "text": "Full of leaseholds; pertaining to tenancy agreements; holding property.",
+    "similarity": 0.409
+   },
+   {
+    "text": "Full of leasehold tenure; subject to a long term dwelling; pertaining to tenancy rights.",
+    "similarity": 0.348
+   }
+  ],
+  "dropped": []
+ },
+ "r084": {
+  "word": "lexiphanicism",
+  "bluffs": [
+   {
+    "text": "A habit of collecting obscure Latin phrases; a scholarly obsession.",
+    "similarity": 0.594
+   },
+   {
+    "text": "The act of setting forth a complex arrangement of small pieces; a careful construction.",
+    "similarity": 0.525
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A manner of speaking filled with needless ornamentation; a verbose style.",
+    "similarity": 0.796,
+    "reason": "too close to the true definition (similarity 0.80)"
+   }
+  ]
+ },
+ "r085": {
+  "word": "litherly",
+  "bluffs": [
+   {
+    "text": "Full of a sluggish, slow movement; slow in its pace; moving with great reluctance.",
+    "similarity": 0.478
+   },
+   {
+    "text": "Having a secretive nature; solitary disposition; remote from company.",
+    "similarity": 0.412
+   }
+  ],
+  "dropped": []
+ },
+ "r086": {
+  "word": "lunarian",
+  "bluffs": [
+   {
+    "text": "A wandering spirit; a celestial traveler; a dreamy soul.",
+    "similarity": 0.502
+   },
+   {
+    "text": "The act of gazing upward; a prolonged, vacant stare.",
+    "similarity": 0.448
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A substance yielding a lunar glow; a pale, silvery sheen.",
+    "similarity": 0.588,
+    "reason": "definition uses the word itself"
+   }
+  ]
+ },
+ "r087": {
+  "word": "lunet",
+  "bluffs": [
+   {
+    "text": "A small, round glass lens; a simple optical device.",
+    "similarity": 0.622
+   },
+   {
+    "text": "The act of peering intently; a fixed gaze.",
+    "similarity": 0.453
+   }
+  ],
+  "dropped": []
+ },
+ "r088": {
+  "word": "manqueller",
+  "bluffs": [
+   {
+    "text": "A peculiar type of woven basket; a wicker container for fruit.",
+    "similarity": 0.438
+   },
+   {
+    "text": "A clumsy mover; one who handles goods with great ineptitude.",
+    "similarity": 0.491
+   }
+  ],
+  "dropped": []
+ },
+ "r089": {
+  "word": "mellifluence",
+  "bluffs": [
+   {
+    "text": "The tendency to draw in a soft murmur; a subtle influence.",
+    "similarity": 0.615
+   },
+   {
+    "text": "The subtle persuasion; the soft influence; a mild sway.",
+    "similarity": 0.622
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A gentle sound; a sweet resonance; a pleasing tone.",
+    "similarity": 0.739,
+    "reason": "too close to the true definition (similarity 0.74)"
+   },
+   {
+    "text": "A soft outpouring; a liquid effusion; a delicate sway.",
+    "similarity": 0.79,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "A sweet sound; a pleasing tone; a gentle resonance.",
+    "similarity": 0.762,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "The delicate manner; the smooth affect; a graceful movement.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   }
+  ]
+ },
+ "r090": {
+  "word": "metheglin",
+  "bluffs": [
+   {
+    "text": "A woven covering of coarse wool; a thick blanket for winter.",
+    "similarity": 0.453
+   },
+   {
+    "text": "A peculiar gathering of small stones; a loose collection of pebbles.",
+    "similarity": 0.485
+   }
+  ],
+  "dropped": []
+ },
+ "r091": {
+  "word": "mistide",
+  "bluffs": [
+   {
+    "text": "To cause a sudden dampness; to make the air heavy.",
+    "similarity": 0.56
+   },
+   {
+    "text": "To shift the flow of the tide; to alter the ocean's course.",
+    "similarity": 0.482
+   }
+  ],
+  "dropped": []
+ },
+ "r092": {
+  "word": "misween",
+  "bluffs": [
+   {
+    "text": "To make a subtle deception; to engage in sly pretense; to feign a shallow understanding.",
+    "similarity": 0.513
+   },
+   {
+    "text": "To draw together loosely; to gather disparate elements; to assemble a loose collection.",
+    "similarity": 0.413
+   }
+  ],
+  "dropped": []
+ },
+ "r093": {
+  "word": "monomachist",
+  "bluffs": [
+   {
+    "text": "A devoted student of singular thought; a rigid ascetic; a thinker too narrow.",
+    "similarity": 0.489
+   },
+   {
+    "text": "A small, stubborn island; a solitary dwelling; an isolated seat.",
+    "similarity": 0.478
+   }
+  ],
+  "dropped": []
+ },
+ "r094": {
+  "word": "moonglade",
+  "bluffs": [
+   {
+    "text": "A moist clearing; a small pool of water; a watery expanse.",
+    "similarity": 0.593
+   },
+   {
+    "text": "The act of gathering nocturnal blossoms; a nightly harvest; a dew-covered patch.",
+    "similarity": 0.505
+   }
+  ],
+  "dropped": []
+ },
+ "r095": {
+  "word": "nihility",
+  "bluffs": [
+   {
+    "text": "A futile act of erasure; a nullification of substance.",
+    "similarity": 0.661
+   },
+   {
+    "text": "The act of utterly nullifying; a complete undoing of form.",
+    "similarity": 0.666
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The state of utter nothingness; the void of all substance; absolute vacancy.",
+    "similarity": 0.851,
+    "reason": "too close to the true definition (similarity 0.85)"
+   },
+   {
+    "text": "A nebulous concept; a sheer absence of any tangible thing; a blank slate.",
+    "similarity": 0.815,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "The act of rendering utterly null; a complete erasure of all being; naughtness.",
+    "similarity": 0.781,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "A state of utter emptiness; a void; nothingness of spirit.",
+    "similarity": 0.878,
+    "reason": "too close to the true definition (similarity 0.88)"
+   },
+   {
+    "text": "A faint sensation of absolute nothing; a subtle absence.",
+    "similarity": 0.792,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "A state of utter emptiness; a void of substance; nothingness.",
+    "similarity": 0.89,
+    "reason": "too close to the true definition (similarity 0.89)"
+   },
+   {
+    "text": "A vacant notion; a mental blankness; a blank state of mind.",
+    "similarity": 0.782,
+    "reason": "too close to the true definition (similarity 0.78)"
+   }
+  ]
+ },
+ "r096": {
+  "word": "nugacity",
+  "bluffs": [
+   {
+    "text": "A trifling lack of substance; a small void of import; a pointlessness.",
+    "similarity": 0.587
+   },
+   {
+    "text": "The act of rendering something inconsequential; a needless dissipation of effort.",
+    "similarity": 0.61
+   }
+  ],
+  "dropped": []
+ },
+ "r097": {
+  "word": "nunchion",
+  "bluffs": [
+   {
+    "text": "A curved wooden rod; a device for striking; a peculiar implement.",
+    "similarity": 0.316
+   },
+   {
+    "text": "A knotted basket; a bundle of sticks; a woven snare.",
+    "similarity": 0.284
+   }
+  ],
+  "dropped": []
+ },
+ "r098": {
+  "word": "obreptitious",
+  "bluffs": [
+   {
+    "text": "Full of secret plotting; sly design; hidden intent.",
+    "similarity": 0.662
+   },
+   {
+    "text": "Having furtive character; sneaky manner; clandestine nature.",
+    "similarity": 0.686
+   }
+  ],
+  "dropped": []
+ },
+ "r099": {
+  "word": "obumbration",
+  "bluffs": [
+   {
+    "text": "A dense covering of foliage; a thick bough.",
+    "similarity": 0.558
+   },
+   {
+    "text": "The slow falling of shadows; a weighty gloom.",
+    "similarity": 0.673
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The act of obscuring a view; a deliberate screen.",
+    "similarity": 0.793,
+    "reason": "too close to the true definition (similarity 0.79)"
+   }
+  ]
+ },
+ "r100": {
+  "word": "occision",
+  "bluffs": [
+   {
+    "text": "A small incision made by a sharp instrument; a slight cut; a superficial wound.",
+    "similarity": 0.569
+   },
+   {
+    "text": "The manner of an old scribe in copying manuscripts; a peculiar inscription.",
+    "similarity": 0.482
+   }
+  ],
+  "dropped": []
+ },
+ "r101": {
+  "word": "ogrism",
+  "bluffs": [
+   {
+    "text": "A peculiar joint; a tangled knot of thread; a complex ligature.",
+    "similarity": 0.514
+   },
+   {
+    "text": "A sudden outburst of strange feeling; a momentary lapse of reason; a confused impulse.",
+    "similarity": 0.524
+   }
+  ],
+  "dropped": []
+ },
+ "r102": {
+  "word": "omnivagant",
+  "bluffs": [
+   {
+    "text": "Full of wandering speech; ceaseless discourse; rambling talk.",
+    "similarity": 0.689
+   },
+   {
+    "text": "Pertaining to all directions; widespread influence; universal scope.",
+    "similarity": 0.636
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Having pervasive movement; restless nature; roving form.",
+    "similarity": 0.78,
+    "reason": "too close to the true definition (similarity 0.78)"
+   }
+  ]
+ },
+ "r103": {
+  "word": "omophagic",
+  "bluffs": [
+   {
+    "text": "Full of phantom eating; consuming invisible sustenance; spectral nourishment.",
+    "similarity": 0.625
+   },
+   {
+    "text": "Having the nature of mimicry; resemblance to the unseen; illusory consumption.",
+    "similarity": 0.506
+   }
+  ],
+  "dropped": []
+ },
+ "r104": {
+  "word": "oneirocritic",
+  "bluffs": [
+   {
+    "text": "A mental observer; a visionary of dreams; a dreamer of phantoms.",
+    "similarity": 0.656
+   },
+   {
+    "text": "A strange reckoning; a mental survey; an inward review.",
+    "similarity": 0.621
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A device for dream-seeing; a seer of nocturnal visions.",
+    "similarity": 0.752,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "The act of scrutinizing visions; a probing of the subconscious mind.",
+    "similarity": 0.713,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "A peculiar observer; a dream interpreter; a visionary mind.",
+    "similarity": 0.811,
+    "reason": "too close to the true definition (similarity 0.81)"
+   }
+  ]
+ },
+ "r105": {
+  "word": "oneiromancy",
+  "bluffs": [
+   {
+    "text": "A diviner of the spirit; one who interprets signs from the restless night; a seer of the unreal.",
+    "similarity": 0.694
+   },
+   {
+    "text": "The act of revealing hidden thoughts; the process by which one extracts secrets from slumber.",
+    "similarity": 0.653
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The art of dream-reading; the practice of interpreting visions; psychic divination.",
+    "similarity": 0.843,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "A device for discerning the nature of night visions; a method of foretelling.",
+    "similarity": 0.707,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "The act of interpreting nocturnal phantasms; a skill in dream interpretation.",
+    "similarity": 0.789,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "The art of dream-seeing; the practice of interpreting visions; a psychic reading of nocturnal phantasms.",
+    "similarity": 0.801,
+    "reason": "too close to the true definition (similarity 0.80)"
+   }
+  ]
+ },
+ "r106": {
+  "word": "outfrown",
+  "bluffs": [
+   {
+    "text": "To look upon with disdain; to regard with scorn; to show visible displeasure.",
+    "similarity": 0.63
+   },
+   {
+    "text": "To cast out from the crowd; to exclude from fellowship; to keep apart.",
+    "similarity": 0.426
+   }
+  ],
+  "dropped": []
+ },
+ "r107": {
+  "word": "outquench",
+  "bluffs": [
+   {
+    "text": "To bring forth a strong outpouring; to release a bubbling surge; to quench a dry well.",
+    "similarity": 0.675
+   },
+   {
+    "text": "To draw out a final vigor; to quench a lingering doubt; to quench an arid spirit.",
+    "similarity": 0.678
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To quench a thirst with a sudden outpouring; to satisfy a deep craving; to quench a sudden fire.",
+    "similarity": 0.746,
+    "reason": "too close to the true definition (similarity 0.75)"
+   }
+  ]
+ },
+ "r108": {
+  "word": "owlery",
+  "bluffs": [
+   {
+    "text": "A sluggish movement; a slow, drooping gait; a state of dullness.",
+    "similarity": 0.521
+   },
+   {
+    "text": "A kind of coarse, woven fabric; a rough covering for a hut.",
+    "similarity": 0.548
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A gathering of nocturnal birds; a roosting place for owls; a den of feathered creatures.",
+    "similarity": 0.853,
+    "reason": "too close to the true definition (similarity 0.85)"
+   }
+  ]
+ },
+ "r109": {
+  "word": "parietine",
+  "bluffs": [
+   {
+    "text": "A mineral substance found in certain strata; a crystalline formation.",
+    "similarity": 0.583
+   },
+   {
+    "text": "The faculty of perception; a mental capacity for subtle sense.",
+    "similarity": 0.466
+   }
+  ],
+  "dropped": []
+ },
+ "r110": {
+  "word": "pernoctalian",
+  "bluffs": [
+   {
+    "text": "A cloak or covering worn during the dark hours; a shadow's shroud.",
+    "similarity": 0.561
+   },
+   {
+    "text": "A dark hour; a time of deep repose; a period of nocturnal inactivity.",
+    "similarity": 0.648
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A nocturnal vigil; a night watchman's duty; a late-night guard.",
+    "similarity": 0.773,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "The act of staying awake through the night; a sleepless period.",
+    "similarity": 0.85,
+    "reason": "too close to the true definition (similarity 0.85)"
+   },
+   {
+    "text": "A nighttime vigil; a stay by the fire long after dark; a slumbering period.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "A cloak or covering worn during the hours of the night; a dark garment.",
+    "similarity": 0.569,
+    "reason": "same as a bluff already kept"
+   }
+  ]
+ },
+ "r111": {
+  "word": "pesanted",
+  "bluffs": [
+   {
+    "text": "Inclined toward heavy burdens; slow to yield; ponderous nature.",
+    "similarity": 0.684
+   },
+   {
+    "text": "Tending toward deep thought; contemplative; pensive mood.",
+    "similarity": 0.537
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Inclined to eat; voracious appetite; ravenous desire.",
+    "similarity": 0.451,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Tending to draw close; eager to embrace; fond of company.",
+    "similarity": 0.412,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Clouded with shadow; dimness of outlook; gloomy disposition.",
+    "similarity": 0.604,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Voracious in appetite; ravenous; consuming greatly.",
+    "similarity": 0.474,
+    "reason": "copies a phrase from the prompt example"
+   }
+  ]
+ },
+ "r112": {
+  "word": "queach",
+  "bluffs": [
+   {
+    "text": "A sudden stoppage of water; a dam failure; a flood of quicksand.",
+    "similarity": 0.53
+   },
+   {
+    "text": "A manner of hasty collection; a quick gathering of refuse.",
+    "similarity": 0.567
+   }
+  ],
+  "dropped": []
+ },
+ "r113": {
+  "word": "rawhead",
+  "bluffs": [
+   {
+    "text": "A bald head; a cranium devoid of hair; a scrawny skull.",
+    "similarity": 0.472
+   },
+   {
+    "text": "A coarse fellow; a dull-witted brute; a simpleton.",
+    "similarity": 0.332
+   }
+  ],
+  "dropped": []
+ },
+ "r114": {
+  "word": "ruinate",
+  "bluffs": [
+   {
+    "text": "To unravel a fabric; to tear apart with great force; to rend.",
+    "similarity": 0.638
+   },
+   {
+    "text": "To spoil a fine harvest; to make spoiled the yield; to mar the fruit.",
+    "similarity": 0.649
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To destroy wholly; to utterly ruin a structure; to bring about total collapse.",
+    "similarity": 0.8,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "To spoil completely; to render something worthless; to bring about decay.",
+    "similarity": 0.764,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "To cause a violent undoing; to tear apart a fabric; to unravel completely.",
+    "similarity": 0.73,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "To spoil entirely; to render ruined; to bring to utter decay.",
+    "similarity": 0.77,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To destroy completely; to make worthless; to utterly undo.",
+    "similarity": 0.818,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "To destroy a foundation; to crumble into dust; to ruin a structure.",
+    "similarity": 0.786,
+    "reason": "too close to the true definition (similarity 0.79)"
+   }
+  ]
+ },
+ "r115": {
+  "word": "sanguineless",
+  "bluffs": [
+   {
+    "text": "Full of lifeblood; lacking in vital spirit; rich in vital fluid.",
+    "similarity": 0.6
+   },
+   {
+    "text": "Having no sanguine tone; devoid of warmth; cool and inert.",
+    "similarity": 0.671
+   }
+  ],
+  "dropped": []
+ },
+ "r116": {
+  "word": "saulie",
+  "bluffs": [
+   {
+    "text": "A slender, pointed tool for piercing; a sharp implement for needlework; a fine awl.",
+    "similarity": 0.337
+   },
+   {
+    "text": "A young maiden of singular grace; a charming young woman; a delicate young lady.",
+    "similarity": 0.374
+   }
+  ],
+  "dropped": []
+ },
+ "r117": {
+  "word": "sauseflem",
+  "bluffs": [
+   {
+    "text": "Inclined toward deep, profound contemplation; pensive; thoughtful.",
+    "similarity": 0.316
+   },
+   {
+    "text": "Having a sluggish, viscous flow; slow moving; heavy-bodied.",
+    "similarity": 0.413
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Full of a steaming, hearty appetite; voracious in desire; ravenous.",
+    "similarity": 0.341,
+    "reason": "copies a phrase from the prompt example"
+   }
+  ]
+ },
+ "r118": {
+  "word": "scarmage",
+  "bluffs": [
+   {
+    "text": "A clumsy maneuver; a haphazard movement; a botched attempt.",
+    "similarity": 0.593
+   },
+   {
+    "text": "A dense patch of tangled undergrowth; a thicket of brambles; a thorny thicket.",
+    "similarity": 0.483
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A petty quarrel; a trifling dispute; a minor altercation.",
+    "similarity": 0.784,
+    "reason": "too close to the true definition (similarity 0.78)"
+   }
+  ]
+ },
+ "r119": {
+  "word": "sciagraphy",
+  "bluffs": [
+   {
+    "text": "The process of drawing pictures with a silvered plate; a photographic sketch; an etching technique.",
+    "similarity": 0.623
+   },
+   {
+    "text": "A collector of antique optical devices; a devotee of lens arrangements; a visual chronicler.",
+    "similarity": 0.543
+   }
+  ],
+  "dropped": []
+ },
+ "r120": {
+  "word": "scotograph",
+  "bluffs": [
+   {
+    "text": "A device for recording the peculiar shape of a Scot's coat; a visual record of a tartan pattern.",
+    "similarity": 0.566
+   },
+   {
+    "text": "The act of drawing a likeness of a highland garment; a representation of a plaid.",
+    "similarity": 0.489
+   }
+  ],
+  "dropped": []
+ },
+ "r121": {
+  "word": "sepiment",
+  "bluffs": [
+   {
+    "text": "A mound of dried clay; a terrestrial lump of earth.",
+    "similarity": 0.477
+   },
+   {
+    "text": "The act of sealing a cask with pitch; a stubborn fastening.",
+    "similarity": 0.524
+   }
+  ],
+  "dropped": []
+ },
+ "r122": {
+  "word": "sideromancy",
+  "bluffs": [
+   {
+    "text": "The art of predicting tides; a scrying practice for water spirits.",
+    "similarity": 0.679
+   },
+   {
+    "text": "A device for measuring the metallic content of ore; a kind of assay.",
+    "similarity": 0.499
+   }
+  ],
+  "dropped": [
+   {
+    "text": "The tendency to read omens from streams; a form of folk divination.",
+    "similarity": 0.737,
+    "reason": "too close to the true definition (similarity 0.74)"
+   }
+  ]
+ },
+ "r123": {
+  "word": "skelder",
+  "bluffs": [
+   {
+    "text": "To scold harshly; to remonstrate with great severity; to rebuke with sharp words.",
+    "similarity": 0.501
+   },
+   {
+    "text": "To draw out or pull with force; to tear apart with sudden violence; to rend fabric.",
+    "similarity": 0.525
+   }
+  ],
+  "dropped": []
+ },
+ "r124": {
+  "word": "somniculous",
+  "bluffs": [
+   {
+    "text": "Possessing a soft, hazy quality; resembling opium's effect.",
+    "similarity": 0.677
+   },
+   {
+    "text": "Pertaining to a subtle dream; faintly illusory; dreamlike state.",
+    "similarity": 0.649
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Having a sleep-like sluggishness; prone to drowsiness; lethargic motion.",
+    "similarity": 0.793,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "Inclined toward slumber; possessing a dreamy disposition; soft-eyed.",
+    "similarity": 0.779,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "Suggesting a drowsy state; exhibiting a sleepy quality; languid nature.",
+    "similarity": 0.809,
+    "reason": "too close to the true definition (similarity 0.81)"
+   },
+   {
+    "text": "Having a dreamy nature; prone to slumber; lethargic.",
+    "similarity": 0.779,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "Inclined to induce sleep; bordering on drowsiness.",
+    "similarity": 0.873,
+    "reason": "too close to the true definition (similarity 0.87)"
+   },
+   {
+    "text": "Deeply drowsy; prone to slumber; languid in repose.",
+    "similarity": 0.823,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "Possessing a sleepy temperament; slow moving; lethargic state.",
+    "similarity": 0.768,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "Inclined to dream; prone to somnolence; deeply placid.",
+    "similarity": 0.755,
+    "reason": "too close to the true definition (similarity 0.76)"
+   },
+   {
+    "text": "Inclined toward slumber; deeply drowsy; profoundly sleepy.",
+    "similarity": 0.902,
+    "reason": "too close to the true definition (similarity 0.90)"
+   },
+   {
+    "text": "Voracious in appetite; ravenous; consuming much food.",
+    "similarity": 0.499,
+    "reason": "copies a phrase from the prompt example"
+   },
+   {
+    "text": "Clouded with somnolence; prone to a dreamy state; languid.",
+    "similarity": 0.78,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "Inclined to slumber; sleepy temperament; prone to drowsiness.",
+    "similarity": 0.884,
+    "reason": "too close to the true definition (similarity 0.88)"
+   }
+  ]
+ },
+ "r125": {
+  "word": "sororicide",
+  "bluffs": [
+   {
+    "text": "A device for binding female kin; a mechanism of solemn union; a ceremonial bond.",
+    "similarity": 0.5
+   },
+   {
+    "text": "A collection of morbid rites; a practice of familial demise; a grim observance.",
+    "similarity": 0.57
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A fatal act of sisterly murder; a heinous deed of kinship; a tragic outcome.",
+    "similarity": 0.751,
+    "reason": "too close to the true definition (similarity 0.75)"
+   }
+  ]
+ },
+ "r126": {
+  "word": "spright",
+  "bluffs": [
+   {
+    "text": "A lively spirit; a sprite of nature; an impetuous youth.",
+    "similarity": 0.523
+   },
+   {
+    "text": "A small bundle of green growth; a cluster of young shoots; a shrub.",
+    "similarity": 0.353
+   }
+  ],
+  "dropped": []
+ },
+ "r127": {
+  "word": "sterve",
+  "bluffs": [
+   {
+    "text": "To secure a stubborn hold; to fasten firmly against shifting winds; to anchor fast.",
+    "similarity": 0.45
+   },
+   {
+    "text": "To cause a slow decay; to permit a gradual wasting away; to let things wither.",
+    "similarity": 0.696
+   }
+  ],
+  "dropped": []
+ },
+ "r128": {
+  "word": "stomachous",
+  "bluffs": [
+   {
+    "text": "Full of great bulk; heavy in substance; possessing considerable weight in the frame.",
+    "similarity": 0.382
+   },
+   {
+    "text": "Having expansive girth; showing ample room within the belly.",
+    "similarity": 0.344
+   }
+  ],
+  "dropped": []
+ },
+ "r129": {
+  "word": "stramazoun",
+  "bluffs": [
+   {
+    "text": "A strange tropical insect; a small, winged creature of the sea; a delicate pest.",
+    "similarity": 0.451
+   },
+   {
+    "text": "A noisy, rambling speech; an incoherent babble; a foolish utterance.",
+    "similarity": 0.411
+   }
+  ],
+  "dropped": []
+ },
+ "r130": {
+  "word": "sublunar",
+  "bluffs": [
+   {
+    "text": "Full of celestial spheres; remote realms; far from earth's sphere.",
+    "similarity": 0.559
+   },
+   {
+    "text": "Having a dark, hidden quality; secretive; profoundly distant.",
+    "similarity": 0.448
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Pertaining to lower orbits; near the moon's sphere; subterranean.",
+    "similarity": 0.741,
+    "reason": "too close to the true definition (similarity 0.74)"
+   }
+  ]
+ },
+ "r131": {
+  "word": "telesm",
+  "bluffs": [
+   {
+    "text": "A small insect; a tiny creature of the air; a winged thing.",
+    "similarity": 0.491
+   },
+   {
+    "text": "The sound of distant bells; a faint ringing; a chime from afar.",
+    "similarity": 0.51
+   }
+  ],
+  "dropped": []
+ },
+ "r132": {
+  "word": "thanatoid",
+  "bluffs": [
+   {
+    "text": "Bearing a curious pallor; sickly appearance; spectral mien.",
+    "similarity": 0.568
+   },
+   {
+    "text": "Predisposed to decay; swiftly rotting; morbidly obsessed.",
+    "similarity": 0.684
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Inclined to death; mortal; dying-like nature; swift demise.",
+    "similarity": 0.797,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "Relating to the end; terminal; finality; passing away.",
+    "similarity": 0.71,
+    "reason": "too close to the true definition (similarity 0.71)"
+   },
+   {
+    "text": "A disposition toward ending; swift dissolution; mortal tendency.",
+    "similarity": 0.678,
+    "reason": "adjective defined like a noun"
+   },
+   {
+    "text": "Inclined toward death; morbidly curious; fatalistic disposition.",
+    "similarity": 0.712,
+    "reason": "too close to the true definition (similarity 0.71)"
+   }
+  ]
+ },
+ "r133": {
+  "word": "thurification",
+  "bluffs": [
+   {
+    "text": "The process of making a solemn vow; a binding pledge of fealty; a serious commitment.",
+    "similarity": 0.537
+   },
+   {
+    "text": "A thick coating of mire; a clinging substance; a muddy accumulation.",
+    "similarity": 0.446
+   }
+  ],
+  "dropped": []
+ },
+ "r134": {
+  "word": "ticktack",
+  "bluffs": [
+   {
+    "text": "A sudden, rapid motion; a quick succession of small movements.",
+    "similarity": 0.606
+   },
+   {
+    "text": "A person who habitually checks small things; a meticulous observer.",
+    "similarity": 0.499
+   }
+  ],
+  "dropped": [
+   {
+    "text": "A small clockwork device; a measured beat; a timepiece of small motion.",
+    "similarity": 0.778,
+    "reason": "too close to the true definition (similarity 0.78)"
+   }
+  ]
+ },
+ "r135": {
+  "word": "tourbillion",
+  "bluffs": [
+   {
+    "text": "A whirling motion; a dizzying spectacle; a swift turning of the globe.",
+    "similarity": 0.606
+   },
+   {
+    "text": "A small spinning device; a miniature globe; a navigational tool.",
+    "similarity": 0.601
+   }
+  ],
+  "dropped": []
+ },
+ "r136": {
+  "word": "trunkwork",
+  "bluffs": [
+   {
+    "text": "The main supporting framework; the underlying structure of a vessel; essential scaffolding for a dwelling.",
+    "similarity": 0.501
+   },
+   {
+    "text": "The tedious and laborious arrangements; the necessary groundwork for any undertaking; diligent preparation.",
+    "similarity": 0.561
+   }
+  ],
+  "dropped": []
+ },
+ "r137": {
+  "word": "umbrate",
+  "bluffs": [
+   {
+    "text": "To make a stain upon fabric; to impart a dusky coloring; to dim the surface.",
+    "similarity": 0.608
+   },
+   {
+    "text": "To make a cloak of deep shadow; to cover with a dusky stain; to create a somber tone.",
+    "similarity": 0.691
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To shade with a dark hue; to cast a shadow deep; to darken with deep shade.",
+    "similarity": 0.772,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To assume a shadowy posture; to adopt a veiled appearance; to cloak in gloom.",
+    "similarity": 0.724,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "To shade with a dark hue; to cast a shadow deep; to darken a surface.",
+    "similarity": 0.791,
+    "reason": "too close to the true definition (similarity 0.79)"
+   }
+  ]
+ },
+ "r138": {
+  "word": "unclew",
+  "bluffs": [
+   {
+    "text": "To expose a hidden joint; to reveal a broken link; to unfasten a clasp.",
+    "similarity": 0.591
+   },
+   {
+    "text": "To dislodge a stubborn root; to break a hardened shell; to separate a clinging mass.",
+    "similarity": 0.633
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To untangle a knot; to loosen a binding; to free from a snare.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "To pull apart a loose twine; to undo a frayed cord; to unravel a loose thread.",
+    "similarity": 0.778,
+    "reason": "too close to the true definition (similarity 0.78)"
+   },
+   {
+    "text": "To unweave a tangled thread; to loosen a knot; to undo a complex skein.",
+    "similarity": 0.768,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "To tear apart a loose garment; to unravel a frayed rope; to pull apart a weak seam.",
+    "similarity": 0.729,
+    "reason": "too close to the true definition (similarity 0.73)"
+   }
+  ]
+ },
+ "r139": {
+  "word": "uncreate",
+  "bluffs": [
+   {
+    "text": "To unweave a tangled thread; to undo a complex knot, so as to reveal the plain weave.",
+    "similarity": 0.458
+   },
+   {
+    "text": "To loosen a stubborn bond; to break apart a fused mass; to separate the constituent parts.",
+    "similarity": 0.602
+   }
+  ],
+  "dropped": []
+ },
+ "r140": {
+  "word": "uncurse",
+  "bluffs": [
+   {
+    "text": "To lift a blight from the field; to end a plague; to restore good fortune.",
+    "similarity": 0.66
+   },
+   {
+    "text": "To break a binding enchantment; to undo a dark vow; to sever a spell.",
+    "similarity": 0.694
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To remove an evil spell; to break a curse; to render free from hexes.",
+    "similarity": 0.8,
+    "reason": "too close to the true definition (similarity 0.80)"
+   }
+  ]
+ },
+ "r141": {
+  "word": "undercreep",
+  "bluffs": [
+   {
+    "text": "To slowly undermine a structure; to erode the base; to weaken a support.",
+    "similarity": 0.524
+   },
+   {
+    "text": "To secretly shelter beneath a low embankment; to conceal by hidden cover.",
+    "similarity": 0.673
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To creep beneath a foundation; to burrow in the soil; to secretly invade a dwelling.",
+    "similarity": 0.722,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "To move with furtive stealth; to creep with a hesitant gait; to approach covertly.",
+    "similarity": 0.824,
+    "reason": "too close to the true definition (similarity 0.82)"
+   },
+   {
+    "text": "To creep beneath the surface of the stream; to move stealthily under cover.",
+    "similarity": 0.79,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To softly tread beneath the floorboards; to move with low, furtive motion.",
+    "similarity": 0.727,
+    "reason": "too close to the true definition (similarity 0.73)"
+   }
+  ]
+ },
+ "r142": {
+  "word": "undersong",
+  "bluffs": [
+   {
+    "text": "A low musical tone; a sound beneath the main melody; a bass note.",
+    "similarity": 0.588
+   },
+   {
+    "text": "A small, hidden groove; a faint vibration felt by the ear; a subtle hum.",
+    "similarity": 0.548
+   }
+  ],
+  "dropped": []
+ },
+ "r143": {
+  "word": "ungrave",
+  "bluffs": [
+   {
+    "text": "To loosen a loose fastening; to free from a bond; to unbind a knot.",
+    "similarity": 0.586
+   },
+   {
+    "text": "To undo a solemn vow; to revoke a solemn promise; to nullify an oath.",
+    "similarity": 0.65
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To remove a grave covering; to unearth a burial place; to excavate soil.",
+    "similarity": 0.853,
+    "reason": "too close to the true definition (similarity 0.85)"
+   }
+  ]
+ },
+ "r144": {
+  "word": "unseel",
+  "bluffs": [
+   {
+    "text": "To unseal a wax impression; to break open a sealed document; to reveal a hidden mark.",
+    "similarity": 0.541
+   },
+   {
+    "text": "To unseal a sealed document; to reveal a hidden parchment; to open a closed casket.",
+    "similarity": 0.574
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To unseel a dried seal; to unbind a fastened closure; to unfasten a tight knot.",
+    "similarity": 0.466,
+    "reason": "definition uses the word itself"
+   },
+   {
+    "text": "To unseel a parchment; to undo a tight binding; to render a document plain.",
+    "similarity": 0.448,
+    "reason": "definition uses the word itself"
+   },
+   {
+    "text": "To unseel a stubborn knot; to loosen a tightly bound cord; to free a trapped vine.",
+    "similarity": 0.457,
+    "reason": "definition uses the word itself"
+   },
+   {
+    "text": "To unseel a murky vision; to clear a clouded outlook; to bring forth a faint impression.",
+    "similarity": 0.612,
+    "reason": "definition uses the word itself"
+   }
+  ]
+ },
+ "r145": {
+  "word": "unsoul",
+  "bluffs": [
+   {
+    "text": "To make a form without spirit; to strip away the vital part; to leave a husk behind.",
+    "similarity": 0.692
+   },
+   {
+    "text": "To unbind the very soul; to release the vital breath; to unweave the being.",
+    "similarity": 0.669
+   }
+  ],
+  "dropped": [
+   {
+    "text": "To make a thing without a spirit; to render inanimate; to deprive of lifeful essence.",
+    "similarity": 0.731,
+    "reason": "too close to the true definition (similarity 0.73)"
+   },
+   {
+    "text": "To cause a spirit to depart; to empty of soul; to make lifeless or dead.",
+    "similarity": 0.785,
+    "reason": "too close to the true definition (similarity 0.79)"
+   },
+   {
+    "text": "To pull apart the spirit; to unbind the soul's tether; to sever the vital core.",
+    "similarity": 0.747,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "To withdraw the spirit; to draw the soul away; to make a person devoid of essence.",
+    "similarity": 0.859,
+    "reason": "too close to the true definition (similarity 0.86)"
+   },
+   {
+    "text": "To lighten the inner core; to render a thing spiritless; to empty a vessel of feeling.",
+    "similarity": 0.719,
+    "reason": "too close to the true definition (similarity 0.72)"
+   },
+   {
+    "text": "To separate the spirit; to divest of soul; to render empty.",
+    "similarity": 0.804,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "To loosen the essence; to strip of life's core; to make without spirit.",
+    "similarity": 0.782,
+    "reason": "too close to the true definition (similarity 0.78)"
+   }
+  ]
+ },
+ "r146": {
+  "word": "ustorious",
+  "bluffs": [
+   {
+    "text": "Full of old renown; possessing great fame; pertaining to antique glory.",
+    "similarity": 0.426
+   },
+   {
+    "text": "Having a quality of long-held memory; like a venerable relic.",
+    "similarity": 0.616
+   }
+  ],
+  "dropped": []
+ },
+ "r147": {
+  "word": "vermiculose",
+  "bluffs": [
+   {
+    "text": "Full of fine, minute filaments; possessing a delicate, thread-like texture; arising from fine dust.",
+    "similarity": 0.501
+   },
+   {
+    "text": "Having a minute, serpentine course; pertaining to tiny, winding structures; resembling a fine spider's silk.",
+    "similarity": 0.609
+   }
+  ],
+  "dropped": []
+ },
+ "r148": {
+  "word": "vigesimation",
+  "bluffs": [
+   {
+    "text": "A collection of twenty items; a tally of twenty counts; a reckoning of twenty pieces.",
+    "similarity": 0.564
+   },
+   {
+    "text": "The act of counting twenty souls; a ritual of twenty souls; a census of twenty people.",
+    "similarity": 0.653
+   }
+  ],
+  "dropped": []
+ },
+ "r149": {
+  "word": "warison",
+  "bluffs": [
+   {
+    "text": "A fierce battle; a great conflict; a fray of arms.",
+    "similarity": 0.487
+   },
+   {
+    "text": "A leader of troops; a military commander; a general.",
+    "similarity": 0.398
+   }
+  ],
+  "dropped": []
+ },
+ "r150": {
+  "word": "wileful",
+  "bluffs": [
+   {
+    "text": "Showing intent; cunning; sly design for gain.",
+    "similarity": 0.621
+   },
+   {
+    "text": "Showing cunning; sly intent; base design.",
+    "similarity": 0.697
+   }
+  ],
+  "dropped": [
+   {
+    "text": "Intent to cheat; cunning design; sly plotting of schemes.",
+    "similarity": 0.752,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "Inclined toward deceit; base purpose; crafty manner.",
+    "similarity": 0.826,
+    "reason": "too close to the true definition (similarity 0.83)"
+   },
+   {
+    "text": "Spirit bent toward trickery; sly nature; guileful conduct.",
+    "similarity": 0.751,
+    "reason": "too close to the true definition (similarity 0.75)"
+   },
+   {
+    "text": "Inclined toward trickery; crafty manner of action.",
+    "similarity": 0.797,
+    "reason": "too close to the true definition (similarity 0.80)"
+   },
+   {
+    "text": "Having a deceitful purpose; plotting schemes.",
+    "similarity": 0.773,
+    "reason": "too close to the true definition (similarity 0.77)"
+   },
+   {
+    "text": "Inclined to deceive; crafty manner; wicked scheme.",
+    "similarity": 0.843,
+    "reason": "too close to the true definition (similarity 0.84)"
+   },
+   {
+    "text": "Full of guile; deceitful nature; sly disposition.",
+    "similarity": 0.869,
+    "reason": "too close to the true definition (similarity 0.87)"
+   }
+  ]
+ }
+}
