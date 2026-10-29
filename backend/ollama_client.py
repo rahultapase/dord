@@ -61,6 +61,7 @@ def generate(
     num_predict: int | None = None,
     num_ctx: int = DEFAULT_NUM_CTX,
     think: bool | None = False,
+    keep_alive: str = "30m",
     timeout: float = 180.0,
 ) -> str:
     """Return the model's full response text (non-streaming).
@@ -79,6 +80,7 @@ def generate(
         "prompt": prompt,
         "stream": False,
         "options": options,
+        "keep_alive": keep_alive,  # Ollama unloads after 5 min by default; a cold load takes ~20 s
     }
     if think is not None:
         payload["think"] = think

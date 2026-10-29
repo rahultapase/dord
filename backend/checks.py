@@ -153,6 +153,26 @@ def definition_problem(word: str, definition: str) -> str | None:
     return None
 
 
+CARD_LIMIT = 60
+
+
+def card_text(definition: str, limit: int = CARD_LIMIT) -> str:
+    """Shorten a model-written definition to whole phrases within `limit` characters.
+
+    Gemma's definitions run about twice as long as real 1913 ones (median 80 vs 41 characters);
+    on a card that length alone gives the answer away. The first phrase is always kept.
+    """
+    parts = [p.strip() for p in definition.strip().rstrip(".").split(";") if p.strip()]
+    if not parts:
+        return definition
+    out = parts[0]
+    for p in parts[1:]:
+        if len(out) + 2 + len(p) > limit:
+            break
+        out += "; " + p
+    return out + "."
+
+
 def pos_problem(pos: str, definition: str) -> str | None:
     """1913 verb senses start with "To ..."; other parts of speech never do. A mismatch is a tell."""
     is_verb = pos.strip().startswith("v.")
