@@ -155,9 +155,17 @@ def test_slow_gemma_times_out(monkeypatch):
     assert res["gemma"]["source"] == "timeout"
 
 
+def gemma_says(monkeypatch, *items, cut_after=None):
+    """Stub Gemma's raw reply to the summon prompt; cut_after chops the text like a token limit."""
+    text = json.dumps({"words": list(items)}, indent=2)
+    if cut_after:
+        text = text[:cut_after]
+    monkeypatch.setattr(game_mod.oc, "generate", lambda *a, **k: text)
+
+
 def test_summon_rejects_real_word(client, monkeypatch):
-    monkeypatch.setattr(game_mod.oc, "generate_json", lambda *a, **k: {"words": [
-        {"word": "quixotism", "pos": "n.", "definition": "A wild and foolish plan of action.", "etym": "Sp."}]})
+    gemma_says(monkeypatch, {"word": "quixotism", "pos": "n.", "definition": "A wild and foolish plan of action.",
+                             "etym": "Sp."})
     res = client.post("/api/ghosts/summon").json()
     assert res["accepted"] is False
     assert res["code"] == "1913"
@@ -165,9 +173,11 @@ def test_summon_rejects_real_word(client, monkeypatch):
 
 
 def test_summon_accepts_and_joins_next_game(client, monkeypatch):
-    monkeypatch.setattr(game_mod.oc, "generate_json", lambda *a, **k: {"words": [
-        {"word": "glimmerwain", "pos": "n.", "definition": "A pale light seen over marshes at night.",
-         "etym": "glimmer + wain"}]})
+    # Gemma wrote two words and the reply was cut off inside the second: the first still counts.
+    first = {"word": "glimmerwain", "pos": "n.", "definition": "A pale light seen over marshes at night.",
+             "etym": "glimmer + wain"}
+    second = {"word": "hushbound", "pos": "adj.", "definition": "Kept in a state of profound silence.", "etym": "x"}
+    gemma_says(monkeypatch, first, second, cut_after=len(json.dumps({"words": [first]}, indent=2)) + 40)
     res = client.post("/api/ghosts/summon").json()
     assert res["accepted"] is True, res
     assert "no trace" in res["reason"]
@@ -182,8 +192,8 @@ def test_seance_missing(client, monkeypatch):
 
 
 def test_summon_rejects_hand_dropped_word(client, monkeypatch):
-    monkeypatch.setattr(game_mod.oc, "generate_json", lambda *a, **k: {"words": [
-        {"word": "occultum", "pos": "a.", "definition": "Hidden from common sight; secret.", "etym": "L."}]})
+    gemma_says(monkeypatch, {"word": "occultum", "pos": "a.", "definition": "Hidden from common sight; secret.",
+                             "etym": "L."})
     res = client.post("/api/ghosts/summon").json()
     assert res["accepted"] is False
     assert res["code"] == "hand" and "Latin" in res["reason"]

@@ -350,19 +350,18 @@ class Engine:
         theme = self.rng.choice(prompts.GHOST_THEMES)
         t0 = time.time()
         try:
-            reply = oc.generate_json(prompts.summon_one(theme), temperature=0.9,
-                                     seed=self.rng.randint(1, 10**6), num_predict=300, timeout=60)
-            items = [x for x in prompts.parse_list(reply, "words") if isinstance(x, dict)]
-        except (ValueError, oc.OllamaError) as exc:
+            # Gemma usually writes several words; the reply may be cut off mid-list. Keep the first.
+            reply = oc.generate(prompts.summon_one(theme), json_mode=True, temperature=0.9,
+                                seed=self.rng.randint(1, 10**6), num_predict=300, timeout=60)
+        except oc.OllamaError as exc:
             raise GameError(503, f"Gemma did not answer: {exc}") from None
         seconds = round(time.time() - t0, 1)
-        if not items:
+        item = prompts.first_object(reply)
+        if item is None:
             raise GameError(503, "Gemma returned no word")
-        item = items[0]
         word = str(item.get("word", "")).strip()
         pos = str(item.get("pos", "")).strip()
-        if pos in ("v.", "v"):
-            pos = "v. t."
+        pos = {"v.": "v. t.", "v": "v. t.", "adj.": "a.", "adj": "a."}.get(pos, pos)
         definition = tidy_definition(item.get("definition", ""))
         deck = {g["word"] for g in self.ghosts} | {g["word"] for g in self.summoned} | {r["word"] for r in self.reals}
         v = self.checker.check(word, deck=deck)

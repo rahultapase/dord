@@ -146,3 +146,29 @@ def parse_list(payload: object, key: str) -> list:
             if isinstance(v, list):
                 return v
     raise ValueError(f"no list under {key!r}: {json.dumps(payload)[:200]}")
+
+
+def first_object(text: str) -> dict | None:
+    """The first complete {...} entry in a JSON reply, even if the reply was cut off.
+
+    Asked for one word, Gemma often writes four, and with pretty-printed JSON a small token budget
+    ends mid-list. The first entry is still whole, so read it on its own.
+    """
+    try:
+        items = [x for x in parse_list(json.loads(text), "words") if isinstance(x, dict)]
+        return items[0] if items else None
+    except ValueError:  # JSONDecodeError is a ValueError
+        pass
+    dec = json.JSONDecoder()
+    start = text.find("[")
+    i = text.find("{", start + 1 if start >= 0 else 0)
+    while i >= 0:
+        try:
+            obj, _ = dec.raw_decode(text, i)
+        except ValueError:
+            i = text.find("{", i + 1)
+            continue
+        if isinstance(obj, dict) and "word" in obj:
+            return obj
+        i = text.find("{", i + 1)
+    return None
