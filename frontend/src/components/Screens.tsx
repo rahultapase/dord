@@ -48,12 +48,14 @@ export function ModePicker({
   setVsGemma,
   busy,
   gemmaAwake,
+  onSeance,
 }: {
   onPick: (m: Mode) => void
   vsGemma: boolean
   setVsGemma: (v: boolean) => void
   busy: boolean
   gemmaAwake: boolean
+  onSeance: () => void
 }) {
   return (
     <section className="title-screen">
@@ -92,6 +94,9 @@ export function ModePicker({
         Gemma plays the same cards against you
       </button>
       <SummonButton available={gemmaAwake} />
+      <button className="seance-link" onClick={onSeance}>
+        The séance: do the machines believe in their own ghosts?
+      </button>
     </section>
   )
 }

@@ -116,6 +116,37 @@ export interface SummonResult {
   entry?: Entry1913
 }
 
+export interface SeanceModel {
+  realOrGhost: {
+    cards: number
+    correct: number
+    ghostsCalledReal: number
+    ghosts: number
+    realsCalledGhost: number
+    reals: number
+    noAnswer: number
+  }
+  threeDefs: { cards: number; correct: number; pickedBluff: number; noAnswer: number }
+  define: { ghosts: number; madeUp: number; notAWord: number; noAnswer: number }
+  secondsPerAnswer: number | null
+}
+
+export interface SeanceAnswer {
+  model: string
+  mode: 'real-or-ghost' | 'three-defs' | 'define'
+  word: string
+  answer: string | number | null
+  definition?: string
+}
+
+export interface Seance {
+  held: string
+  complete: boolean
+  settings: { temperature: number; seed: number; think: boolean; models: string[] }
+  summary: Record<string, SeanceModel>
+  answers: SeanceAnswer[]
+}
+
 export class ApiError extends Error {
   status: number
   constructor(status: number, message: string) {
@@ -151,6 +182,7 @@ export const api = {
   answer: (id: string, n: number, choice: Choice) =>
     call<AnswerResult>('POST', `/game/${id}/answer`, { n, choice }),
   summon: () => call<SummonResult>('POST', '/ghosts/summon'),
+  seance: () => call<Seance>('GET', '/seance'),
 }
 
 /** 'Gal`li*mau"fry' -> 'Gal·li·mau′fry' (1913 accent marks shown the way the book prints them). */

@@ -7,13 +7,14 @@ import { Atmosphere, RiseFromFog } from './components/Atmosphere'
 import { Card } from './components/Card'
 import { RevealCard } from './components/RevealCard'
 import { ScoreBar } from './components/ScoreBar'
+import { Seance } from './components/Seance'
 import { DORD_STAMP_AT, Finale, ModePicker, Title } from './components/Screens'
 import { SoundToggle } from './components/SoundToggle'
 import { ThreeDefs } from './components/ThreeDefs'
 import { toRound } from './rounds'
 import type { Round } from './rounds'
 
-type Screen = 'title' | 'modes' | 'play' | 'finale'
+type Screen = 'title' | 'modes' | 'play' | 'finale' | 'seance'
 const ROUNDS = 20
 
 interface Play {
@@ -213,8 +214,11 @@ export default function App() {
               setVsGemma={setVsGemma}
               busy={busy}
               gemmaAwake={health?.ok === true}
+              onSeance={() => setScreen('seance')}
             />
           )}
+
+          {screen === 'seance' && <Seance onBack={() => setScreen('modes')} />}
 
           {screen === 'play' && play && (
             <div

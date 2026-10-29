@@ -148,3 +148,17 @@ button.pill { cursor: pointer; background: rgba(22, 13, 8, 0.22); }
 .final-score { display: flex; gap: 24px; justify-content: center; margin: 24px 0 8px; font-family: var(--sc); font-size: 24px; letter-spacing: 0.1em; }
 .final-score b { color: var(--blood); font-size: 40px; display: block; text-align: center; }
 .again { display: flex; gap: 14px; margin-top: 24px; }
+
+/* ------------------------------------------------------------ seance */
+.seance .head { font-size: clamp(48px, 7vw, 72px); }
+.seance .lead { font-size: 17px; line-height: 1.5; margin: 14px 0 10px; }
+.seance-table { width: 100%; border-collapse: collapse; font-size: 16px; margin: 6px 0 4px; }
+.seance-table th, .seance-table td { padding: 7px 8px; border-bottom: 1px dashed rgba(22, 13, 8, 0.35); text-align: left; }
+.seance-table thead th { font-family: var(--sc); font-weight: 400; letter-spacing: 0.06em; font-size: 15px; }
+.seance-table tbody th { font-weight: 400; font-style: italic; }
+.seance-table td b { color: var(--blood); font-size: 20px; font-weight: 600; margin-right: 6px; }
+.seance-table td .of { font-size: 13px; opacity: 0.65; }
+.seance .quoted { font-style: italic; }
+.seance .quoted b { font-style: normal; font-family: var(--sc); letter-spacing: 0.04em; }
+.seance-link { margin-top: 18px; background: none; border: 0; color: var(--wraith); font: inherit; font-style: italic; font-size: 17px; cursor: pointer; opacity: 0.8; text-decoration: underline dotted; }
+.seance-link:hover { opacity: 1; }

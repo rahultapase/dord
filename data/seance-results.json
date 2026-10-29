@@ -1,0 +1,4271 @@
+{
+ "held": "2026-10-29T14:46:48+00:00",
+ "complete": true,
+ "settings": {
+  "temperature": 0,
+  "seed": 7,
+  "think": false,
+  "cardSeed": 1934,
+  "models": [
+   "gemma4:e2b",
+   "gemma3:1b"
+  ],
+  "prompts": "backend/prompts.py (real_or_ghost, three_definitions, define_word)"
+ },
+ "summary": {
+  "gemma4:e2b": {
+   "realOrGhost": {
+    "cards": 100,
+    "correct": 64,
+    "ghostsCalledReal": 16,
+    "ghosts": 50,
+    "realsCalledGhost": 20,
+    "reals": 50,
+    "noAnswer": 0
+   },
+   "threeDefs": {
+    "cards": 50,
+    "correct": 24,
+    "pickedBluff": 26,
+    "noAnswer": 0
+   },
+   "define": {
+    "ghosts": 30,
+    "madeUp": 1,
+    "notAWord": 29,
+    "hedged": 0,
+    "noAnswer": 0
+   },
+   "secondsPerAnswer": 0.56
+  },
+  "gemma3:1b": {
+   "realOrGhost": {
+    "cards": 100,
+    "correct": 50,
+    "ghostsCalledReal": 50,
+    "ghosts": 50,
+    "realsCalledGhost": 0,
+    "reals": 50,
+    "noAnswer": 0
+   },
+   "threeDefs": {
+    "cards": 50,
+    "correct": 15,
+    "pickedBluff": 35,
+    "noAnswer": 0
+   },
+   "define": {
+    "ghosts": 30,
+    "madeUp": 18,
+    "notAWord": 11,
+    "hedged": 1,
+    "noAnswer": 0
+   },
+   "secondsPerAnswer": 0.36
+  }
+ },
+ "answers": [
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "flammaeon",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.75,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "dominicide",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "geloscopy",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "lunivane",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "nugacity",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "mendicantus",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "leasy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "scarmage",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "pyroflux",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.58,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "latitation",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "tempestia",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "brumancy",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.52,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "commorient",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.65,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "infestive",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "strifefulle",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "amort",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "charmwell",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "itinerantia",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.52,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "occultive",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "inustion",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "sauseflem",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "gashful",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "ticktack",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.59,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "luminelle",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "lachrymation",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "lunifade",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "tristescence",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "ashenite",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.59,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "vermiculose",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "sideromancy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "alepole",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "oneiromancy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "brothwise",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.65,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "bibliotaph",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "somnifuge",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "outfrown",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "spindlewrought",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.59,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "calmirth",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "digladiate",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "clinquant",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.58,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "errantus",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "exustion",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "grindwell",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.57,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "ylvanos",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "hyperphysical",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "fatuancy",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.57,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "lexiphanicism",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.59,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "eremacausis",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.6,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "flameward",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "tomebrew",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "smokefall",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "immask",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.57,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "funebrial",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "adustion",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "mellifluence",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "veridance",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "bragget",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "necrotide",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "brambletide",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "mistide",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.63,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "sombrivance",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.64,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "ungrave",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "asomatous",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "brumfall",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "hushhold",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.51,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "hellbroth",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "fieldmire",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "aeroflux",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.52,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "queach",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.58,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "fistslag",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.58,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "sterve",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "embeam",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "infelt",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.57,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "rivetage",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "rivulgeous",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "frumenty",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.58,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "zephyrine",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.64,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "awless",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "scrycraft",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.59,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "voyagant",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.57,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "brawlwick",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.58,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "insoul",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "noctivine",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "telesm",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "sorrowdrift",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.57,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "decharm",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "winderock",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "marinelle",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.58,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "spright",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.6,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "undercreep",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "coranach",
+   "kind": "real",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "real",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "birthnight",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "wakenpore",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "casktine",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.52,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "fistulancy",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.55,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "ignigenous",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.54,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "scotograph",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.56,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "treenotce",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.59,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "lucidance",
+   "kind": "ghost",
+   "answer": "ghost",
+   "seconds": 0.5,
+   "truth": "ghost",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "real-or-ghost",
+   "word": "spectrify",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.53,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "hippocras",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.58,
+   "truth": 2,
+   "options": [
+    "A peculiar, inebriated state; a drunken fancy.",
+    "A cordial made of spiced wine, etc.",
+    "A draught of strong spirits."
+   ],
+   "answerText": "A cordial made of spiced wine, etc.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "geloscopy",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.55,
+   "truth": 3,
+   "options": [
+    "A strange, thick substance; a peculiar jelly.",
+    "A viewing instrument for viscous fluids.",
+    "Divination by means of laughter."
+   ],
+   "answerText": "A viewing instrument for viscous fluids.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "sororicide",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "The murder of one's sister; also, one who murders or kills one's own sister.",
+    "A device for binding female kin; a mechanism of solemn union.",
+    "A collection of morbid rites; a practice of familial demise."
+   ],
+   "answerText": "The murder of one's sister; also, one who murders or kills one's own sister.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "parietine",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.57,
+   "truth": 2,
+   "options": [
+    "The faculty of perception.",
+    "A piece of a fallen wall; a ruin.",
+    "A mineral substance found in certain strata."
+   ],
+   "answerText": "A piece of a fallen wall; a ruin.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "birthnight",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.55,
+   "truth": 2,
+   "options": [
+    "A clumsy, hasty delivery; a botched presentation.",
+    "The night in which a person is born; the anniversary of that night in succeeding years.",
+    "A nocturnal occurrence; a time of fragile emergence."
+   ],
+   "answerText": "The night in which a person is born; the anniversary of that night in succeeding years.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "ruinate",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.65,
+   "truth": 3,
+   "options": [
+    "To spoil a fine harvest; to make spoiled the yield.",
+    "To unravel a fabric; to tear apart with great force; to rend.",
+    "To demolish; to subvert; to destroy; to reduce to poverty; to ruin."
+   ],
+   "answerText": "To demolish; to subvert; to destroy; to reduce to poverty; to ruin.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "bragget",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.59,
+   "truth": 3,
+   "options": [
+    "A small gathering of hounds; a pack of hunting dogs.",
+    "A knotted length of rope; a tangled snare.",
+    "A liquor made of ale and honey fermented, with spices, etc."
+   ],
+   "answerText": "A liquor made of ale and honey fermented, with spices, etc.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "ignigenous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.58,
+   "truth": 3,
+   "options": [
+    "Having a distinct local character.",
+    "Full of native stock; relating to the soil.",
+    "Produced by the action of fire, as lava."
+   ],
+   "answerText": "Having a distinct local character.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "undersong",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.55,
+   "truth": 1,
+   "options": [
+    "The burden of a song; the chorus; the refrain.",
+    "A small, hidden groove; a faint vibration felt by the ear.",
+    "A low musical tone; a sound beneath the main melody."
+   ],
+   "answerText": "A low musical tone; a sound beneath the main melody.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "delirament",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.55,
+   "truth": 3,
+   "options": [
+    "A confused assemblage of wares; a haphazard collection.",
+    "A sudden fit of fever; a raving condition.",
+    "A wandering of the mind; a crazy fancy."
+   ],
+   "answerText": "A wandering of the mind; a crazy fancy.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "infestive",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.55,
+   "truth": 2,
+   "options": [
+    "Showing an inclination toward worm-eaten decay.",
+    "Having no mirth; not festive or merry; dull; cheerless; gloomy; forlorn.",
+    "Pertaining to plague; breeding sickness."
+   ],
+   "answerText": "Pertaining to plague; breeding sickness.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "uncurse",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.68,
+   "truth": 1,
+   "options": [
+    "To free from a curse or an execration.",
+    "To lift a blight from the field; to end a plague.",
+    "To break a binding enchantment; to undo a dark vow."
+   ],
+   "answerText": "To free from a curse or an execration.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "mellifluence",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "A flow of sweetness, or a sweet, smooth flow.",
+    "The subtle persuasion; the soft influence; a mild sway.",
+    "The tendency to draw in a soft murmur; a subtle influence."
+   ],
+   "answerText": "The tendency to draw in a soft murmur; a subtle influence.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "uncreate",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.57,
+   "truth": 3,
+   "options": [
+    "To unweave a tangled thread.",
+    "To loosen a stubborn bond; to break apart a fused mass.",
+    "To deprive of existence; to annihilate."
+   ],
+   "answerText": "To deprive of existence; to annihilate.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "grume",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.56,
+   "truth": 2,
+   "options": [
+    "A thick, dreary patch; a heavy mass of soot.",
+    "A thick, viscid fluid; a clot, as of blood.",
+    "A small gathering of drunks; a drunken coterie."
+   ],
+   "answerText": "A thick, viscid fluid; a clot, as of blood.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "infelt",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.6,
+   "truth": 3,
+   "options": [
+    "Full of deep sorrow; lonely spirit; melancholy mood.",
+    "Having a coarse texture; rough feeling; unrefined nature.",
+    "Felt inwardly; heartfelt."
+   ],
+   "answerText": "Felt inwardly; heartfelt.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "gashful",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.59,
+   "truth": 1,
+   "options": [
+    "Full of gashes; hideous; frightful.",
+    "Having a ragged appearance; torn fabric; frayed edges.",
+    "Pertaining to a deep fissure; cleft; or split."
+   ],
+   "answerText": "Pertaining to a deep fissure; cleft; or split.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "scarmage",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.58,
+   "truth": 1,
+   "options": [
+    "A slight contest; a skirmish.",
+    "A clumsy maneuver; a haphazard movement; a botched attempt.",
+    "A dense patch of tangled undergrowth; a thicket of brambles."
+   ],
+   "answerText": "A slight contest; a skirmish.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "bridestake",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.59,
+   "truth": 2,
+   "options": [
+    "A stake for tying up a bridle.",
+    "A stake or post set in the ground, for guests at a wedding to dance round.",
+    "The act of setting a stake into the earth; a deep planting."
+   ],
+   "answerText": "A stake for tying up a bridle.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "idolum",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.58,
+   "truth": 2,
+   "options": [
+    "A small shrine; a statue of worship; a sacred image.",
+    "Appearance or image; a phantasm; a spectral image; also, a mental image or idea.",
+    "A foolish devotee; a blind worshipper; a gullible soul."
+   ],
+   "answerText": "A small shrine; a statue of worship; a sacred image.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "infestuous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.58,
+   "truth": 2,
+   "options": [
+    "Having a spreading, unceasing nature.",
+    "Mischievous; harmful; dangerous.",
+    "Full of persistent vermin; possessing a bothersome swarm."
+   ],
+   "answerText": "Having a spreading, unceasing nature.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "sublunar",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.58,
+   "truth": 3,
+   "options": [
+    "Having a dark, hidden quality; secretive; profoundly distant.",
+    "Full of celestial spheres; remote realms.",
+    "Situated beneath the moon; hence, of or pertaining to this world; terrestrial; earthly."
+   ],
+   "answerText": "Situated beneath the moon; hence, of or pertaining to this world; terrestrial; earthly.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "incension",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.58,
+   "truth": 2,
+   "options": [
+    "A profound resentment; a burning of the spirit.",
+    "The act of kindling, or the state of being kindled or on fire.",
+    "A sharp incision; a cutting of flesh by a blade; a wound."
+   ],
+   "answerText": "The act of kindling, or the state of being kindled or on fire.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "cerement",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.7,
+   "truth": 1,
+   "options": [
+    "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+    "A building of stone; a solid structure; a formal edifice.",
+    "The act of cementing materials; a binding procedure."
+   ],
+   "answerText": "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "decharm",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.54,
+   "truth": 3,
+   "options": [
+    "To unbind a tricky knot; to loosen a tight fastening.",
+    "To remove a covering; to strip off a surface.",
+    "To free from a charm; to disenchant."
+   ],
+   "answerText": "To free from a charm; to disenchant.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "dominicide",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "The act of killing a master.",
+    "The act of ruling by killing; a fatal sovereign.",
+    "A heavy burden of dominion; the final act of subjugation."
+   ],
+   "answerText": "The act of ruling by killing; a fatal sovereign.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "ustorious",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.54,
+   "truth": 1,
+   "options": [
+    "Having the quality of burning.",
+    "Full of old renown; possessing great fame.",
+    "Having a quality of long-held memory; like a venerable relic."
+   ],
+   "answerText": "Full of old renown; possessing great fame.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "unclew",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "To unwind, unfold, or untie; hence, to undo; to ruin.",
+    "To expose a hidden joint; to reveal a broken link.",
+    "To dislodge a stubborn root; to break a hardened shell."
+   ],
+   "answerText": "To unwind, unfold, or untie; hence, to undo; to ruin.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "thanatoid",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.57,
+   "truth": 2,
+   "options": [
+    "Predisposed to decay; swiftly rotting; morbidly obsessed.",
+    "Deathlike; resembling death.",
+    "Bearing a curious pallor; sickly appearance; spectral mien."
+   ],
+   "answerText": "Deathlike; resembling death.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "misween",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.55,
+   "truth": 2,
+   "options": [
+    "To draw together loosely; to gather disparate elements.",
+    "To ween amiss; to misjudge; to distrust; to be mistaken.",
+    "To make a subtle deception; to engage in sly pretense."
+   ],
+   "answerText": "To ween amiss; to misjudge; to distrust; to be mistaken.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "cruciation",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.58,
+   "truth": 2,
+   "options": [
+    "A judicial proceeding; a lengthy inquest.",
+    "The act of torturing; torture; torment.",
+    "The careful arrangement of a piece."
+   ],
+   "answerText": "The careful arrangement of a piece.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "fascinous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.56,
+   "truth": 3,
+   "options": [
+    "Having a captivating allure; drawing the eye.",
+    "Full of rapturous delight; deeply engaging the senses.",
+    "Caused or acting by witchcraft."
+   ],
+   "answerText": "Having a captivating allure; drawing the eye.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "anagogic",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.6,
+   "truth": 3,
+   "options": [
+    "Spiritually lofty; intensely contemplative; upwardly focused.",
+    "Inclined toward high thought; deeply mystical; transcendent.",
+    "Mystical; having a secondary spiritual meaning."
+   ],
+   "answerText": "Inclined toward high thought; deeply mystical; transcendent.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "arreptitious",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "Snatched away; seized or possessed, as a demoniac; raving; mad; crack-brained.",
+    "Inclined toward ruin; prone to disarray; disordered in form.",
+    "Full of wretched excess; ravenous appetite."
+   ],
+   "answerText": "Full of wretched excess; ravenous appetite.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "ceromancy",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.57,
+   "truth": 1,
+   "options": [
+    "Divination by dropping melted wax in water.",
+    "A practice of divination by mirrors; a glass gazing.",
+    "A person skilled in predicting fortune."
+   ],
+   "answerText": "Divination by dropping melted wax in water.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "sciagraphy",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.56,
+   "truth": 2,
+   "options": [
+    "A collector of antique optical devices.",
+    "The art or science of projecting or delineating shadows as they fall in nature.",
+    "The process of drawing pictures with a silvered plate."
+   ],
+   "answerText": "The process of drawing pictures with a silvered plate.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "rawhead",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.58,
+   "truth": 3,
+   "options": [
+    "A coarse fellow; a dull-witted brute; a simpleton.",
+    "A bald head; a cranium devoid of hair; a scrawny skull.",
+    "A specter mentioned to frighten children."
+   ],
+   "answerText": "A bald head; a cranium devoid of hair; a scrawny skull.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "sepiment",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.63,
+   "truth": 1,
+   "options": [
+    "Something that separates; a hedge; a fence.",
+    "The act of sealing a cask with pitch; a stubborn fastening.",
+    "A mound of dried clay; a terrestrial lump of earth."
+   ],
+   "answerText": "A mound of dried clay; a terrestrial lump of earth.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "foretoken",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.6,
+   "truth": 3,
+   "options": [
+    "A first-set marker; the initial marking of a course.",
+    "A token of foresight; a small promise.",
+    "Prognostic; previous omen."
+   ],
+   "answerText": "A first-set marker; the initial marking of a course.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "beweep",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.56,
+   "truth": 3,
+   "options": [
+    "To weep out; to empty a vessel; to drain the contents.",
+    "To weep down; to flow like a spring; to moisten the ground.",
+    "To weep over; to deplore; to bedew with tears."
+   ],
+   "answerText": "To weep out; to empty a vessel; to drain the contents.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "queach",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.57,
+   "truth": 3,
+   "options": [
+    "A sudden stoppage of water; a dam failure.",
+    "A manner of hasty collection; a quick gathering of refuse.",
+    "A thick, bushy plot; a thicket."
+   ],
+   "answerText": "A manner of hasty collection; a quick gathering of refuse.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "leasy",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.55,
+   "truth": 1,
+   "options": [
+    "Flimsy; vague; deceptive.",
+    "Full of leasehold tenure; subject to a long term dwelling.",
+    "Full of leaseholds; pertaining to tenancy agreements."
+   ],
+   "answerText": "Full of leasehold tenure; subject to a long term dwelling.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "trunkwork",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.62,
+   "truth": 2,
+   "options": [
+    "The tedious and laborious arrangements.",
+    "Work or devices suitable to be concealed; a secret stratagem.",
+    "The main supporting framework."
+   ],
+   "answerText": "The main supporting framework.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "coranach",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.55,
+   "truth": 2,
+   "options": [
+    "A knot of rough wool; a tangled mass of coarse thread.",
+    "A lamentation for the dead; a dirge.",
+    "A sacred text; a holy scripture of old."
+   ],
+   "answerText": "A sacred text; a holy scripture of old.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "nunchion",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.56,
+   "truth": 2,
+   "options": [
+    "A knotted basket; a bundle of sticks; a woven snare.",
+    "A portion of food taken at or after noon, usually between full meals; a luncheon.",
+    "A curved wooden rod; a device for striking."
+   ],
+   "answerText": "A curved wooden rod; a device for striking.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "vermiculose",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.55,
+   "truth": 2,
+   "options": [
+    "Having a minute, serpentine course.",
+    "Containing, or full of, worms; resembling worms.",
+    "Full of fine, minute filaments."
+   ],
+   "answerText": "Containing, or full of, worms; resembling worms.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "obreptitious",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.56,
+   "truth": 3,
+   "options": [
+    "Full of secret plotting; sly design; hidden intent.",
+    "Having furtive character; sneaky manner; clandestine nature.",
+    "Done or obtained by surprise; with secrecy, or by concealment of the truth."
+   ],
+   "answerText": "Done or obtained by surprise; with secrecy, or by concealment of the truth.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "immask",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.57,
+   "truth": 2,
+   "options": [
+    "To bind tightly; to fasten with cordage.",
+    "To cover, as with a mask; to disguise or conceal.",
+    "To imbue with a false sheen; to give a deceptive gloss."
+   ],
+   "answerText": "To cover, as with a mask; to disguise or conceal.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "embeam",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.58,
+   "truth": 3,
+   "options": [
+    "To set upon a beam.",
+    "To fasten firmly with metal strapping.",
+    "To make brilliant with beams."
+   ],
+   "answerText": "To set upon a beam.",
+   "correct": false
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "three-defs",
+   "word": "hearsecloth",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.57,
+   "truth": 3,
+   "options": [
+    "A heavy wooden conveyance; a funeral carriage.",
+    "A cumbersome burden; a heavy coffin.",
+    "A cloth for covering a coffin when on a bier; a pall."
+   ],
+   "answerText": "A cloth for covering a coffin when on a bier; a pall.",
+   "correct": true
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "brambletide",
+   "kind": "ghost",
+   "definition": "Brambletide is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.83
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "aethervine",
+   "kind": "ghost",
+   "definition": "Aethervine is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.92
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "grappelly",
+   "kind": "ghost",
+   "definition": "Grappelly is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.8
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "itinerantia",
+   "kind": "ghost",
+   "definition": "Itinerantia is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.94
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "umbragion",
+   "kind": "ghost",
+   "definition": "Umbragion is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.89
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "somnifluence",
+   "kind": "ghost",
+   "definition": "Somnifluence is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.91
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "zephyrine",
+   "kind": "ghost",
+   "definition": "Zephyrine is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.87
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "pavementus",
+   "kind": "ghost",
+   "definition": "Pavementus is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.85
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "mendicantus",
+   "kind": "ghost",
+   "definition": "Mendicantus is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.95
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "sepulchreous",
+   "kind": "ghost",
+   "definition": "The word 'sepulchreous' is not a recognized word in standard English.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 1.02
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "oneiricage",
+   "kind": "ghost",
+   "definition": "Oneiricage is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.86
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "fableous",
+   "kind": "ghost",
+   "definition": "Fableous describes something that is fanciful, whimsical, or like a fable.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.95
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "errantus",
+   "kind": "ghost",
+   "definition": "Errantus is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.89
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "florumere",
+   "kind": "ghost",
+   "definition": "Florumere is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.84
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "armagion",
+   "kind": "ghost",
+   "definition": "Armagion is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.83
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "tractoria",
+   "kind": "ghost",
+   "definition": "Tractoria is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.86
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "dreadmonger",
+   "kind": "ghost",
+   "definition": "Dreadmonger is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.96
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "noctivine",
+   "kind": "ghost",
+   "definition": "Noctivine is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.88
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "tapestral",
+   "kind": "ghost",
+   "definition": "Tapestral is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.97
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "tombaline",
+   "kind": "ghost",
+   "definition": "Tombaline is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 1.02
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "smokefall",
+   "kind": "ghost",
+   "definition": "Smokefall is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.91
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "pugnace",
+   "kind": "ghost",
+   "definition": "Pugnace is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.99
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "funerarie",
+   "kind": "ghost",
+   "definition": "Funerarie is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.8
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "maulcraft",
+   "kind": "ghost",
+   "definition": "Maulcraft is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.87
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "hushhold",
+   "kind": "ghost",
+   "definition": "Hushhold is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 1.03
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "boscomet",
+   "kind": "ghost",
+   "definition": "Boscomet is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.89
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "treenow",
+   "kind": "ghost",
+   "definition": "Treenow is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.86
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "terravis",
+   "kind": "ghost",
+   "definition": "Terravis is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.93
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "foliacre",
+   "kind": "ghost",
+   "definition": "Foliacre is not a recognized word in the English language.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.94
+  },
+  {
+   "model": "gemma4:e2b",
+   "mode": "define",
+   "word": "marinelle",
+   "kind": "ghost",
+   "definition": "Marinelle is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.82
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "flammaeon",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "dominicide",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "geloscopy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "lunivane",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "nugacity",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "mendicantus",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "leasy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "scarmage",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "pyroflux",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "latitation",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "tempestia",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "brumancy",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "commorient",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "infestive",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "strifefulle",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "amort",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "charmwell",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "itinerantia",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "occultive",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "inustion",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "sauseflem",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "gashful",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "ticktack",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "luminelle",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "lachrymation",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "lunifade",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "tristescence",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "ashenite",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "vermiculose",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "sideromancy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "alepole",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "oneiromancy",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "brothwise",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "bibliotaph",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "somnifuge",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "outfrown",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "spindlewrought",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "calmirth",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "digladiate",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "clinquant",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "errantus",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "exustion",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "grindwell",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "ylvanos",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "hyperphysical",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "fatuancy",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "lexiphanicism",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "eremacausis",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "flameward",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "tomebrew",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "smokefall",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "immask",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.42,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "funebrial",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.4,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "adustion",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "mellifluence",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.39,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "veridance",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "bragget",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "necrotide",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "brambletide",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.39,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "mistide",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "sombrivance",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "ungrave",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.43,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "asomatous",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "brumfall",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.5,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "hushhold",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.4,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "hellbroth",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.42,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "fieldmire",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "aeroflux",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "queach",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "fistslag",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "sterve",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.41,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "embeam",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "infelt",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "rivetage",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.38,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "rivulgeous",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "frumenty",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "zephyrine",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.43,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "awless",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.41,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "scrycraft",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "voyagant",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "brawlwick",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "insoul",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "noctivine",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "telesm",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "sorrowdrift",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "decharm",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "winderock",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "marinelle",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.42,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "spright",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "undercreep",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "coranach",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.36,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "birthnight",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.37,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "wakenpore",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "casktine",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "fistulancy",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "ignigenous",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "scotograph",
+   "kind": "real",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "real",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "treenotce",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.34,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "lucidance",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.33,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "real-or-ghost",
+   "word": "spectrify",
+   "kind": "ghost",
+   "answer": "real",
+   "seconds": 0.35,
+   "truth": "ghost",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "hippocras",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 2,
+   "options": [
+    "A peculiar, inebriated state; a drunken fancy.",
+    "A cordial made of spiced wine, etc.",
+    "A draught of strong spirits."
+   ],
+   "answerText": "A peculiar, inebriated state; a drunken fancy.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "geloscopy",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.41,
+   "truth": 3,
+   "options": [
+    "A strange, thick substance; a peculiar jelly.",
+    "A viewing instrument for viscous fluids.",
+    "Divination by means of laughter."
+   ],
+   "answerText": "A strange, thick substance; a peculiar jelly.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "sororicide",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "The murder of one's sister; also, one who murders or kills one's own sister.",
+    "A device for binding female kin; a mechanism of solemn union.",
+    "A collection of morbid rites; a practice of familial demise."
+   ],
+   "answerText": "The murder of one's sister; also, one who murders or kills one's own sister.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "parietine",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "The faculty of perception.",
+    "A piece of a fallen wall; a ruin.",
+    "A mineral substance found in certain strata."
+   ],
+   "answerText": "The faculty of perception.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "birthnight",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 2,
+   "options": [
+    "A clumsy, hasty delivery; a botched presentation.",
+    "The night in which a person is born; the anniversary of that night in succeeding years.",
+    "A nocturnal occurrence; a time of fragile emergence."
+   ],
+   "answerText": "A clumsy, hasty delivery; a botched presentation.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "ruinate",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 3,
+   "options": [
+    "To spoil a fine harvest; to make spoiled the yield.",
+    "To unravel a fabric; to tear apart with great force; to rend.",
+    "To demolish; to subvert; to destroy; to reduce to poverty; to ruin."
+   ],
+   "answerText": "To spoil a fine harvest; to make spoiled the yield.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "bragget",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 3,
+   "options": [
+    "A small gathering of hounds; a pack of hunting dogs.",
+    "A knotted length of rope; a tangled snare.",
+    "A liquor made of ale and honey fermented, with spices, etc."
+   ],
+   "answerText": "A small gathering of hounds; a pack of hunting dogs.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "ignigenous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.41,
+   "truth": 3,
+   "options": [
+    "Having a distinct local character.",
+    "Full of native stock; relating to the soil.",
+    "Produced by the action of fire, as lava."
+   ],
+   "answerText": "Having a distinct local character.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "undersong",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.37,
+   "truth": 1,
+   "options": [
+    "The burden of a song; the chorus; the refrain.",
+    "A small, hidden groove; a faint vibration felt by the ear.",
+    "A low musical tone; a sound beneath the main melody."
+   ],
+   "answerText": "The burden of a song; the chorus; the refrain.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "delirament",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.4,
+   "truth": 3,
+   "options": [
+    "A confused assemblage of wares; a haphazard collection.",
+    "A sudden fit of fever; a raving condition.",
+    "A wandering of the mind; a crazy fancy."
+   ],
+   "answerText": "A wandering of the mind; a crazy fancy.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "infestive",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "Showing an inclination toward worm-eaten decay.",
+    "Having no mirth; not festive or merry; dull; cheerless; gloomy; forlorn.",
+    "Pertaining to plague; breeding sickness."
+   ],
+   "answerText": "Showing an inclination toward worm-eaten decay.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "uncurse",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 1,
+   "options": [
+    "To free from a curse or an execration.",
+    "To lift a blight from the field; to end a plague.",
+    "To break a binding enchantment; to undo a dark vow."
+   ],
+   "answerText": "To free from a curse or an execration.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "mellifluence",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 1,
+   "options": [
+    "A flow of sweetness, or a sweet, smooth flow.",
+    "The subtle persuasion; the soft influence; a mild sway.",
+    "The tendency to draw in a soft murmur; a subtle influence."
+   ],
+   "answerText": "A flow of sweetness, or a sweet, smooth flow.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "uncreate",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.37,
+   "truth": 3,
+   "options": [
+    "To unweave a tangled thread.",
+    "To loosen a stubborn bond; to break apart a fused mass.",
+    "To deprive of existence; to annihilate."
+   ],
+   "answerText": "To unweave a tangled thread.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "grume",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.52,
+   "truth": 2,
+   "options": [
+    "A thick, dreary patch; a heavy mass of soot.",
+    "A thick, viscid fluid; a clot, as of blood.",
+    "A small gathering of drunks; a drunken coterie."
+   ],
+   "answerText": "A thick, dreary patch; a heavy mass of soot.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "infelt",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.37,
+   "truth": 3,
+   "options": [
+    "Full of deep sorrow; lonely spirit; melancholy mood.",
+    "Having a coarse texture; rough feeling; unrefined nature.",
+    "Felt inwardly; heartfelt."
+   ],
+   "answerText": "Full of deep sorrow; lonely spirit; melancholy mood.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "gashful",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 1,
+   "options": [
+    "Full of gashes; hideous; frightful.",
+    "Having a ragged appearance; torn fabric; frayed edges.",
+    "Pertaining to a deep fissure; cleft; or split."
+   ],
+   "answerText": "Full of gashes; hideous; frightful.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "scarmage",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "A slight contest; a skirmish.",
+    "A clumsy maneuver; a haphazard movement; a botched attempt.",
+    "A dense patch of tangled undergrowth; a thicket of brambles."
+   ],
+   "answerText": "A slight contest; a skirmish.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "bridestake",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "A stake for tying up a bridle.",
+    "A stake or post set in the ground, for guests at a wedding to dance round.",
+    "The act of setting a stake into the earth; a deep planting."
+   ],
+   "answerText": "A stake for tying up a bridle.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "idolum",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "A small shrine; a statue of worship; a sacred image.",
+    "Appearance or image; a phantasm; a spectral image; also, a mental image or idea.",
+    "A foolish devotee; a blind worshipper; a gullible soul."
+   ],
+   "answerText": "A small shrine; a statue of worship; a sacred image.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "infestuous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 2,
+   "options": [
+    "Having a spreading, unceasing nature.",
+    "Mischievous; harmful; dangerous.",
+    "Full of persistent vermin; possessing a bothersome swarm."
+   ],
+   "answerText": "Having a spreading, unceasing nature.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "sublunar",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 3,
+   "options": [
+    "Having a dark, hidden quality; secretive; profoundly distant.",
+    "Full of celestial spheres; remote realms.",
+    "Situated beneath the moon; hence, of or pertaining to this world; terrestrial; earthly."
+   ],
+   "answerText": "Having a dark, hidden quality; secretive; profoundly distant.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "incension",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 2,
+   "options": [
+    "A profound resentment; a burning of the spirit.",
+    "The act of kindling, or the state of being kindled or on fire.",
+    "A sharp incision; a cutting of flesh by a blade; a wound."
+   ],
+   "answerText": "A profound resentment; a burning of the spirit.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "cerement",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.39,
+   "truth": 1,
+   "options": [
+    "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+    "A building of stone; a solid structure; a formal edifice.",
+    "The act of cementing materials; a binding procedure."
+   ],
+   "answerText": "A cerecloth used for the special purpose of enveloping a dead body when embalmed.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "decharm",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 3,
+   "options": [
+    "To unbind a tricky knot; to loosen a tight fastening.",
+    "To remove a covering; to strip off a surface.",
+    "To free from a charm; to disenchant."
+   ],
+   "answerText": "To unbind a tricky knot; to loosen a tight fastening.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "dominicide",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "The act of killing a master.",
+    "The act of ruling by killing; a fatal sovereign.",
+    "A heavy burden of dominion; the final act of subjugation."
+   ],
+   "answerText": "The act of killing a master.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "ustorious",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "Having the quality of burning.",
+    "Full of old renown; possessing great fame.",
+    "Having a quality of long-held memory; like a venerable relic."
+   ],
+   "answerText": "Having a quality of long-held memory; like a venerable relic.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "unclew",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.42,
+   "truth": 1,
+   "options": [
+    "To unwind, unfold, or untie; hence, to undo; to ruin.",
+    "To expose a hidden joint; to reveal a broken link.",
+    "To dislodge a stubborn root; to break a hardened shell."
+   ],
+   "answerText": "To unwind, unfold, or untie; hence, to undo; to ruin.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "thanatoid",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.38,
+   "truth": 2,
+   "options": [
+    "Predisposed to decay; swiftly rotting; morbidly obsessed.",
+    "Deathlike; resembling death.",
+    "Bearing a curious pallor; sickly appearance; spectral mien."
+   ],
+   "answerText": "Predisposed to decay; swiftly rotting; morbidly obsessed.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "misween",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "To draw together loosely; to gather disparate elements.",
+    "To ween amiss; to misjudge; to distrust; to be mistaken.",
+    "To make a subtle deception; to engage in sly pretense."
+   ],
+   "answerText": "To draw together loosely; to gather disparate elements.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "cruciation",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 2,
+   "options": [
+    "A judicial proceeding; a lengthy inquest.",
+    "The act of torturing; torture; torment.",
+    "The careful arrangement of a piece."
+   ],
+   "answerText": "A judicial proceeding; a lengthy inquest.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "fascinous",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 3,
+   "options": [
+    "Having a captivating allure; drawing the eye.",
+    "Full of rapturous delight; deeply engaging the senses.",
+    "Caused or acting by witchcraft."
+   ],
+   "answerText": "Having a captivating allure; drawing the eye.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "anagogic",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 3,
+   "options": [
+    "Spiritually lofty; intensely contemplative; upwardly focused.",
+    "Inclined toward high thought; deeply mystical; transcendent.",
+    "Mystical; having a secondary spiritual meaning."
+   ],
+   "answerText": "Spiritually lofty; intensely contemplative; upwardly focused.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "arreptitious",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.39,
+   "truth": 1,
+   "options": [
+    "Snatched away; seized or possessed, as a demoniac; raving; mad; crack-brained.",
+    "Inclined toward ruin; prone to disarray; disordered in form.",
+    "Full of wretched excess; ravenous appetite."
+   ],
+   "answerText": "Snatched away; seized or possessed, as a demoniac; raving; mad; crack-brained.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "ceromancy",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "Divination by dropping melted wax in water.",
+    "A practice of divination by mirrors; a glass gazing.",
+    "A person skilled in predicting fortune."
+   ],
+   "answerText": "Divination by dropping melted wax in water.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "sciagraphy",
+   "kind": "real",
+   "answer": 2,
+   "seconds": 0.44,
+   "truth": 2,
+   "options": [
+    "A collector of antique optical devices.",
+    "The art or science of projecting or delineating shadows as they fall in nature.",
+    "The process of drawing pictures with a silvered plate."
+   ],
+   "answerText": "The art or science of projecting or delineating shadows as they fall in nature.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "rawhead",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 3,
+   "options": [
+    "A coarse fellow; a dull-witted brute; a simpleton.",
+    "A bald head; a cranium devoid of hair; a scrawny skull.",
+    "A specter mentioned to frighten children."
+   ],
+   "answerText": "A coarse fellow; a dull-witted brute; a simpleton.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "sepiment",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.36,
+   "truth": 1,
+   "options": [
+    "Something that separates; a hedge; a fence.",
+    "The act of sealing a cask with pitch; a stubborn fastening.",
+    "A mound of dried clay; a terrestrial lump of earth."
+   ],
+   "answerText": "Something that separates; a hedge; a fence.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "foretoken",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.38,
+   "truth": 3,
+   "options": [
+    "A first-set marker; the initial marking of a course.",
+    "A token of foresight; a small promise.",
+    "Prognostic; previous omen."
+   ],
+   "answerText": "A first-set marker; the initial marking of a course.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "beweep",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.37,
+   "truth": 3,
+   "options": [
+    "To weep out; to empty a vessel; to drain the contents.",
+    "To weep down; to flow like a spring; to moisten the ground.",
+    "To weep over; to deplore; to bedew with tears."
+   ],
+   "answerText": "To weep out; to empty a vessel; to drain the contents.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "queach",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.41,
+   "truth": 3,
+   "options": [
+    "A sudden stoppage of water; a dam failure.",
+    "A manner of hasty collection; a quick gathering of refuse.",
+    "A thick, bushy plot; a thicket."
+   ],
+   "answerText": "A sudden stoppage of water; a dam failure.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "leasy",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 1,
+   "options": [
+    "Flimsy; vague; deceptive.",
+    "Full of leasehold tenure; subject to a long term dwelling.",
+    "Full of leaseholds; pertaining to tenancy agreements."
+   ],
+   "answerText": "Flimsy; vague; deceptive.",
+   "correct": true
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "trunkwork",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "The tedious and laborious arrangements.",
+    "Work or devices suitable to be concealed; a secret stratagem.",
+    "The main supporting framework."
+   ],
+   "answerText": "The tedious and laborious arrangements.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "coranach",
+   "kind": "real",
+   "answer": 3,
+   "seconds": 0.34,
+   "truth": 2,
+   "options": [
+    "A knot of rough wool; a tangled mass of coarse thread.",
+    "A lamentation for the dead; a dirge.",
+    "A sacred text; a holy scripture of old."
+   ],
+   "answerText": "A sacred text; a holy scripture of old.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "nunchion",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 2,
+   "options": [
+    "A knotted basket; a bundle of sticks; a woven snare.",
+    "A portion of food taken at or after noon, usually between full meals; a luncheon.",
+    "A curved wooden rod; a device for striking."
+   ],
+   "answerText": "A knotted basket; a bundle of sticks; a woven snare.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "vermiculose",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.35,
+   "truth": 2,
+   "options": [
+    "Having a minute, serpentine course.",
+    "Containing, or full of, worms; resembling worms.",
+    "Full of fine, minute filaments."
+   ],
+   "answerText": "Having a minute, serpentine course.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "obreptitious",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.33,
+   "truth": 3,
+   "options": [
+    "Full of secret plotting; sly design; hidden intent.",
+    "Having furtive character; sneaky manner; clandestine nature.",
+    "Done or obtained by surprise; with secrecy, or by concealment of the truth."
+   ],
+   "answerText": "Full of secret plotting; sly design; hidden intent.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "immask",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.34,
+   "truth": 2,
+   "options": [
+    "To bind tightly; to fasten with cordage.",
+    "To cover, as with a mask; to disguise or conceal.",
+    "To imbue with a false sheen; to give a deceptive gloss."
+   ],
+   "answerText": "To bind tightly; to fasten with cordage.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "embeam",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.33,
+   "truth": 3,
+   "options": [
+    "To set upon a beam.",
+    "To fasten firmly with metal strapping.",
+    "To make brilliant with beams."
+   ],
+   "answerText": "To set upon a beam.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "three-defs",
+   "word": "hearsecloth",
+   "kind": "real",
+   "answer": 1,
+   "seconds": 0.37,
+   "truth": 3,
+   "options": [
+    "A heavy wooden conveyance; a funeral carriage.",
+    "A cumbersome burden; a heavy coffin.",
+    "A cloth for covering a coffin when on a bier; a pall."
+   ],
+   "answerText": "A heavy wooden conveyance; a funeral carriage.",
+   "correct": false
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "brambletide",
+   "kind": "ghost",
+   "definition": "A whimsical and somewhat nonsensical word combining 'ramble' and 'tide,' suggesting a leisurely, perhaps slightly chaotic, exploration of a wild, overgrown landscape.",
+   "realWord": true,
+   "answer": "hedged",
+   "seconds": 0.8,
+   "handNote": "calls it 'a whimsical and somewhat nonsensical word' before defining it"
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "aethervine",
+   "kind": "ghost",
+   "definition": "The word 'aethervine' is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.68
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "grappelly",
+   "kind": "ghost",
+   "definition": "A word that describes a state of being or feeling of being closely connected or intertwined, often with a sense of warmth or comfort.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.71
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "itinerantia",
+   "kind": "ghost",
+   "definition": "Itinerantia is a complex and somewhat obscure term referring to a state of being perpetually restless and seeking new experiences, often characterized by a desire for movement and novelty, though its precise meaning and origin are debated.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.9
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "umbragion",
+   "kind": "ghost",
+   "definition": "The word ‘umbragion’ is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.6
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "somnifluence",
+   "kind": "ghost",
+   "definition": "The word ‘somnifluence’ is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.63
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "zephyrine",
+   "kind": "ghost",
+   "definition": "A fictional word combining elements of 'zephyr' (a gentle, soft breeze) and 'rye' (a type of grain), suggesting a light, airy, and possibly rustic beauty.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.89
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "pavementus",
+   "kind": "ghost",
+   "definition": "Pavementus is a rare and archaic word for a person who is excessively fond of or obsessed with pavements.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.65
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "mendicantus",
+   "kind": "ghost",
+   "definition": "A mendicant is a religious figure who lives and works by begging for alms, typically without a fixed place of residence.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.69
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "sepulchreous",
+   "kind": "ghost",
+   "definition": "sepulchreous describes something that evokes a sense of death, burial, or solemnity, often with a dark or melancholic atmosphere.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.78
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "oneiricage",
+   "kind": "ghost",
+   "definition": "Oneiricage is a rare and subjective state of dreaming characterized by vivid, often surreal, and emotionally intense experiences, often linked to a feeling of profound peace and nostalgia.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.82
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "fableous",
+   "kind": "ghost",
+   "definition": "fableous describes something that possesses a whimsical, magical, or enchanting quality, often with a sense of wonder and storytelling.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.71
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "errantus",
+   "kind": "ghost",
+   "definition": "A wandering or straying from a course or path; departing from a designated route.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.62
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "florumere",
+   "kind": "ghost",
+   "definition": "The word ‘florumere’ is not a recognized English word.",
+   "realWord": true,
+   "answer": "not-a-word",
+   "seconds": 0.59
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "armagion",
+   "kind": "ghost",
+   "definition": "It is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.58
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "tractoria",
+   "kind": "ghost",
+   "definition": "Tractoria is a type of farm or agricultural building, often a large, enclosed structure used for the processing and storage of agricultural products.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.77
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "dreadmonger",
+   "kind": "ghost",
+   "definition": "A person who deliberately creates a sense of fear or apprehension, often through exaggerated stories or performances.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.64
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "noctivine",
+   "kind": "ghost",
+   "definition": "Noctivine is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.63
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "tapestral",
+   "kind": "ghost",
+   "definition": "Tapestry refers to a complex and interwoven pattern of colors and designs, often used to depict a scene or story.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.7
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "tombaline",
+   "kind": "ghost",
+   "definition": "The word 'tombaline' is not a real word in the English language.",
+   "realWord": true,
+   "answer": "not-a-word",
+   "seconds": 0.67
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "smokefall",
+   "kind": "ghost",
+   "definition": "A smoky, dissipating cloud or haze produced by the burning of tobacco or other combustible materials.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.66
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "pugnace",
+   "kind": "ghost",
+   "definition": "Pugnace is a fierce, determined, and often aggressive nature, particularly in animals like pugs.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.68
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "funerarie",
+   "kind": "ghost",
+   "definition": "Funerarie is a rare, archaic word for a ceremonial or ritualized burial or mourning process.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.71
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "maulcraft",
+   "kind": "ghost",
+   "definition": "A rare and archaic term for a particularly large or forceful attack, often involving a grappling or wrestling match.",
+   "realWord": false,
+   "answer": "made-up",
+   "seconds": 0.68,
+   "handNote": "says real_word false, then defines it as 'a rare and archaic term'"
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "hushhold",
+   "kind": "ghost",
+   "definition": "A household, typically consisting of people and possessions within a home.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.57
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "boscomet",
+   "kind": "ghost",
+   "definition": "Boscomet is a rare, fictional, and highly complex linguistic construct representing a state of profound, interconnected consciousness and the manipulation of reality through a specific, ancient harmonic frequency.",
+   "realWord": true,
+   "answer": "not-a-word",
+   "seconds": 0.85
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "treenow",
+   "kind": "ghost",
+   "definition": "A prefix indicating a future or impending event.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.55
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "terravis",
+   "kind": "ghost",
+   "definition": "Terravis is a Latin word meaning 'to the earth' or 'upon the earth'.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.67
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "foliacre",
+   "kind": "ghost",
+   "definition": "Foliacre is not a recognized English word.",
+   "realWord": false,
+   "answer": "not-a-word",
+   "seconds": 0.59
+  },
+  {
+   "model": "gemma3:1b",
+   "mode": "define",
+   "word": "marinelle",
+   "kind": "ghost",
+   "definition": "Marinelle is a type of sea snail, particularly the European sea snail, known for its vibrant orange and red shells.",
+   "realWord": true,
+   "answer": "made-up",
+   "seconds": 0.72
+  }
+ ]
+}
