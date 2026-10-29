@@ -1,0 +1,196 @@
+/* The room: colours, fonts, layout. Taken from the approved mock (ui-mock.html). */
+:root {
+  --void: #040405;
+  --ink: #160d08;
+  --paper: #cdbb93;
+  --paper-2: #a8946a;
+  --blood: #8e1209;
+  --blood-hi: #c3190c;
+  --wraith: #9fe3d2;
+  --cold: #6fa8a0;
+  --text: #cfc6b4;
+  --sc: 'IM Fell English SC', Georgia, serif;
+  --fell: 'IM Fell English', Georgia, serif;
+  --body: 'EB Garamond', Georgia, serif;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--body);
+  background:
+    radial-gradient(600px 420px at 50% 42%, rgba(159, 227, 210, 0.07), transparent 70%),
+    radial-gradient(1200px 700px at 50% 50%, transparent 40%, rgba(0, 0, 0, 0.92) 85%),
+    var(--void);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+button { font: inherit; color: inherit; cursor: pointer; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--wraith); outline-offset: 3px; }
+a { color: var(--wraith); }
+
+.app {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 16px 34px;
+  position: relative;
+}
+
+/* ------------------------------------------------------------ top bar */
+.top {
+  position: relative;
+  z-index: 3;
+  width: min(1000px, 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  min-height: 44px;
+}
+.brand {
+  font-family: var(--sc);
+  font-size: 32px;
+  letter-spacing: 0.08em;
+  color: #d9cfbd;
+  text-shadow: 0 0 1px #000, 2px 0 rgba(142, 18, 9, 0.55), -2px 0 rgba(159, 227, 210, 0.25);
+  background: none;
+  border: 0;
+  padding: 0;
+}
+.brand em { font-style: normal; color: var(--blood-hi); text-shadow: 0 0 18px rgba(195, 25, 12, 0.8); }
+.right { display: flex; align-items: center; gap: 22px; }
+.score { font-size: 15px; letter-spacing: 0.06em; opacity: 0.8; }
+.score b { color: var(--blood-hi); font-weight: 600; }
+
+/* ------------------------------------------------------------ main area */
+.main {
+  position: relative;
+  z-index: 3;
+  width: min(1000px, 100%);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.stage {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: start;
+}
+.label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.22em; opacity: 0.4; margin: 0 0 10px 4px; }
+@media (max-width: 800px) { .stage { grid-template-columns: 1fr; } }
+
+/* ------------------------------------------------------------ footer */
+.foot {
+  position: relative;
+  z-index: 3;
+  width: min(1000px, 100%);
+  margin-top: 34px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 14px;
+  opacity: 0.5;
+  font-style: italic;
+}
+.candle {
+  display: inline-block;
+  width: 8px;
+  height: 14px;
+  border-radius: 50% 50% 45% 45%;
+  background: radial-gradient(circle at 50% 70%, #fff3c4, #e9a24a 60%, transparent 70%);
+  margin-right: 8px;
+  vertical-align: -1px;
+}
+
+/* ------------------------------------------------------------ title and mode screens */
+.title-screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 18px;
+  padding: 40px 0;
+}
+.title-screen h1 {
+  font-family: var(--sc);
+  font-weight: 400;
+  font-size: clamp(54px, 10vw, 104px);
+  letter-spacing: 0.06em;
+  margin: 0;
+  color: #d9cfbd;
+  text-shadow: 0 0 1px #000, 3px 0 rgba(142, 18, 9, 0.55), -3px 0 rgba(159, 227, 210, 0.25);
+}
+.title-screen h1 em { font-style: normal; color: var(--blood-hi); text-shadow: 0 0 26px rgba(195, 25, 12, 0.8); }
+.lede { max-width: 620px; font-size: 20px; line-height: 1.55; margin: 0; opacity: 0.85; }
+.lede i { font-family: var(--fell); }
+.small { font-size: 15px; opacity: 0.55; font-style: italic; max-width: 560px; line-height: 1.5; margin: 0; }
+
+.enter {
+  margin-top: 18px;
+  padding: 16px 40px;
+  font-family: var(--sc);
+  font-size: 24px;
+  letter-spacing: 0.16em;
+  background: rgba(10, 30, 28, 0.85);
+  color: var(--wraith);
+  border: 1px solid rgba(159, 227, 210, 0.35);
+  box-shadow: 0 0 30px rgba(159, 227, 210, 0.3), 0 6px 0 #000;
+  text-shadow: 0 0 10px rgba(159, 227, 210, 0.8);
+}
+.enter:hover { box-shadow: 0 0 44px rgba(159, 227, 210, 0.45), 0 6px 0 #000; }
+
+.modes { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; width: 100%; margin-top: 10px; }
+@media (max-width: 800px) { .modes { grid-template-columns: 1fr; } }
+.mode-card { text-align: left; border: 0; }
+.mode-card .head { font-size: 40px; }
+.mode-card .def { font-size: 19px; }
+.mode-card:hover { filter: brightness(1.06); }
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 17px;
+  margin-top: 26px;
+  background: none;
+  border: 0;
+  opacity: 0.85;
+}
+.toggle .box {
+  width: 18px;
+  height: 18px;
+  border: 1px solid var(--wraith);
+  display: grid;
+  place-items: center;
+  color: var(--wraith);
+  font-size: 14px;
+  line-height: 1;
+}
+
+.error-box {
+  margin: 30px auto;
+  max-width: 620px;
+  padding: 18px 22px;
+  border: 1px solid rgba(195, 25, 12, 0.5);
+  background: rgba(40, 5, 3, 0.5);
+  line-height: 1.5;
+}
+.error-box code { color: var(--wraith); }
+
+.waiting { font-style: italic; opacity: 0.6; text-align: center; margin-top: 10px; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
