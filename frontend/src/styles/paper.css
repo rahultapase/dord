@@ -103,7 +103,6 @@
 /* ------------------------------------------------------------ the reveal */
 .verdict { font-family: var(--sc); font-size: 15px; letter-spacing: 0.24em; color: var(--blood); margin-bottom: 6px; }
 .verdict.real-v { color: var(--ink); }
-.faded { opacity: 0.22; filter: blur(0.8px); text-decoration: line-through; text-decoration-color: rgba(142, 18, 9, 0.8); }
 .stamp {
   position: absolute;
   right: 22px;

@@ -1,0 +1,224 @@
+/* The haunting: fog, eyes, grain, vignette, blackouts, and every animation in the game.
+   Layers (position: fixed): fog-back / fog-mid / eyes (z 1-2, behind the cards), the page (z 3),
+   fog-front and vignette (z 4), grain (z 5), blackout (z 7). */
+
+/* ------------------------------------------------------------ the room */
+/* .atmos itself is not positioned, so its layers join the page's stacking order. */
+.atmos > * { position: fixed; pointer-events: none; }
+
+.fog { left: -30%; right: -30%; filter: blur(26px); }
+.fog-back {
+  bottom: -12%;
+  height: 72vh;
+  z-index: 1;
+  background:
+    radial-gradient(45% 50% at 25% 75%, rgba(159, 227, 210, 0.09), transparent 70%),
+    radial-gradient(40% 45% at 70% 65%, rgba(159, 227, 210, 0.07), transparent 70%),
+    radial-gradient(30% 40% at 50% 40%, rgba(111, 168, 160, 0.05), transparent 70%);
+  animation: drift 38s ease-in-out infinite alternate;
+}
+.fog-mid {
+  bottom: 8%;
+  height: 40vh;
+  z-index: 1;
+  background:
+    radial-gradient(35% 45% at 60% 60%, rgba(159, 227, 210, 0.07), transparent 70%),
+    radial-gradient(30% 40% at 20% 50%, rgba(159, 227, 210, 0.05), transparent 70%);
+  animation: drift-back 26s ease-in-out infinite alternate, breathe 11s ease-in-out infinite;
+}
+.fog-front {
+  bottom: -90px;
+  height: 260px;
+  z-index: 4;
+  background:
+    radial-gradient(60% 60% at 30% 70%, rgba(159, 227, 210, 0.13), transparent 70%),
+    radial-gradient(50% 60% at 75% 80%, rgba(159, 227, 210, 0.1), transparent 70%);
+  filter: blur(18px);
+  animation: drift 22s linear infinite alternate;
+}
+
+.eyes { display: flex; gap: 14px; z-index: 2; }
+.eyes i {
+  width: 9px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--blood-hi);
+  box-shadow: 0 0 12px 3px rgba(195, 25, 12, 0.7);
+}
+.eyes.e1 { top: 16%; right: 7%; animation: blink 7s infinite; }
+.eyes.e2 { top: 62%; left: 6%; transform: scale(0.7); animation: blink 9.5s 3.4s infinite; }
+.eyes.e3 { top: 34%; left: 2.5%; gap: 18px; transform: scale(1.15); opacity: 0; animation: lurk 23s 6s infinite; }
+
+.vignette {
+  inset: 0;
+  z-index: 4;
+  background: radial-gradient(ellipse 75% 70% at 50% 45%, transparent 50%, rgba(0, 0, 0, 0.55) 82%, rgba(0, 0, 0, 0.92) 100%);
+  animation: breathe 9s ease-in-out infinite;
+}
+
+.grain {
+  inset: -50%;
+  z-index: 5;
+  opacity: 0.13;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  animation: grain 0.5s steps(4) infinite;
+}
+
+.blackout { inset: 0; z-index: 7; background: #000; opacity: 0; }
+.blackout.flicker { animation: flicker-out 0.9s linear forwards; }
+.blackout.dark { animation: lights-out 0.95s linear forwards; }
+
+/* ------------------------------------------------------------ top bar, title, footer */
+.sound {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  background: transparent;
+  border: 1px solid rgba(159, 227, 210, 0.35);
+  box-shadow: 0 0 18px rgba(159, 227, 210, 0.18) inset;
+}
+.sound svg { width: 20px; height: 20px; stroke: var(--wraith); stroke-width: 1.6; }
+.sound[aria-pressed="false"] { border-color: rgba(207, 198, 180, 0.25); box-shadow: none; }
+.sound[aria-pressed="false"] svg { stroke: rgba(207, 198, 180, 0.6); }
+.sound:hover { box-shadow: 0 0 22px rgba(159, 227, 210, 0.3) inset; }
+
+.brand { animation: glitch 6s infinite; }
+.glitch { animation: glitch 5s 2.5s infinite; }
+.candle { animation: candle 1.3s infinite; }
+.hint { font-size: 13px; opacity: 0.4; }
+
+/* ------------------------------------------------------------ question card */
+.whisper-line {
+  margin: 18px 0 0 34px;
+  font-style: italic;
+  font-size: 16px;
+  color: var(--wraith);
+  text-shadow: 0 0 12px rgba(159, 227, 210, 0.6);
+}
+.option { transition: opacity 0.9s ease, filter 0.9s ease, background 0.2s; }
+.option.false { filter: blur(0.4px); }
+
+/* ------------------------------------------------------------ the reveal */
+.reveal-wrap { position: relative; }
+.stage.shake { animation: screen-shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) 0.42s both; }
+.card.reveal.hit { animation: tremor 6s 3s infinite; }
+
+.wraith {
+  position: absolute;
+  left: 50%;
+  top: -40px;
+  width: 220px;
+  height: 250px;
+  margin-left: -110px;
+  z-index: 4;
+  pointer-events: none;
+  background: radial-gradient(40% 32% at 50% 30%, rgba(200, 255, 240, 0.85), rgba(159, 227, 210, 0.15) 60%, transparent 72%);
+  border-radius: 50% 50% 40% 40%;
+  filter: blur(10px);
+  mix-blend-mode: screen;
+  opacity: 0;
+  animation: rise 4.5s ease-in-out 0.5s 2 both;
+}
+.wraith::before, .wraith::after {
+  content: "";
+  position: absolute;
+  top: 24%;
+  width: 16px;
+  height: 22px;
+  border-radius: 50%;
+  background: #020202;
+  filter: blur(2px);
+}
+.wraith::before { left: 36%; }
+.wraith::after { right: 36%; }
+
+.stamp .drips {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  top: 100%;
+  height: 0;
+  transform: rotate(13deg);
+  transform-origin: top center;
+}
+.stamp .drips i {
+  position: absolute;
+  top: -2px;
+  width: 4px;
+  height: 0;
+  border-radius: 0 0 3px 3px;
+  background: linear-gradient(var(--blood), #5c0b05);
+  animation: drip 4s ease-in infinite both;
+}
+
+.dissolve span { display: inline-block; }
+.ink-wrap { position: relative; }
+.ink-blot {
+  position: absolute;
+  left: -24px;
+  top: -28px;
+  width: 280px;
+  height: 110px;
+  border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(22, 13, 8, 0.85), rgba(22, 13, 8, 0.35) 60%, transparent);
+  filter: blur(7px);
+  mix-blend-mode: multiply;
+  transform-origin: 20% 50%;
+  pointer-events: none;
+}
+.ink-wrap .head { position: relative; }
+
+/* ------------------------------------------------------------ summon */
+.summon { display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top: 30px; width: 100%; }
+.summon-btn { font-size: 20px; padding: 12px 30px; margin-top: 0; }
+.summon-btn:disabled { opacity: 0.5; cursor: default; }
+.summon-result { width: min(580px, 100%); text-align: left; margin-top: 16px; }
+.summon-card .def.small-def { font-size: 19px; font-style: italic; }
+.summon-card .def.small-def::first-letter { font: inherit; float: none; margin: 0; color: inherit; }
+.summon-card .entry { margin: 8px 0; }
+.summon-error { color: var(--blood-hi); font-style: italic; }
+.head.ghostly { animation: haunt 4s ease-in-out 1.2s infinite alternate; }
+
+/* ------------------------------------------------------------ finale */
+.dord span { display: inline-block; }
+.slip {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  margin-top: 12px;
+  opacity: 0.8;
+}
+.slip b { color: var(--blood); }
+
+/* ------------------------------------------------------------ keyframes */
+@keyframes grain { 0% { transform: translate(0, 0); } 25% { transform: translate(-3%, 2%); } 50% { transform: translate(2%, -3%); } 75% { transform: translate(-2%, -1%); } 100% { transform: translate(1%, 3%); } }
+@keyframes drift { from { transform: translateX(-4%); } to { transform: translateX(6%); } }
+@keyframes drift-back { from { transform: translateX(5%); } to { transform: translateX(-5%); } }
+@keyframes breathe { 0%, 100% { opacity: 1; } 50% { opacity: 0.8; } }
+@keyframes blink { 0%, 46%, 50%, 100% { opacity: 1; } 47%, 49% { opacity: 0; } 70%, 74% { opacity: 0; } }
+@keyframes lurk { 0%, 80%, 100% { opacity: 0; } 84%, 88%, 92% { opacity: 0.95; } 86%, 90% { opacity: 0; } }
+@keyframes glitch { 0%, 90%, 100% { transform: none; } 91% { transform: translateX(2px) skewX(6deg); } 92% { transform: translateX(-3px); } 93% { transform: none; } }
+@keyframes candle { 0%, 100% { opacity: 1; } 40% { opacity: 0.7; } 44% { opacity: 0.35; } 48% { opacity: 0.9; } 72% { opacity: 0.6; } }
+@keyframes flicker-out { 0% { opacity: 0; } 8% { opacity: 0.85; } 16% { opacity: 0.1; } 26% { opacity: 0.7; } 40% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes lights-out { 0% { opacity: 0; } 6% { opacity: 0.94; } 38% { opacity: 0.94; } 46% { opacity: 0.3; } 54% { opacity: 0.8; } 100% { opacity: 0; } }
+@keyframes screen-shake {
+  10%, 90% { transform: translate(-1px, 0); }
+  20%, 80% { transform: translate(3px, 1px) rotate(0.15deg); }
+  30%, 50%, 70% { transform: translate(-6px, -1px) rotate(-0.25deg); }
+  40%, 60% { transform: translate(6px, 1px) rotate(0.25deg); }
+}
+@keyframes tremor { 0%, 96%, 100% { transform: rotate(0.7deg); } 97% { transform: rotate(0.2deg) translateX(-2px); } 98% { transform: rotate(1.1deg) translateX(2px); } }
+@keyframes rise { 0% { transform: translateY(40px) scale(0.85); opacity: 0; } 35% { opacity: 0.9; } 100% { transform: translateY(-80px) scale(1.15); opacity: 0; } }
+@keyframes rise-still { 0%, 100% { opacity: 0; } 40% { opacity: 0.7; } }
+@keyframes haunt { from { opacity: 1; filter: blur(0); } to { opacity: 0.55; filter: blur(1.2px); letter-spacing: 0.06em; } }
+@keyframes drip { 0% { height: 0; opacity: 1; } 70% { height: 38px; opacity: 1; } 100% { height: 44px; opacity: 0; } }
+
+/* No shake, no flicker, no blackout, nothing drifting for people who ask for less motion. */
+@media (prefers-reduced-motion: reduce) {
+  .stage.shake, .card.reveal.hit, .blackout, .brand, .glitch, .grain, .fog, .vignette, .candle { animation: none !important; }
+  .blackout { display: none; }
+  .wraith { animation: rise-still 4s ease-in-out 0.5s 1 both; }
+}

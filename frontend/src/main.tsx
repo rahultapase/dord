@@ -9,6 +9,7 @@ import '@fontsource/eb-garamond/400-italic.css'
 import '@fontsource/eb-garamond/600.css'
 import './styles/base.css'
 import './styles/paper.css'
+import './styles/keyframes.css'
 import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
